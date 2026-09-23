@@ -2,6 +2,13 @@
 
 Local annotation portal for independent review of the SuperMemory-VQA QA labels.
 
+
+## Demo Video
+
+Watch Demo Here: 
+[Video Link](https://drive.google.com/file/d/1AINLujV1hYkQoH3jxfXgftv4Qv2oz0nI/view?usp=drive_link)
+
+
 ## Run
 
 Requirements: Python 3.10+ and `ffmpeg`/`ffprobe` on `PATH`. The portal itself uses only the Python standard library.
