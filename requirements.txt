@@ -1,0 +1,5 @@
+# Python 3.10+ is required.
+# The portal has no third-party Python package dependencies.
+# Video playback requires the ffmpeg and ffprobe executables on PATH.
+# Install FFmpeg separately; pip install -r requirements.txt cannot install it.
+# On Windows, add the folder containing ffmpeg.exe and ffprobe.exe to PATH.

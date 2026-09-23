@@ -461,8 +461,8 @@ function chooseRecording(videoId) {
   const timeline = document.querySelector('#timeline'); timeline.max = Math.max(0, r.allowed_until-.3); timeline.value = 0;
   document.querySelector('#timeline-end').textContent = clock(r.allowed_until);
   document.querySelector('#position-label').textContent = `0:00 / ${clock(r.allowed_until)}`;
-  document.querySelector('#video-status').textContent = r.video_available ? 'Select a point to load video.' : 'Video file is not yet present locally.';
-  document.querySelector('#video-placeholder').innerHTML = r.video_available ? '<strong>Ready to inspect</strong>Press Play from here or select a point on the timeline.' : '<strong>Video pending</strong>The transcript remains available if present.';
+  document.querySelector('#video-status').textContent = r.video_available ? 'Select a point to load video.' : (r.video_error || 'Video file is not yet present locally.');
+  document.querySelector('#video-placeholder').innerHTML = r.video_available ? '<strong>Ready to inspect</strong>Press Play from here or select a point on the timeline.' : `<strong>Video unavailable</strong>${esc(r.video_error || 'The video file is not yet present locally. The transcript remains available if present.')}`;
   document.querySelector('#transcript-source').textContent = r.transcript_available ? 'Time-aligned to this recording' : '';
   if (r.transcript_available) refreshTranscript(0);
   else document.querySelector('#transcript').innerHTML = '<div class="transcript-empty">No redacted transcript file is available for this recording.</div>';

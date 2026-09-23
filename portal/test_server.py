@@ -9,6 +9,7 @@ import unittest
 import urllib.error
 import urllib.request
 from pathlib import Path
+from unittest import mock
 
 from portal import server
 
@@ -116,6 +117,38 @@ class PortalTests(unittest.TestCase):
         self.assertEqual(status, 200)
         self.assertGreater(len(result["rows"]), 0)
         self.assertTrue(all(row["end"] <= recording["allowed_until"] - server.SAFETY_SECONDS for row in result["rows"]))
+
+    def test_missing_ffmpeg_tools_keep_questions_available(self):
+        with tempfile.TemporaryDirectory() as directory:
+            video_id = "Person_9_session_99_04112026_glasses_1283"
+            root = Path(directory)
+            video = root / "video" / "Person_9" / f"{video_id}.mp4"
+            video.parent.mkdir(parents=True)
+            video.write_bytes(b"local video file")
+            transcript = root / "transcripts" / "person_9" / f"{video_id.lower()}_whisper_transcript.json"
+            transcript.parent.mkdir(parents=True)
+            transcript.write_text("[]", encoding="utf-8")
+            item = {"question_id": 9999, "subject": 9, "question": "Example?", "choices": ["Yes", "No"],
+                    "video_ids": [video_id], "start_time": 1000,
+                    "question_evidence": {"time_spans": [{"video_id": video_id,
+                        "video_start_time_unix": 1000, "start_time": 5}]}}
+            with mock.patch.object(server, "DATA", root), \
+                 mock.patch.dict(server.VIDEO_STARTS, {video_id: 1000}), \
+                 mock.patch("portal.server.shutil.which", return_value=None):
+                question = server.public_question(item)
+                recording = question["recordings"][0]
+                self.assertFalse(recording["video_available"])
+                self.assertTrue(recording["transcript_available"])
+                self.assertIn("ffprobe", recording["video_error"])
+                self.assertIn("ffmpeg", recording["video_error"])
+                with self.assertRaises(server.MediaToolUnavailable):
+                    server.clipped_media(item, video_id, 0)
+
+        client = self.client("missing-tool-check")
+        with mock.patch("portal.server.clipped_media", side_effect=server.MediaToolUnavailable("Install FFmpeg")):
+            status, response = self.request(client, "/api/questions/4231/media/Person_9_session_1_04112026_glasses_1283?segment=0")
+        self.assertEqual(status, 503)
+        self.assertEqual(response["error"], "Install FFmpeg")
 
     def test_actual_media_clip_stops_before_cutoff(self):
         with tempfile.TemporaryDirectory() as directory:

@@ -14,6 +14,7 @@ import math
 import os
 import re
 import secrets
+import shutil
 import sqlite3
 import subprocess
 import sys
@@ -50,6 +51,19 @@ EVIDENCE = {
 }
 VIDEO_ID = re.compile(r"^Person_(10|[1-9])_session_\d+_\d{8}_glasses_[A-Za-z0-9]+$")
 SESSION_COOKIE = "smvqa_session"
+
+
+class MediaToolUnavailable(RuntimeError):
+    pass
+
+
+def missing_media_tools():
+    return [tool for tool in ("ffprobe", "ffmpeg") if shutil.which(tool) is None]
+
+
+def media_tool_message(tools):
+    return (f"Video playback needs {', '.join(tools)} on PATH. Install FFmpeg, "
+            "then restart the terminal and portal.")
 
 
 def now_iso():
@@ -153,10 +167,13 @@ def video_duration(path):
     with PROBE_LOCK:
         if key in PROBE_CACHE:
             return PROBE_CACHE[key]
-    result = subprocess.run(
-        ["ffprobe", "-v", "error", "-show_entries", "format=duration",
-         "-of", "default=noprint_wrappers=1:nokey=1", str(path)],
-        capture_output=True, text=True, timeout=30, check=False)
+    try:
+        result = subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration",
+             "-of", "default=noprint_wrappers=1:nokey=1", str(path)],
+            capture_output=True, text=True, timeout=30, check=False)
+    except OSError as exc:
+        raise MediaToolUnavailable(media_tool_message(["ffprobe"])) from exc
     try:
         duration = float(result.stdout.strip()) if result.returncode == 0 else None
         if duration is not None and (not math.isfinite(duration) or duration <= 0):
@@ -214,13 +231,20 @@ def eligible_recordings(item):
         path = video_path(video_id, person)
         if start is None or start >= cutoff or path is None:
             continue
-        duration = video_duration(path)
+        missing = missing_media_tools() if path.is_file() else []
+        tool_error = media_tool_message(missing) if missing else None
+        try:
+            duration = video_duration(path) if not missing else None
+        except MediaToolUnavailable as exc:
+            duration = None
+            tool_error = str(exc)
         max_time = min(duration, cutoff - start) if duration is not None else cutoff - start
         if max_time <= 0:
             continue
         result.append({
             "video_id": video_id, "recording_start_unix": start,
-            "allowed_until": round(max_time, 3), "video_available": duration is not None,
+            "allowed_until": round(max_time, 3), "video_available": duration is not None and not tool_error,
+            "video_error": tool_error,
             "transcript_available": transcript_path(video_id, person) is not None,
         })
     return sorted(result, key=lambda row: (row["recording_start_unix"], row["video_id"]))
@@ -332,6 +356,8 @@ def prune_cache():
 
 def clipped_media(item, video_id, segment):
     recording = next((r for r in eligible_recordings(item) if r["video_id"] == video_id), None)
+    if recording and recording["video_error"]:
+        raise MediaToolUnavailable(recording["video_error"])
     if recording is None or not recording["video_available"]:
         raise FileNotFoundError("Recording is unavailable or outside the review cutoff")
     if not isinstance(segment, int) or segment < 0:
@@ -360,7 +386,10 @@ def clipped_media(item, video_id, segment):
             "-b:a", "96k", "-movflags", "+faststart", str(tmp),
         ]
         try:
-            result = subprocess.run(command, capture_output=True, text=True, timeout=300, check=False)
+            try:
+                result = subprocess.run(command, capture_output=True, text=True, timeout=300, check=False)
+            except OSError as exc:
+                raise MediaToolUnavailable(media_tool_message(["ffmpeg"])) from exc
             if result.returncode or not tmp.is_file() or not tmp.stat().st_size:
                 raise RuntimeError("Could not prepare this video segment: " + result.stderr[-500:])
             os.replace(tmp, target)
@@ -529,6 +558,9 @@ class PortalHandler(BaseHTTPRequestHandler):
         except FileNotFoundError as exc:
             self.error_json(404, str(exc))
             return
+        except MediaToolUnavailable as exc:
+            self.error_json(503, str(exc))
+            return
         size = path.stat().st_size
         range_header = self.headers.get("Range")
         start, end = 0, size - 1
@@ -666,6 +698,9 @@ def main():
     parser.add_argument("--port", type=int, default=8765)
     args = parser.parse_args()
     init_db()
+    missing = missing_media_tools()
+    if missing:
+        print("Warning: " + media_tool_message(missing), file=sys.stderr, flush=True)
     server = ThreadingHTTPServer((args.host, args.port), PortalHandler)
     print(f"Review portal: http://{args.host}:{args.port}", flush=True)
     try:

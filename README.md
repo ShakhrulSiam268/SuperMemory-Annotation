@@ -11,7 +11,18 @@ Watch Demo Here:
 
 ## Run
 
-Requirements: Python 3.10+ and `ffmpeg`/`ffprobe` on `PATH`. The portal itself uses only the Python standard library.
+Requirements: Python 3.10+ and `ffmpeg`/`ffprobe` on `PATH`. See [`requirements.txt`](requirements.txt). The portal itself uses only the Python standard library, so `pip install -r requirements.txt` has no packages to install. Install FFmpeg through your operating system's package manager.
+
+On Windows, download a build from the [FFmpeg download page](https://ffmpeg.org/download.html#build-windows), extract it, and add its `bin` folder (containing `ffmpeg.exe` and `ffprobe.exe`) to your user or system `PATH`. Open a **new** PowerShell window and check:
+
+```powershell
+where.exe ffmpeg
+where.exe ffprobe
+ffmpeg -version
+ffprobe -version
+```
+
+Then restart the portal. If either `where.exe` command finds nothing, video playback cannot work yet. The QA page and transcripts still load, and the portal displays the missing-tool message beside the player.
 
 ```sh
 python portal/server.py --port 9876
