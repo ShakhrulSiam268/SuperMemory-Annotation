@@ -14,6 +14,8 @@ Open <http://127.0.0.1:9876>. Enter a reviewer name and a passphrase of at least
 
 The server reads QA from `data/json/all_qa.json`, redacted transcripts from `data/transcripts/person_N`, and video from `data/video/Person_N`. Videos are deliberately excluded from this GitHub repository. Place the MP4 files from the [SuperMemory-VQA dataset](https://huggingface.co/datasets/OSU-AIoT-MLSys-Lab/SuperMemory-VQA/tree/main/data/video) under `data/video/Person_N` to enable playback. Missing video is shown as unavailable; available transcripts can still be reviewed.
 
+The bundled QA JSON and redacted transcripts come from [OSU-AIoT-MLSys-Lab/SuperMemory-VQA](https://huggingface.co/datasets/OSU-AIoT-MLSys-Lab/SuperMemory-VQA), which lists the data license as [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ## Review data
 
 Drafts autosave after edits and can also be saved manually. Submission requires clarity, answerability, evidence correctness, and a predicted choice. Submitted reviews are locked. Records are stored in `var/reviews.sqlite3`, keyed by reviewer and question, with version, status, timestamps, and a JSON review payload. Media clips are cached under `var/media_cache`; the cache is disposable and bounded to about 2 GiB. Set `SUPERMEMORY_PORTAL_STATE_DIR` to move the database and cache.
