@@ -1,0 +1,74 @@
+[
+  {
+    "start": 68.24200000000019,
+    "end": 69.82899999999972,
+    "text": "Your card?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 107.5570000000007,
+    "end": 108.33799999999974,
+    "text": "How many cards do you have?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 108.35800000000017,
+    "end": 108.45800000000054,
+    "text": "Five?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 108.47799999999916,
+    "end": 108.69800000000032,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 108.71800000000076,
+    "end": 128.13500000000022,
+    "text": "Did it make her?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 217.26800000000003,
+    "end": 217.91400000000067,
+    "text": "It's too late.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 261.241,
+    "end": 263.4220000000005,
+    "text": "So we have actually divided our task.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 263.78199999999924,
+    "end": 266.84399999999914,
+    "text": "My task is to align, his task is to block.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 267.72400000000016,
+    "end": 269.02499999999964,
+    "text": "He literally blocks everything.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 269.0849999999991,
+    "end": 283.7520000000004,
+    "text": "I think we're recording in town as well.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 309.3799999999992,
+    "end": 310.0759999999991,
+    "text": "You're welcome.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 367.97799999999916,
+    "end": 368.5609999999997,
+    "text": "Let's continue.",
+    "speaker": "SPEAKER_02"
+  }
+]

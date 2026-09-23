@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 39,
+    "timing_counts": {
+      "whisper_exact_match": 0,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 0,
+      "inferred_before_first_anchor": 0,
+      "inferred_after_last_anchor": 0,
+      "caption_segment_evenly_distributed": 12,
+      "caption_segment_inferred": 27
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {},
+      "primary_whisper_speaker_by_person": {},
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "caption_metadata": {
+      "video_id": "",
+      "video_path": "",
+      "duration": null,
+      "start_time": null
+    }
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "person": "User",
+      "text": "Okay, yeah, I'll start cleaning the house.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 10.0,
+      "end": 45.0,
+      "person": "User",
+      "text": "I'll have to grind the... grind the lentils after I am done cleaning.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 120.0,
+      "end": 145.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 145.0,
+      "end": 168.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 168.0,
+      "end": 188.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 188.0,
+      "end": 201.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 201.0,
+      "end": 216.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 216.0,
+      "end": 232.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 232.0,
+      "end": 241.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 241.0,
+      "end": 255.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 255.0,
+      "end": 288.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 288.0,
+      "end": 320.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 320.0,
+      "end": 327.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 327.0,
+      "end": 334.0,
+      "person": null,
+      "text": "[Trash can lid opens]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 334.0,
+      "end": 341.0,
+      "person": null,
+      "text": "[Dustpan tapping against trash can]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 341.0,
+      "end": 348.0,
+      "person": null,
+      "text": "[Trash can lid closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 348.0,
+      "end": 361.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 361.0,
+      "end": 366.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 366.0,
+      "end": 372.0,
+      "person": null,
+      "text": "[Trash can lid opens and closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 372.0,
+      "end": 381.5,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 381.5,
+      "end": 391.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 391.0,
+      "end": 441.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 441.0,
+      "end": 450.5,
+      "person": null,
+      "text": "[Door opening]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 450.5,
+      "end": 460.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 460.0,
+      "end": 467.0,
+      "person": null,
+      "text": "[Door opening]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 467.0,
+      "end": 474.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 474.0,
+      "end": 481.0,
+      "person": null,
+      "text": "[Door closing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 600.0,
+      "end": 634.0,
+      "person": null,
+      "text": "[Dustpan tapping against trash can]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 634.0,
+      "end": 642.0,
+      "person": "User",
+      "text": "Okay, I'm done more or less.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 642.0,
+      "end": 650.0,
+      "person": "User",
+      "text": "With sweeping the house.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 650.0,
+      "end": 657.333,
+      "person": "User",
+      "text": "Done more or less sweeping the house.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 657.333,
+      "end": 664.667,
+      "person": "User",
+      "text": "Still some dirt left.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 664.667,
+      "end": 672.0,
+      "person": null,
+      "text": "[Sweeping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 672.0,
+      "end": 689.0,
+      "person": null,
+      "text": "[Dustpan tapping against trash can]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 689.0,
+      "end": 695.5,
+      "person": "User",
+      "text": "How long has it been?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 695.5,
+      "end": 702.0,
+      "person": "User",
+      "text": "Eleven minutes. Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 702.0,
+      "end": 721.0,
+      "person": "User",
+      "text": "So far...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 735.0,
+      "end": 755.0,
+      "person": "User",
+      "text": "Okay, I'm done. One last bit sweeping.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 755.0,
+      "end": 775.0,
+      "person": "User",
+      "text": "Next I'll fold the clothes, right.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    }
+  ]
+}

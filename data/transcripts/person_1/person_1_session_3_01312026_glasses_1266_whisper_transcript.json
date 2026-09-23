@@ -1,0 +1,824 @@
+[
+  {
+    "start": 127.9970000000003,
+    "end": 129.71799999999985,
+    "text": "So you mentioned I need to fry something.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 129.7579999999998,
+    "end": 130.51900000000023,
+    "text": "What are those?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 132.3810000000003,
+    "end": 135.70300000000043,
+    "text": "So, fry the spice first.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 135.72299999999996,
+    "end": 150.77599999999984,
+    "text": "The bay leaves, the cloves, cardamom, everything.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 150.79600000000028,
+    "end": 151.27599999999984,
+    "text": "Bay leaves.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 155.9399999999996,
+    "end": 156.36099999999988,
+    "text": "Cardamom.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 167.29899999999998,
+    "end": 167.76000000000022,
+    "text": "Gloves, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 167.8199999999997,
+    "end": 170.98400000000038,
+    "text": "Yeah, we need gloves.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 172.70600000000013,
+    "end": 173.96799999999985,
+    "text": "We need around eight gloves.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 174.02800000000025,
+    "end": 179.17399999999998,
+    "text": "And we need some...",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 179.21399999999994,
+    "end": 180.9359999999997,
+    "text": "It's not easy, right?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 180.95600000000013,
+    "end": 183.77999999999975,
+    "text": "I don't know if that's enough.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 199.8199999999997,
+    "end": 200.30199999999968,
+    "text": "What is this?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 200.32200000000012,
+    "end": 203.21500000000015,
+    "text": "This is the regular jeera.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 203.23499999999967,
+    "end": 203.73700000000008,
+    "text": "Do I need this?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 231.2489999999998,
+    "end": 247.67399999999998,
+    "text": "I just eyeball it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 247.69400000000041,
+    "end": 248.79399999999987,
+    "text": "Where is the ground nutmeg?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 252.7550000000001,
+    "end": 254.4359999999997,
+    "text": "One-fourth.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 274.6099999999997,
+    "end": 279.134,
+    "text": "Anything else?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 279.15400000000045,
+    "end": 285.2399999999998,
+    "text": "What about the other one that we got?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 285.2600000000002,
+    "end": 289.3829999999998,
+    "text": "This one?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 289.40300000000025,
+    "end": 290.3040000000001,
+    "text": "Star anise?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 290.6840000000002,
+    "end": 296.90999999999985,
+    "text": "Just one piece?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 296.97000000000025,
+    "end": 298.09100000000035,
+    "text": "I got so many, man.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 305.21100000000024,
+    "end": 313.3159999999998,
+    "text": "I'm using at least three because I need to make my money's worth.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 325.1239999999998,
+    "end": 327.326,
+    "text": "How long should I fry it for?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 327.3860000000004,
+    "end": 329.8270000000002,
+    "text": "Okay.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 373.0010000000002,
+    "end": 376.66100000000006,
+    "text": "If you need to connect it to update the OS.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 404.72000000000025,
+    "end": 409.6409999999996,
+    "text": "I think you should collect the marination items first.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 409.66100000000006,
+    "end": 415.90300000000025,
+    "text": "To marinate the chicken.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 415.9229999999998,
+    "end": 418.10300000000007,
+    "text": "Don't we need onions for our one?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 418.20300000000043,
+    "end": 422.5039999999999,
+    "text": "Yeah, we need onions.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 422.54399999999987,
+    "end": 425.02499999999964,
+    "text": "I think this one is fine for marinating.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 484.817,
+    "end": 487.9970000000003,
+    "text": "Do we need to include anything here?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 488.0569999999998,
+    "end": 501.9409999999998,
+    "text": "You have to connect it to the power.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 671.3329999999996,
+    "end": 676.8940000000002,
+    "text": "I think my blender will not be able to grind it to a fine powder.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 676.9539999999997,
+    "end": 678.6750000000002,
+    "text": "It's fine, we'll just do it like it is.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 678.7150000000001,
+    "end": 685.7969999999996,
+    "text": "I think that's fine.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 685.8770000000004,
+    "end": 686.9970000000003,
+    "text": "It should work out.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 687.0370000000003,
+    "end": 689.3379999999997,
+    "text": "Let me start with the...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 690.5550000000003,
+    "end": 693.9570000000003,
+    "text": "In that case, I'll start with the marination.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 693.9769999999999,
+    "end": 696.3789999999999,
+    "text": "Since this will take one hour, we should do it quickly.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 696.4390000000003,
+    "end": 709.3680000000004,
+    "text": "Yeah, you can do that.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 746.4930000000004,
+    "end": 754.0969999999998,
+    "text": "Did we need to add cardarocini, cinnamon in this stage?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 754.1170000000002,
+    "end": 755.9780000000001,
+    "text": "No, in the blender?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 757.3789999999999,
+    "end": 760.0609999999997,
+    "text": "No, I think you can use it with 20 minutes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 800.0540000000001,
+    "end": 801.4889999999996,
+    "text": "Thank you for watching!",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 851.9769999999999,
+    "end": 871.3909999999996,
+    "text": "Do you know what the marinades are?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 871.4110000000001,
+    "end": 875.1540000000005,
+    "text": "Yes, so you need to... Salt?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 875.174,
+    "end": 878.7969999999996,
+    "text": "Salt, yeah.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 878.817,
+    "end": 881.6189999999997,
+    "text": "Ginger garlic paste, and I think you need to use the yogurt",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 903.8370000000004,
+    "end": 905.1180000000004,
+    "text": "One tablespoon, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 914.6450000000004,
+    "end": 922.3670000000002,
+    "text": "I think you can do the marination thing.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 922.4269999999997,
+    "end": 930.2479999999996,
+    "text": "I think we can both do the marination together.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 930.268,
+    "end": 934.4089999999997,
+    "text": "I think the first order of business would be to get everything.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 934.6689999999999,
+    "end": 937.7690000000002,
+    "text": "Have you cut the chicken with knife?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 937.8100000000004,
+    "end": 939.3900000000003,
+    "text": "No.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 939.4300000000003,
+    "end": 940.3699999999999,
+    "text": "Cut it using this.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 975.7250000000004,
+    "end": 977.2259999999997,
+    "text": "I can use my entire garlic here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 978.2259999999997,
+    "end": 981.2479999999996,
+    "text": "I should use my entire garlic.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 981.268,
+    "end": 982.009,
+    "text": "Did you wash your hands?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 982.049,
+    "end": 982.1890000000003,
+    "text": "Yes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 982.2089999999998,
+    "end": 983.1890000000003,
+    "text": "Garlic paste.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 983.2089999999998,
+    "end": 994.4560000000001,
+    "text": "Did you do all of them?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1009.9440000000004,
+    "end": 1028.4279999999999,
+    "text": "You should also dry the knife.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1028.4679999999998,
+    "end": 1028.9679999999998,
+    "text": "Sorry?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1029.9080000000004,
+    "end": 1033.129,
+    "text": "You should also dry the knife like with the tissue.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1036.4040000000005,
+    "end": 1039.585,
+    "text": "Is lime also need to be used here?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1039.6049999999996,
+    "end": 1040.5460000000003,
+    "text": "Yes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1040.5659999999998,
+    "end": 1042.5870000000004,
+    "text": "Lime and yogurt.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1042.647,
+    "end": 1043.987,
+    "text": "Lime and yogurt?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1044.027,
+    "end": 1047.0280000000002,
+    "text": "Yes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1047.0879999999997,
+    "end": 1051.67,
+    "text": "Is the entirety of this yogurt?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1051.71,
+    "end": 1052.9700000000003,
+    "text": "Only one tablespoon of this?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1053.0100000000002,
+    "end": 1054.8310000000001,
+    "text": "Only one tablespoon?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1054.8909999999996,
+    "end": 1055.3109999999997,
+    "text": "Really?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1055.3310000000001,
+    "end": 1055.6310000000003,
+    "text": "Really?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1076.924,
+    "end": 1079.045,
+    "text": "Too much more.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1079.0649999999996,
+    "end": 1086.1670000000004,
+    "text": "But my problem is that this may not last.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1086.2269999999999,
+    "end": 1095.929,
+    "text": "Yogurt.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1095.9889999999996,
+    "end": 1098.0100000000002,
+    "text": "Yes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1098.0699999999997,
+    "end": 1100.1109999999999,
+    "text": "You need to puncture it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1100.1509999999998,
+    "end": 1103.612,
+    "text": "Give it to me, I'll puncture it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1103.732,
+    "end": 1104.8919999999998,
+    "text": "You need to puncture the liner.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1112.772,
+    "end": 1128.1949999999997,
+    "text": "This is not the correct way to do it, but... We can use this to marinate it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1128.2349999999997,
+    "end": 1134.8760000000002,
+    "text": "So, in the meanwhile, I'll strain the rice.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1134.8959999999997,
+    "end": 1137.897,
+    "text": "We have to like, wash the rice, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1137.9769999999999,
+    "end": 1140.4570000000003,
+    "text": "And then, do we need to add anything to the rice?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1143.9570000000003,
+    "end": 1146.938,
+    "text": "Do I need to like cook it first?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1146.978,
+    "end": 1152.6599999999999,
+    "text": "Or no?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1152.7399999999998,
+    "end": 1155.4610000000002,
+    "text": "Oh, I have to soak it too?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1179.3190000000004,
+    "end": 1179.8990000000003,
+    "text": "Give me a second.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1179.9390000000003,
+    "end": 1191.0469999999996,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1191.067,
+    "end": 1192.6279999999997,
+    "text": "Turmeric and chili, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1192.9279999999999,
+    "end": 1203.0140000000001,
+    "text": "Right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1203.0749999999998,
+    "end": 1203.495,
+    "text": "Here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1203.5150000000003,
+    "end": 1206.3770000000004,
+    "text": "Make sure to use extra chili powder.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1206.397,
+    "end": 1206.8770000000004,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1219.4579999999996,
+    "end": 1219.96,
+    "text": "No.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1220.0,
+    "end": 1220.3410000000003,
+    "text": "To what?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1220.3609999999999,
+    "end": 1222.6670000000004,
+    "text": "For the mainstream.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1222.687,
+    "end": 1222.8680000000004,
+    "text": "Yes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1295.9399999999996,
+    "end": 1296.888,
+    "text": "too small for this.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1388.8549999999996,
+    "end": 1390.138,
+    "text": "Cumin is cumin.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1390.1779999999999,
+    "end": 1394.2269999999999,
+    "text": "And coriander is coriander.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1510.3400000000001,
+    "end": 1515.3230000000003,
+    "text": "So it has to be strained for 20 minutes?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1515.3630000000003,
+    "end": 1516.844,
+    "text": "Yes.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1516.9250000000002,
+    "end": 1519.0460000000003,
+    "text": "Okay, it's strained for 20 minutes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1519.2259999999997,
+    "end": 1520.3069999999998,
+    "text": "I'll keep this.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1520.3270000000002,
+    "end": 1525.25,
+    "text": "We can keep it in the refrigerator for 20 minutes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1525.3100000000004,
+    "end": 1526.531,
+    "text": "One hour?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1526.7110000000002,
+    "end": 1531.2939999999999,
+    "text": "If we have time, then one hour.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1531.3540000000003,
+    "end": 1533.496,
+    "text": "Otherwise we can keep it for like 20 minutes.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1533.5959999999995,
+    "end": 1534.7969999999996,
+    "text": "I think we have time.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1534.817,
+    "end": 1535.1970000000001,
+    "text": "Okay.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1537.9620000000004,
+    "end": 1548.5919999999996,
+    "text": "rice straining will take 20 minutes plus 30 minutes right like because we have to also drain it and then keep it for 15 minutes is that right",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1563.88,
+    "end": 1568.4449999999997,
+    "text": "I think you can put this on a plate.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1568.4849999999997,
+    "end": 1570.9080000000004,
+    "text": "You definitely want to use it again, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1570.9279999999999,
+    "end": 1574.1109999999999,
+    "text": "So you can put this on over here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1595.6329999999998,
+    "end": 1606.0389999999998,
+    "text": "Check the status on the phone.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1606.1189999999997,
+    "end": 1607.3999999999996,
+    "text": "You should complete the recording now.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1609.2610000000004,
+    "end": 1621.487,
+    "text": "Yes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1621.567,
+    "end": 1622.1080000000002,
+    "text": "I don't think so.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1622.1679999999997,
+    "end": 1623.9889999999996,
+    "text": "It just got hot.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1641.2520000000004,
+    "end": 1650.0550000000003,
+    "text": "No need, because we are going to have a recess now.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1650.1149999999998,
+    "end": 1659.759,
+    "text": "So, right now everything is done, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1659.7790000000005,
+    "end": 1662.0200000000004,
+    "text": "The rice just needs to be cleaned.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1662.0600000000004,
+    "end": 1662.6599999999999,
+    "text": "It's cleaned.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1662.7200000000003,
+    "end": 1666.8819999999996,
+    "text": "I kept it straining for some time.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1666.942,
+    "end": 1668.0020000000004,
+    "text": "And",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1669.9700000000003,
+    "end": 1676.634,
+    "text": "After some time, I'll have to like... How long for that?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1678.2349999999997,
+    "end": 1687.6400000000003,
+    "text": "So, 20 minutes soak and then 15 minutes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1687.6800000000003,
+    "end": 1689.161,
+    "text": "My glass camera is fine.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1689.1809999999996,
+    "end": 1691.1220000000003,
+    "text": "I'll try to continue the recording for a while.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1748.6980000000003,
+    "end": 1767.446,
+    "text": "Do you want some water?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1772.808,
+    "end": 1774.0290000000005,
+    "text": "Do we need lemon juice again?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1863.2110000000002,
+    "end": 1875.0550000000003,
+    "text": "I will complete my recording now.",
+    "speaker": "SPEAKER_00"
+  }
+]

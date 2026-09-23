@@ -1,0 +1,890 @@
+[
+  {
+    "start": 222.8209999999999,
+    "end": 223.15799999999945,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 593.362000000001,
+    "end": 593.851999999999,
+    "text": "Undertextning av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 646.9599999999991,
+    "end": 647.6009999999987,
+    "text": "These will be 14 years.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 707.2489999999998,
+    "end": 707.9419999999991,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 782.9259999999995,
+    "end": 783.726999999999,
+    "text": "Be one, be two, be three.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 783.7469999999994,
+    "end": 784.7289999999994,
+    "text": "Be one, be two.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 812.3559999999998,
+    "end": 812.9429999999993,
+    "text": "These are B2.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 858.1650000000009,
+    "end": 871.4300000000003,
+    "text": "What are we supposed to put in here?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 871.4499999999971,
+    "end": 874.0910000000003,
+    "text": "B1 in front of B16.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 874.1310000000012,
+    "end": 875.872000000003,
+    "text": "Are we supposed to use B4 or B2?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 875.8919999999998,
+    "end": 876.7119999999995,
+    "text": "B2.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 878.0729999999967,
+    "end": 879.1929999999993,
+    "text": "I think this is B2.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 879.252999999997,
+    "end": 882.2739999999976,
+    "text": "Oh, these are the B4?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 882.2940000000017,
+    "end": 886.0760000000009,
+    "text": "These are B... No, these are B14.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 892.5299999999988,
+    "end": 899.3949999999968,
+    "text": "Ok, did you put any other B2 somewhere else?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 899.5350000000035,
+    "end": 904.4990000000034,
+    "text": "Yup, so there is a B3 at the back.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 904.5190000000002,
+    "end": 907.9210000000021,
+    "text": "Maybe replace the B14 with the B2 when you are supposed to.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 907.961000000003,
+    "end": 911.1229999999996,
+    "text": "These are the B2s and the longer ones are the B14s.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 911.1429999999964,
+    "end": 918.7289999999994,
+    "text": "So there should be a B2 here.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 932.9320000000007,
+    "end": 934.0520000000033,
+    "text": "I think you missed another B2, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 934.0720000000001,
+    "end": 938.7339999999967,
+    "text": "How many B2s?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 938.7540000000008,
+    "end": 939.4550000000017,
+    "text": "Two B2s for now.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 939.4950000000026,
+    "end": 940.0550000000003,
+    "text": "Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 940.0749999999971,
+    "end": 946.997000000003,
+    "text": "So there are B4s here.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 947.0169999999998,
+    "end": 954.3399999999965,
+    "text": "This is B4.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 954.4000000000015,
+    "end": 957.9210000000021,
+    "text": "You don't need B4 now, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 973.3249999999971,
+    "end": 977.9890000000014,
+    "text": "This one is B2, this one is B2.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 978.8700000000026,
+    "end": 986.3159999999989,
+    "text": "This is in front of B1, and this one is behind B3.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 986.336000000003,
+    "end": 986.5570000000007,
+    "text": "Wait.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 986.6370000000024,
+    "end": 995.4440000000031,
+    "text": "This one, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 995.4639999999999,
+    "end": 997.2860000000001,
+    "text": "So in front of B3, there is B2, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 997.3059999999969,
+    "end": 997.586000000003,
+    "text": "Right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1005.7220000000016,
+    "end": 1007.8640000000014,
+    "text": "Hmm, I think you put B14 here, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1007.8839999999982,
+    "end": 1008.0440000000017,
+    "text": "Here?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1008.0650000000023,
+    "end": 1008.2450000000026,
+    "text": "Hmm?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1008.2850000000035,
+    "end": 1008.364999999998,
+    "text": "Hmm?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1038.2640000000029,
+    "end": 1039.125,
+    "text": "No, this is B14.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1039.1650000000009,
+    "end": 1043.1860000000015,
+    "text": "You put B14 somewhere.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1043.2260000000024,
+    "end": 1044.4660000000003,
+    "text": "B14 was here.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1044.546000000002,
+    "end": 1045.9859999999971,
+    "text": "Oh, you put it here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1046.025999999998,
+    "end": 1047.0869999999995,
+    "text": "Okay, that's correct.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1047.1070000000036,
+    "end": 1049.3269999999975,
+    "text": "That's next row, I guess.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1049.3470000000016,
+    "end": 1049.7669999999998,
+    "text": "Huh?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1050.0069999999978,
+    "end": 1051.908000000003,
+    "text": "You already put B14 somewhere.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1051.9279999999999,
+    "end": 1052.2479999999996,
+    "text": "Yep.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1052.2679999999964,
+    "end": 1053.2079999999987,
+    "text": "Right here.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1053.2679999999964,
+    "end": 1053.5679999999993,
+    "text": "Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1053.5880000000034,
+    "end": 1054.4479999999967,
+    "text": "B2 in front of B1.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1073.1229999999996,
+    "end": 1076.4040000000023,
+    "text": "Should I open up the thief?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1120.762999999999,
+    "end": 1123.0069999999978,
+    "text": "The Cs look very similar to one another.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1123.0270000000019,
+    "end": 1125.2920000000013,
+    "text": "Best if I give it to you once you need it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1125.311999999998,
+    "end": 1127.997000000003,
+    "text": "These are all C1.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1196.2819999999992,
+    "end": 1196.6820000000007,
+    "text": "Can I take a look?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1196.7019999999975,
+    "end": 1197.6429999999964,
+    "text": "Now you put that here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1197.6630000000005,
+    "end": 1198.3830000000016,
+    "text": "Measure the direction.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1238.002999999997,
+    "end": 1238.663999999997,
+    "text": "Nice.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1238.684000000001,
+    "end": 1246.8309999999983,
+    "text": "How long has it been?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1246.8510000000024,
+    "end": 1247.150999999998,
+    "text": "C16 here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1266.4749999999985,
+    "end": 1267.574999999997,
+    "text": "You need one C16, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1267.5950000000012,
+    "end": 1270.1960000000036,
+    "text": "I mean three.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1270.2160000000003,
+    "end": 1274.1779999999999,
+    "text": "Get three.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1274.1979999999967,
+    "end": 1275.8790000000008,
+    "text": "You can have another one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1275.9190000000017,
+    "end": 1279.1600000000035,
+    "text": "How many do you need exactly?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1279.199999999997,
+    "end": 1280.961000000003,
+    "text": "So I gave you three.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1298.9400000000023,
+    "end": 1299.2940000000017,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1331.4069999999992,
+    "end": 1332.010000000002,
+    "text": "God bless you.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1436.3530000000028,
+    "end": 1437.8940000000002,
+    "text": "Needs how many C4?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1437.934000000001,
+    "end": 1438.5140000000029,
+    "text": "One C4.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1438.635000000002,
+    "end": 1442.8170000000027,
+    "text": "One C4 and one C8.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1442.8369999999995,
+    "end": 1445.1589999999997,
+    "text": "Are you sure only one C4?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1445.1789999999964,
+    "end": 1456.6270000000004,
+    "text": "For this one, one C4.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1456.6469999999972,
+    "end": 1458.408000000003,
+    "text": "For the next step, another C4.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1458.4479999999967,
+    "end": 1458.7479999999996,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1458.7880000000005,
+    "end": 1459.0480000000025,
+    "text": "Two C4.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1468.2130000000034,
+    "end": 1469.434000000001,
+    "text": "b4 and another c8, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1469.474000000002,
+    "end": 1469.7739999999976,
+    "text": "2b1 and 1b3.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1469.934000000001,
+    "end": 1470.5149999999994,
+    "text": "This one's b1, b3.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1470.5350000000035,
+    "end": 1470.8949999999968,
+    "text": "This one's b3.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1499.0829999999987,
+    "end": 1503.0440000000017,
+    "text": "2p1 and 1p3 c8 this one is c8 you can do this one so there should be 2p3 this one is 2p3 and this one is",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1529.5720000000001,
+    "end": 1529.752999999997,
+    "text": "C4.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1575.574999999997,
+    "end": 1575.775999999998,
+    "text": "C11.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1575.815999999999,
+    "end": 1576.3559999999998,
+    "text": "And 2B3.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1649.8899999999994,
+    "end": 1650.9720000000016,
+    "text": "You can put the petals on this one",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1683.4800000000032,
+    "end": 1684.9029999999984,
+    "text": "Yeah, yeah.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1684.9830000000002,
+    "end": 1687.1679999999978,
+    "text": "Yeah, I put those together for you.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1854.7130000000034,
+    "end": 1857.875,
+    "text": "take b and put b and c this is this one right okay i think i don't know",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1891.9400000000023,
+    "end": 1894.7209999999977,
+    "text": "This is C5.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1894.7609999999986,
+    "end": 1895.8609999999971,
+    "text": "What should we see?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1895.900999999998,
+    "end": 1896.0210000000006,
+    "text": "17.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1896.1809999999969,
+    "end": 1897.8609999999971,
+    "text": "No, that's not C17.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1897.940999999999,
+    "end": 1898.5009999999966,
+    "text": "It's similar to this.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1898.5610000000015,
+    "end": 1901.4219999999987,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1904.1820000000007,
+    "end": 1908.9230000000025,
+    "text": "Then this one must be this one over here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1908.9429999999993,
+    "end": 1910.063000000002,
+    "text": "I'm a bit confused about the B.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1924.0250000000015,
+    "end": 1925.1059999999998,
+    "text": "B is this one, I think.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1926.7869999999966,
+    "end": 1932.550000000003,
+    "text": "One, two, three, like five petals.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1932.5699999999997,
+    "end": 1933.9709999999977,
+    "text": "This one has five petals.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1934.150999999998,
+    "end": 1939.675000000003,
+    "text": "Also this one also has five petals.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1939.7149999999965,
+    "end": 1945.4179999999978,
+    "text": "This one's B3.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1945.438000000002,
+    "end": 1948.4400000000023,
+    "text": "This one's B3.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1948.4599999999991,
+    "end": 1948.9000000000015,
+    "text": "This one's B.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1948.9199999999983,
+    "end": 1949.0400000000009,
+    "text": "Ten.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1966.8020000000033,
+    "end": 1968.311999999998,
+    "text": "So B, B and C.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2034.6730000000025,
+    "end": 2034.824999999997,
+    "text": "Undertextning av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2096.3340000000026,
+    "end": 2100.1759999999995,
+    "text": "How about this one?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2100.1960000000036,
+    "end": 2105.279999999999,
+    "text": "Yeah, you just put that over here, right?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2105.3399999999965,
+    "end": 2106.0800000000017,
+    "text": "Along over here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2106.1200000000026,
+    "end": 2106.279999999999,
+    "text": "C26.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2106.3199999999997,
+    "end": 2108.561999999998,
+    "text": "We need the C26 to lock this here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2180.900999999998,
+    "end": 2182.9630000000034,
+    "text": "I think this is this one, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2183.002999999997,
+    "end": 2183.1429999999964,
+    "text": "No.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2183.3830000000016,
+    "end": 2184.3640000000014,
+    "text": "That one?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2184.383999999998,
+    "end": 2185.364999999998,
+    "text": "Yeah, we're going to put this one.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2185.425000000003,
+    "end": 2186.985999999997,
+    "text": "Oh, so this is this one?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2187.006000000001,
+    "end": 2187.6070000000036,
+    "text": "Then which one is that?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2187.6270000000004,
+    "end": 2188.146999999997,
+    "text": "I couldn't find it.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2188.1670000000013,
+    "end": 2188.3269999999975,
+    "text": "Is this?",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2188.3470000000016,
+    "end": 2188.887999999999,
+    "text": "You can take this apart.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2188.9479999999967,
+    "end": 2189.0279999999984,
+    "text": "C2.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2189.0880000000034,
+    "end": 2191.8099999999977,
+    "text": "Let's take this apart and see.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2191.8700000000026,
+    "end": 2195.913999999997,
+    "text": "So this one's C4.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2195.974000000002,
+    "end": 2196.8139999999985,
+    "text": "And this one's C5.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2197.135000000002,
+    "end": 2197.2149999999965,
+    "text": "Yep.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2218.8470000000016,
+    "end": 2219.6690000000017,
+    "text": "Det er mitt 15.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2219.7490000000034,
+    "end": 2220.1900000000023,
+    "text": "Direktion.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2263.0250000000015,
+    "end": 2263.7739999999976,
+    "text": "Medikamentet er det samme.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2341.720000000001,
+    "end": 2342.860999999997,
+    "text": "And this one goes here.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2410.8099999999977,
+    "end": 2412.1500000000015,
+    "text": "Ok, s\u00e5 f\u00e5r vi noe p\u00e5 det.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2502.421000000002,
+    "end": 2507.724000000002,
+    "text": "You also need one C6 and C7.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2508.0440000000017,
+    "end": 2511.1659999999974,
+    "text": "C6, C7?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2511.1860000000015,
+    "end": 2512.1070000000036,
+    "text": "No, no, no.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2512.2869999999966,
+    "end": 2516.328999999998,
+    "text": "You need C7 and C6, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2553.7160000000003,
+    "end": 2553.8759999999966,
+    "text": "2p1",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2635.7019999999975,
+    "end": 2636.663999999997,
+    "text": "B4 or B4?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2716.8229999999967,
+    "end": 2726.1730000000025,
+    "text": "Yeah, I thought.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2726.1929999999993,
+    "end": 2726.754000000001,
+    "text": "This is this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2726.7739999999976,
+    "end": 2726.8340000000026,
+    "text": "C1.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2784.783000000003,
+    "end": 2786.0149999999994,
+    "text": "This one goes in front.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2875.8229999999967,
+    "end": 2878.8640000000014,
+    "text": "Can you check the time?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2908.699999999997,
+    "end": 2909.5,
+    "text": "How much battery?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2910.421000000002,
+    "end": 2913.3020000000033,
+    "text": "Ninety percent.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2913.4219999999987,
+    "end": 2913.862000000001,
+    "text": "Okay.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2913.9219999999987,
+    "end": 2917.1829999999973,
+    "text": "Okay, let's pause the recording now.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2917.542999999998,
+    "end": 2919.6039999999994,
+    "text": "Okay, let's put that one first.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2919.663999999997,
+    "end": 2920.423999999999,
+    "text": "Okay, so did you do this?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2942.480000000003,
+    "end": 2944.4879999999976,
+    "text": "So we get this one, not this one.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2944.5080000000016,
+    "end": 2946.858,
+    "text": "So we have C5 and C3.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2946.877999999997,
+    "end": 2947.661,
+    "text": "C5 and C3.",
+    "speaker": "SPEAKER_00"
+  }
+]

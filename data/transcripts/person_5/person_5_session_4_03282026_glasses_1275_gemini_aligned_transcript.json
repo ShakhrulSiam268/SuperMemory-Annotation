@@ -1,0 +1,2333 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 253,
+    "timing_counts": {
+      "whisper_exact_match": 181,
+      "whisper_partial_match": 3,
+      "interpolated_between_anchors": 6,
+      "inferred_before_first_anchor": 10,
+      "inferred_after_last_anchor": 13,
+      "caption_segment_evenly_distributed": 26,
+      "caption_segment_inferred": 14
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "User": {
+          "SPEAKER_00": 6,
+          "SPEAKER_02": 20,
+          "SPEAKER_01": 5
+        },
+        "A": {
+          "SPEAKER_01": 5,
+          "SPEAKER_02": 21,
+          "SPEAKER_00": 6
+        },
+        "B": {
+          "SPEAKER_00": 13,
+          "SPEAKER_02": 10,
+          "SPEAKER_01": 2
+        },
+        "C": {
+          "SPEAKER_02": 2,
+          "SPEAKER_01": 95,
+          "SPEAKER_00": 8
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "User": "SPEAKER_02",
+        "A": "SPEAKER_02",
+        "B": "SPEAKER_00",
+        "C": "SPEAKER_01"
+      },
+      "conflicts": {
+        "SPEAKER_02": [
+          "A",
+          "User"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_4_03282026_glasses_1275"
+  },
+  "transcript": [
+    {
+      "start": 29.682,
+      "end": 30.323,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 31.764,
+      "end": 34.726,
+      "person": "A",
+      "text": "Then one large onion, finely chopped.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 34.726,
+      "end": 79.0,
+      "person": null,
+      "text": "[Sound of exhaust vent turning on]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 79.701,
+      "end": 85.45,
+      "person": "A",
+      "text": "So we need one last onion, finely chopped.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 85.45,
+      "end": 110.0,
+      "person": null,
+      "text": "[Sound of refrigerator door opening]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 110.789,
+      "end": 117.591,
+      "person": "A",
+      "text": "I think we can use that one to chop the onions.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 151.0,
+      "end": 166.0,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 226.0,
+      "end": 240.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 240.0,
+      "end": 274.0,
+      "person": null,
+      "text": "[Rhythmic sound of a knife hitting a cutting board]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 293.617,
+      "end": 294.624,
+      "person": "B",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 294.624,
+      "end": 303.0,
+      "person": null,
+      "text": "[Sizzling sound from the stove]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 303.0,
+      "end": 324.0,
+      "person": null,
+      "text": "[Sound of metal stirring against a pot]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 324.0,
+      "end": 345.0,
+      "person": null,
+      "text": "[Continuous chopping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 345.0,
+      "end": 360.0,
+      "person": null,
+      "text": "[Resumed rhythmic chopping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 360.0,
+      "end": 371.5,
+      "person": "C",
+      "text": "I think people are going to like it because it's got some... spice.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 371.5,
+      "end": 383.0,
+      "person": "B",
+      "text": "Yeah, I think so too. [Sound of knife chopping on board]",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 383.0,
+      "end": 384.0,
+      "person": "C",
+      "text": "Is it spicy enough?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 384.0,
+      "end": 385.0,
+      "person": "B",
+      "text": "We can add more chili powder if we need to.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 385.0,
+      "end": 416.667,
+      "person": "C",
+      "text": "How much chicken are we adding?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 416.667,
+      "end": 448.333,
+      "person": "B",
+      "text": "About two pounds. I'll add some water now. [Sound of water running]",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 448.333,
+      "end": 480.0,
+      "person": "A",
+      "text": "I'll take the chili powder.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 511.041,
+      "end": 527.531,
+      "person": "User",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 527.531,
+      "end": 533.265,
+      "person": null,
+      "text": "[Sound of knife scraping against the cutting board]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 533.265,
+      "end": 539.0,
+      "person": "User",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 541.583,
+      "end": 542.524,
+      "person": "User",
+      "text": "onion's hair.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 542.524,
+      "end": 550.0,
+      "person": null,
+      "text": "[Sound of running water]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 550.0,
+      "end": 550.05,
+      "person": "C",
+      "text": "That's a pretty nice cut out.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 550.05,
+      "end": 551.309,
+      "person": "C",
+      "text": "You also said like finely chopped.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 551.309,
+      "end": 551.429,
+      "person": "User",
+      "text": "It's really finely chopped.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 551.429,
+      "end": 553.43,
+      "person": "C",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 554.091,
+      "end": 560.435,
+      "person": "C",
+      "text": "So now brush the garlic, ginger and chilies in a pestle and mortar.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 560.495,
+      "end": 561.995,
+      "person": "C",
+      "text": "Okay, this thing we have already done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 562.896,
+      "end": 563.136,
+      "person": "C",
+      "text": "Right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 564.277,
+      "end": 565.978,
+      "person": "C",
+      "text": "Then place the marinated chicken",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 566.835,
+      "end": 569.419,
+      "person": "C",
+      "text": "so first we need to put the garlic paste",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 598.352,
+      "end": 598.612,
+      "person": "User",
+      "text": "The tray.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 598.632,
+      "end": 600.0,
+      "person": "User",
+      "text": "We will need the trays as well.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 600.0,
+      "end": 600.0,
+      "person": null,
+      "text": "[Sound of refrigerator door opening]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 600.0,
+      "end": 606.239,
+      "person": "User",
+      "text": "We will need the trays as well.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 613.0,
+      "end": 645.0,
+      "person": null,
+      "text": "[Sound of water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 645.0,
+      "end": 672.0,
+      "person": null,
+      "text": "[Sound of objects being moved on granite]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 672.0,
+      "end": 685.072,
+      "person": null,
+      "text": "[Sound of spoon clinking against bowl]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 685.072,
+      "end": 686.292,
+      "person": "B",
+      "text": "6 minutes of boiling.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 688.093,
+      "end": 689.194,
+      "person": "C",
+      "text": "On each side or both sides?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 689.254,
+      "end": 689.554,
+      "person": "C",
+      "text": "Both sides.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 689.574,
+      "end": 692.835,
+      "person": "B",
+      "text": "That looks like a lot of cheese.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 693.135,
+      "end": 693.395,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 693.435,
+      "end": 700.818,
+      "person": "C",
+      "text": "So this goes first.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 700.878,
+      "end": 708.941,
+      "person": "B",
+      "text": "And you're supposed to mix it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 710.001,
+      "end": 711.322,
+      "person": "B",
+      "text": "There's a separate spoon for it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 711.382,
+      "end": 712.262,
+      "person": "B",
+      "text": "I'll show you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 712.282,
+      "end": 714.443,
+      "person": "B",
+      "text": "You should see where",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 716.276,
+      "end": 716.603,
+      "person": "C",
+      "text": "Oh yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 720.0,
+      "end": 745.0,
+      "person": null,
+      "text": "[Indistinct group chatter]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 746.001,
+      "end": 746.682,
+      "person": "User",
+      "text": "Can I wash?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 750.703,
+      "end": 756.065,
+      "person": "C",
+      "text": "Yeah, they say to mix half of it with the marinated chicken.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 756.065,
+      "end": 757.0,
+      "person": null,
+      "text": "[Sound of running water]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 758.0,
+      "end": 762.848,
+      "person": "B",
+      "text": "You need to, like, spread it out first.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 778.374,
+      "end": 784.744,
+      "person": "C",
+      "text": "eventually you are going to turn it over",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 784.744,
+      "end": 809.0,
+      "person": null,
+      "text": "[Clinking of spoon against metal tray]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 810.417,
+      "end": 811.76,
+      "person": "User",
+      "text": "We should also record as a vlog.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 813.785,
+      "end": 815.69,
+      "person": "C",
+      "text": "We're not going to the busiest of channels.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 815.69,
+      "end": 840.0,
+      "person": null,
+      "text": "[Footsteps on wooden floor]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 840.0,
+      "end": 843.167,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 843.167,
+      "end": 846.333,
+      "person": null,
+      "text": "[Oven door opens]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 846.333,
+      "end": 849.5,
+      "person": "B",
+      "text": "Five to six minutes.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 849.5,
+      "end": 852.667,
+      "person": "C",
+      "text": "Two five minutes?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 852.667,
+      "end": 855.833,
+      "person": null,
+      "text": "[Oven door closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 855.833,
+      "end": 859.0,
+      "person": "B",
+      "text": "Five to six minutes.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 859.0,
+      "end": 861.863,
+      "person": null,
+      "text": "[Beeping sounds from the stove]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 861.863,
+      "end": 868.865,
+      "person": "User",
+      "text": "it doesn't need to cook so at this stage in a large pan melt the butter over the medium",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 888.653,
+      "end": 905.419,
+      "person": "C",
+      "text": "We will put the onions, star anise, cinnamon stick, cloves and cumin seeds.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 905.959,
+      "end": 906.499,
+      "person": "C",
+      "text": "All four.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 907.3,
+      "end": 908.42,
+      "person": "C",
+      "text": "Cook for 10 minutes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 911.207,
+      "end": 934.818,
+      "person": "C",
+      "text": "until the golden color but we should actually try start trying this one right until it turns into green okay then when it will turn into golden then we'll put this okay otherwise it will burn at the remaining garden paste uh that one at the remaining garlic place after it you know turning it into when you turn into green golden",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 945.0,
+      "end": 945.05,
+      "person": "C",
+      "text": "Then ground spices, salt, tomato paste, everything.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 945.05,
+      "end": 945.059,
+      "person": "C",
+      "text": "Cook for another 10 minutes until the tomato paste separates from the oil.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 946.059,
+      "end": 947.981,
+      "person": "C",
+      "text": "So you can clearly see the tomatoes from the oil.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 948.061,
+      "end": 950.823,
+      "person": "C",
+      "text": "And then add the dried diced tomatoes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 951.864,
+      "end": 953.425,
+      "person": "User",
+      "text": "And cook for 15 to 20 minutes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 957.113,
+      "end": 960.0,
+      "person": "C",
+      "text": "until the sauce thickens and oil separates the tomato mixture creating a rich sauce.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 960.0,
+      "end": 962.094,
+      "person": "C",
+      "text": "until the sauce thickens and oil separates the tomato mixture creating a rich sauce.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 962.314,
+      "end": 963.615,
+      "person": "C",
+      "text": "Add the chicken along all.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 963.975,
+      "end": 972.257,
+      "person": "C",
+      "text": "So we will use the tomato paste first for 5 to 10 minutes after the separation of the tomatoes from the oil.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 972.897,
+      "end": 978.198,
+      "person": "C",
+      "text": "Then we will pour the diced tomatoes and cook again 15 to 20 minutes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 979.038,
+      "end": 985.72,
+      "person": "C",
+      "text": "Then when the sauce will be very thick, then we will start to pour the chicken along with the accumulated juice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 987.229,
+      "end": 988.09,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 988.15,
+      "end": 989.211,
+      "person": "A",
+      "text": "I think we can start.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 989.251,
+      "end": 999.0,
+      "person": "User",
+      "text": "Yeah, we can actually start right now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1004.803,
+      "end": 1005.764,
+      "person": "User",
+      "text": "Okay. Butter.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1030.0,
+      "end": 1031.064,
+      "person": "C",
+      "text": "Spoon?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1031.064,
+      "end": 1032.128,
+      "person": "C",
+      "text": "Spoon for that one, but still.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1032.128,
+      "end": 1034.028,
+      "person": "A",
+      "text": "Like to take the butter?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1035.709,
+      "end": 1039.31,
+      "person": "C",
+      "text": "Yeah, for the butter you can use that one, but will it really survive?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1039.73,
+      "end": 1041.79,
+      "person": "A",
+      "text": "No, I think you can use even one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1043.471,
+      "end": 1046.111,
+      "person": "A",
+      "text": "How much butter do I need to put?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1046.191,
+      "end": 1048.132,
+      "person": "C",
+      "text": "I'll do with canola oil rather than...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1049.419,
+      "end": 1051.16,
+      "person": "C",
+      "text": "But it's the butter chicken.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1051.22,
+      "end": 1052.421,
+      "person": "C",
+      "text": "Okay. Cooking it without butter?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1052.661,
+      "end": 1054.241,
+      "person": "A",
+      "text": "Unsalted butter.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1055.402,
+      "end": 1056.142,
+      "person": "C",
+      "text": "Is it hot enough?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1057.023,
+      "end": 1063.846,
+      "person": "C",
+      "text": "If it is not hot, it's not going to make it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1064.146,
+      "end": 1064.886,
+      "person": "C",
+      "text": "One tablespoon?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1066.447,
+      "end": 1068.187,
+      "person": "C",
+      "text": "No, it's actually not, but...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1069.208,
+      "end": 1070.388,
+      "person": "A",
+      "text": "I think it's fine, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1070.949,
+      "end": 1071.609,
+      "person": "C",
+      "text": "Take another half.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1072.93,
+      "end": 1073.17,
+      "person": "C",
+      "text": "Just half.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1073.19,
+      "end": 1076.391,
+      "person": "C",
+      "text": "That's fine. That's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1104.564,
+      "end": 1106.0,
+      "person": "A",
+      "text": "So you have to turn over the chicken.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1106.226,
+      "end": 1109.45,
+      "person": "B",
+      "text": "Let me do that.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1113.655,
+      "end": 1115.297,
+      "person": "B",
+      "text": "We need to bring it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1115.357,
+      "end": 1116.078,
+      "person": "User",
+      "text": "Put it over here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1140.755,
+      "end": 1143.215,
+      "person": "B",
+      "text": "I tried to move it. It breaks.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1144.216,
+      "end": 1169.78,
+      "person": "B",
+      "text": "OK. Where is it from?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1195.148,
+      "end": 1195.809,
+      "person": "B",
+      "text": "I can do it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1232.403,
+      "end": 1235.397,
+      "person": "B",
+      "text": "If you move it too much, it breaks apart.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1235.397,
+      "end": 1274.0,
+      "person": null,
+      "text": "[Oven timer beeps]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1274.0,
+      "end": 1293.0,
+      "person": null,
+      "text": "[Sound of oven door opening and closing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1311.59,
+      "end": 1312.131,
+      "person": "A",
+      "text": "I think so.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1358.062,
+      "end": 1358.275,
+      "person": "User",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1403.305,
+      "end": 1404.005,
+      "person": "User",
+      "text": "I'm not found.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1429.063,
+      "end": 1431.384,
+      "person": "B",
+      "text": "Maybe make the fan low.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1431.444,
+      "end": 1432.284,
+      "person": "C",
+      "text": "I'll do it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1432.444,
+      "end": 1434.544,
+      "person": "C",
+      "text": "Just maybe two or three minutes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1434.584,
+      "end": 1440.0,
+      "person": "C",
+      "text": "Because right now we are not talking about it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1440.0,
+      "end": 1449.447,
+      "person": "C",
+      "text": "Because right now we are not talking about it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1449.527,
+      "end": 1450.608,
+      "person": "C",
+      "text": "It started turning into a border, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1450.648,
+      "end": 1450.868,
+      "person": "C",
+      "text": "Not yet.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1452.388,
+      "end": 1452.708,
+      "person": "C",
+      "text": "Not yet?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1469.965,
+      "end": 1470.0,
+      "person": "User",
+      "text": "Now can I use it?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1470.0,
+      "end": 1506.0,
+      "person": null,
+      "text": "[Sound of wooden spoon stirring in pan]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1506.0,
+      "end": 1515.0,
+      "person": "User",
+      "text": "Wash it.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1515.0,
+      "end": 1524.0,
+      "person": "User",
+      "text": "Wash it.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1524.741,
+      "end": 1527.543,
+      "person": "User",
+      "text": "Can I use whole of this?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1527.563,
+      "end": 1529.144,
+      "person": "C",
+      "text": "This one, that one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1554.194,
+      "end": 1560.0,
+      "person": "C",
+      "text": "Now we should reduce the heat to the half.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1560.0,
+      "end": 1563.737,
+      "person": "C",
+      "text": "Now we should reduce the heat to the half.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1564.918,
+      "end": 1565.178,
+      "person": "C",
+      "text": "Then?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1565.198,
+      "end": 1574.561,
+      "person": "C",
+      "text": "Then we'll put the garlic paste.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1574.861,
+      "end": 1575.0,
+      "person": "C",
+      "text": "Sorry, the half garlic paste.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1575.0,
+      "end": 1600.0,
+      "person": null,
+      "text": "[Sizzling sound from the pan]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1610.32,
+      "end": 1611.28,
+      "person": "C",
+      "text": "the tomato paste.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1638.824,
+      "end": 1639.104,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1639.164,
+      "end": 1639.324,
+      "person": "C",
+      "text": "Cool.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1639.344,
+      "end": 1639.604,
+      "person": "C",
+      "text": "Cool.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1639.604,
+      "end": 1665.0,
+      "person": null,
+      "text": "[Beeping sound from the stove timer]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1669.076,
+      "end": 1680.0,
+      "person": "User",
+      "text": "we have more meat so i think maybe yes i think so yeah",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1791.0,
+      "end": 1792.286,
+      "person": "User",
+      "text": "we have more meat so i think maybe yes i think so yeah",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1792.286,
+      "end": 1793.571,
+      "person": "A",
+      "text": "Then, hold.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1793.571,
+      "end": 1794.857,
+      "person": "C",
+      "text": "I think it should boil, start boiling, and then you can...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1794.857,
+      "end": 1796.143,
+      "person": "C",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1796.143,
+      "end": 1797.429,
+      "person": "User",
+      "text": "It's supposed to wait until the moment of case separation.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1797.429,
+      "end": 1798.714,
+      "person": null,
+      "text": "[Oven timer beeps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1798.714,
+      "end": 1800.0,
+      "person": "B",
+      "text": "Is it done?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1818.778,
+      "end": 1819.038,
+      "person": "C",
+      "text": "uh...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1866.51,
+      "end": 1871.553,
+      "person": "C",
+      "text": "Should I start doing the chicken?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1873.234,
+      "end": 1875.375,
+      "person": "C",
+      "text": "Or do you want to wait for some time?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1875.395,
+      "end": 1876.095,
+      "person": "User",
+      "text": "Wait some time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1876.135,
+      "end": 1876.795,
+      "person": "User",
+      "text": "Wait some time?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1878.156,
+      "end": 1879.357,
+      "person": "C",
+      "text": "Get some more water?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1880.077,
+      "end": 1880.177,
+      "person": "A",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1880.197,
+      "end": 1880.417,
+      "person": "A",
+      "text": "No?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1880.678,
+      "end": 1884.92,
+      "person": "C",
+      "text": "What is it called?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1884.98,
+      "end": 1885.38,
+      "person": "C",
+      "text": "Fried?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1886.301,
+      "end": 1888.302,
+      "person": "C",
+      "text": "Is it well fried?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1899.018,
+      "end": 1900.9,
+      "person": "C",
+      "text": "No, we don't have to talk about this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1900.94,
+      "end": 1901.581,
+      "person": "C",
+      "text": "No, no.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1901.681,
+      "end": 1910.15,
+      "person": "C",
+      "text": "Is the masala being fried, finely fried, or we have to wait?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1911.171,
+      "end": 1912.232,
+      "person": "User",
+      "text": "No, it's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1912.352,
+      "end": 1913.173,
+      "person": "C",
+      "text": "It's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1913.273,
+      "end": 1914.675,
+      "person": "C",
+      "text": "Now we should.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1915.296,
+      "end": 1915.616,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1916.016,
+      "end": 1916.677,
+      "person": "C",
+      "text": "Because of safety.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1934.14,
+      "end": 1936.381,
+      "person": "B",
+      "text": "now you can take the whole thing",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1969.644,
+      "end": 1970.104,
+      "person": "B",
+      "text": "uh...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1999.0,
+      "end": 2004.425,
+      "person": null,
+      "text": "[User sneezes]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2004.425,
+      "end": 2007.206,
+      "person": "A",
+      "text": "It doesn't say anything here, I think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2007.286,
+      "end": 2010.628,
+      "person": "A",
+      "text": "It's just written in the ingredient part.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2010.648,
+      "end": 2012.529,
+      "person": "A",
+      "text": "We need to put cream.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2012.609,
+      "end": 2014.129,
+      "person": "A",
+      "text": "The heavy cream?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2014.149,
+      "end": 2015.25,
+      "person": "A",
+      "text": "Where is the heavy cream?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2026.695,
+      "end": 2027.335,
+      "person": "B",
+      "text": "Let's put it now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2027.355,
+      "end": 2028.716,
+      "person": "A",
+      "text": "Yeah, we can put it now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2029.516,
+      "end": 2031.417,
+      "person": "A",
+      "text": "I think we needed more tomato.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2031.437,
+      "end": 2033.238,
+      "person": "A",
+      "text": "This should be very rare.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2034.438,
+      "end": 2036.0,
+      "person": "A",
+      "text": "Yeah, we're adding the diced tomatoes now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2036.18,
+      "end": 2039.324,
+      "person": "A",
+      "text": "I think we can add... We'll add the diced tomatoes a little bit later.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2039.404,
+      "end": 2040.0,
+      "person": "A",
+      "text": "Actually, the recipe said to add the diced tomatoes before adding chicken.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2040.0,
+      "end": 2042.488,
+      "person": "B",
+      "text": "Actually, the recipe said to add the diced tomatoes before adding chicken.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2043.669,
+      "end": 2044.75,
+      "person": "B",
+      "text": "So I think we can add it now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2045.671,
+      "end": 2046.272,
+      "person": "B",
+      "text": "Right, that's great.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2046.272,
+      "end": 2068.0,
+      "person": null,
+      "text": "[Sizzling sounds from the pan]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2068.0,
+      "end": 2075.0,
+      "person": null,
+      "text": "[Sound of refrigerator door opening]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2075.0,
+      "end": 2075.05,
+      "person": "C",
+      "text": "How much?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2075.05,
+      "end": 2075.1,
+      "person": "C",
+      "text": "No, it's just like 240 grams.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2075.1,
+      "end": 2075.899,
+      "person": "C",
+      "text": "240 grams, that's a lot.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2078.462,
+      "end": 2080.685,
+      "person": "C",
+      "text": "And I make it taste sweet.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2080.705,
+      "end": 2081.686,
+      "person": "A",
+      "text": "Butter chicken is sweet.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2123.0,
+      "end": 2133.333,
+      "person": "C",
+      "text": "Did you add lemon juice?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2133.333,
+      "end": 2143.667,
+      "person": "C",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2143.667,
+      "end": 2154.0,
+      "person": null,
+      "text": "[Sound of liquid being poured into the pan]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2154.0,
+      "end": 2154.393,
+      "person": "B",
+      "text": "Did we put cilantro?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2154.413,
+      "end": 2154.533,
+      "person": "A",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2154.553,
+      "end": 2155.954,
+      "person": "A",
+      "text": "We didn't put cilantro?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2168.444,
+      "end": 2169.285,
+      "person": "C",
+      "text": "I'll do it later.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2203.0,
+      "end": 2205.875,
+      "person": "C",
+      "text": "because that guy wants the whole tomato, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2205.975,
+      "end": 2208.596,
+      "person": "C",
+      "text": "It has to be like the cubic tomatoes inside the color.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2208.956,
+      "end": 2210.056,
+      "person": "A",
+      "text": "No, I don't have any preference.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2210.236,
+      "end": 2215.938,
+      "person": "A",
+      "text": "I was just mentioning because you mentioned there are too many tomatoes in the recipe.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2217.299,
+      "end": 2219.819,
+      "person": "User",
+      "text": "I think the tomato gives the color.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2219.859,
+      "end": 2223.241,
+      "person": "C",
+      "text": "If we need color, we can add some food color to get the red color.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2223.261,
+      "end": 2225.421,
+      "person": "C",
+      "text": "But I don't want to make it taste like a tomato.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2226.122,
+      "end": 2226.302,
+      "person": "C",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2250.762,
+      "end": 2251.242,
+      "person": "A",
+      "text": "I don't think so.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 2251.242,
+      "end": 2251.372,
+      "person": "C",
+      "text": "Do you need to add more tomatoes?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2251.372,
+      "end": 2251.502,
+      "person": "A",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2251.502,
+      "end": 2251.632,
+      "person": "C",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2251.632,
+      "end": 2251.762,
+      "person": "C",
+      "text": "At the end, maybe one teaspoon of tomato.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2251.762,
+      "end": 2252.163,
+      "person": "A",
+      "text": "I don't know.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 2252.163,
+      "end": 2252.183,
+      "person": "C",
+      "text": "You don't know?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2252.183,
+      "end": 2253.583,
+      "person": "A",
+      "text": "You can follow the direction.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2253.603,
+      "end": 2256.325,
+      "person": "C",
+      "text": "There is nothing written there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2262.827,
+      "end": 2264.068,
+      "person": "C",
+      "text": "Should I close the lid?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2281.916,
+      "end": 2283.257,
+      "person": "C",
+      "text": "We want the water to evaporate.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2293.966,
+      "end": 2297.248,
+      "person": "User",
+      "text": "Do you want the water to be there or evaporated?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2297.868,
+      "end": 2298.608,
+      "person": "C",
+      "text": "There's a lot of water.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2299.429,
+      "end": 2300.169,
+      "person": "B",
+      "text": "Okay, open.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2301.53,
+      "end": 2302.851,
+      "person": "C",
+      "text": "Should we evaporate it?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2304.852,
+      "end": 2305.612,
+      "person": "User",
+      "text": "Should we taste it?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2307.113,
+      "end": 2308.934,
+      "person": "C",
+      "text": "Yeah, to take the smell.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2308.954,
+      "end": 2316.618,
+      "person": "C",
+      "text": "Okay, so I think now what we do while it cooks, we clean up the space.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2316.818,
+      "end": 2317.218,
+      "person": "C",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2317.979,
+      "end": 2318.859,
+      "person": "C",
+      "text": "So we start the rice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2326.0,
+      "end": 2341.414,
+      "person": null,
+      "text": "[Sound of water running in the sink]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2341.414,
+      "end": 2341.974,
+      "person": "B",
+      "text": "I lost it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2400.0,
+      "end": 2425.0,
+      "person": null,
+      "text": "[Sound of paper towel wiping]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2425.0,
+      "end": 2450.0,
+      "person": null,
+      "text": "[Clinking of dishes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2450.16,
+      "end": 2450.74,
+      "person": "C",
+      "text": "It's already red.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2450.76,
+      "end": 2457.761,
+      "person": "C",
+      "text": "The only thing is that guy is a colorblind guy.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2457.881,
+      "end": 2462.762,
+      "person": "C",
+      "text": "He doesn't recognize the red color.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2463.082,
+      "end": 2468.303,
+      "person": "C",
+      "text": "I think we can add it gradually to see the color change.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2484.64,
+      "end": 2487.103,
+      "person": "C",
+      "text": "I want to taste it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2488.225,
+      "end": 2488.986,
+      "person": "C",
+      "text": "Is it good to taste?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2489.006,
+      "end": 2489.307,
+      "person": "User",
+      "text": "You can do.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2563.708,
+      "end": 2571.55,
+      "person": "C",
+      "text": "it's not sweet it's a little bit salty",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2593.418,
+      "end": 2597.799,
+      "person": "C",
+      "text": "It's not bad. It's good. Yeah, that's what I'm saying.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2600.139,
+      "end": 2603.6,
+      "person": "C",
+      "text": "If I put a single drop of tomatoes, that will make it even more sour.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2608.241,
+      "end": 2618.383,
+      "person": "C",
+      "text": "I think then it's fine. It's pretty good.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2652.002,
+      "end": 2655.625,
+      "person": "User",
+      "text": "I think you should keep it freeze. Freeze, you keep it freeze.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2656.025,
+      "end": 2659.648,
+      "person": "C",
+      "text": "Just test it and then decide what you need.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2660.508,
+      "end": 2672.076,
+      "person": "C",
+      "text": "One tablespoon of tomato sauce.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2672.197,
+      "end": 2679.722,
+      "person": "User",
+      "text": "It should look like this. This is looking, oh, you see, like, you should even make it dry out.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2685.297,
+      "end": 2688.06,
+      "person": "User",
+      "text": "So these are the lentils.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

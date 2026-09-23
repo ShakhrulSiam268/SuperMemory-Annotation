@@ -1,0 +1,3054 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 333,
+    "timing_counts": {
+      "whisper_exact_match": 305,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 3,
+      "inferred_before_first_anchor": 7,
+      "inferred_after_last_anchor": 13,
+      "caption_segment_evenly_distributed": 2,
+      "caption_segment_inferred": 3
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "B": {
+          "SPEAKER_02": 30,
+          "SPEAKER_00": 41,
+          "SPEAKER_01": 137,
+          "UNKNOWN": 2
+        },
+        "C": {
+          "SPEAKER_02": 9,
+          "SPEAKER_01": 1,
+          "SPEAKER_00": 11
+        },
+        "D": {
+          "SPEAKER_02": 44,
+          "SPEAKER_01": 29,
+          "SPEAKER_00": 2,
+          "UNKNOWN": 1
+        },
+        "User": {
+          "SPEAKER_00": 9,
+          "SPEAKER_01": 2
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "B": "SPEAKER_01",
+        "C": "SPEAKER_00",
+        "D": "SPEAKER_02",
+        "User": "SPEAKER_00"
+      },
+      "conflicts": {
+        "SPEAKER_00": [
+          "C",
+          "User"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_2_03292026_glasses_1275"
+  },
+  "transcript": [
+    {
+      "start": 19.252,
+      "end": 36.553,
+      "person": "B",
+      "text": "five one two three four five okay do you have this one whatever yeah 150 no no how much is the rent it's written in the opposite side of the water oh the rent is four times anything shown on the dice",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 52.74,
+      "end": 71.421,
+      "person": "B",
+      "text": "5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24,",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 80.528,
+      "end": 80.823,
+      "person": "B",
+      "text": "One second.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 120.181,
+      "end": 142.563,
+      "person": "B",
+      "text": "one two three four five six seven short line do you have this one no i think so i will buy this one can give me 300 also the short line i got i think more than 200",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 151.326,
+      "end": 168.688,
+      "person": "B",
+      "text": "6, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 168.688,
+      "end": 180.0,
+      "person": null,
+      "text": "[Wood pieces clicking together]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 187.591,
+      "end": 203.164,
+      "person": "B",
+      "text": "20, 30, 40, and 140.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 204.985,
+      "end": 207.447,
+      "person": "B",
+      "text": "You can roll three times.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 207.467,
+      "end": 207.647,
+      "person": "C",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 207.687,
+      "end": 208.328,
+      "person": "B",
+      "text": "One more.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 208.328,
+      "end": 240.0,
+      "person": null,
+      "text": "[Clicking sounds of wooden puzzle pieces]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 250.78,
+      "end": 271.739,
+      "person": "B",
+      "text": "do not pass go do not collect 200 right no no you already passed go before okay yeah no yeah yeah so if he was here and went to jail okay okay so i can feel like the back and what is it the cat the cat",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 280.326,
+      "end": 282.707,
+      "person": "D",
+      "text": "Is this someone's?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 282.927,
+      "end": 283.567,
+      "person": "D",
+      "text": "No, not mine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 285.007,
+      "end": 285.587,
+      "person": "C",
+      "text": "I will take this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 285.667,
+      "end": 296.769,
+      "person": "B",
+      "text": "Oh, sorry. Yeah. So 6, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 299.43,
+      "end": 309.332,
+      "person": "D",
+      "text": "1, 2, 3, 4, 5, 6. That's mine. We have to pay rent. 14.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 323.505,
+      "end": 344.698,
+      "person": "D",
+      "text": "yes one two three four three can i uh like row three times if i don't get them can i",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 356.75,
+      "end": 360.0,
+      "person": "D",
+      "text": "the cat and the duck first i will pay 150.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 360.0,
+      "end": 361.452,
+      "person": "B",
+      "text": "the cat and the duck first i will pay 150.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 400.793,
+      "end": 401.476,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 431.735,
+      "end": 434.658,
+      "person": "B",
+      "text": "That's fine, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 434.678,
+      "end": 434.878,
+      "person": "B",
+      "text": "Six.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 436.3,
+      "end": 438.782,
+      "person": "B",
+      "text": "One, two, three, four, five, six.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 438.942,
+      "end": 441.285,
+      "person": "B",
+      "text": "Anyone have this?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 441.365,
+      "end": 441.685,
+      "person": "D",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 442.486,
+      "end": 444.288,
+      "person": "B",
+      "text": "I'll take it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 463.865,
+      "end": 464.585,
+      "person": "B",
+      "text": "300. Back 200.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 518.707,
+      "end": 521.15,
+      "person": "B",
+      "text": "oh this is mine oh barmont okay",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 550.309,
+      "end": 550.409,
+      "person": "D",
+      "text": "26.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 550.429,
+      "end": 550.509,
+      "person": "D",
+      "text": "26.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 588.27,
+      "end": 590.131,
+      "person": "B",
+      "text": "I haven't collected any rent so far.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 590.911,
+      "end": 592.751,
+      "person": "B",
+      "text": "Oh, I just paid rent to everyone.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 592.791,
+      "end": 594.732,
+      "person": "D",
+      "text": "Because we don't use the YouTube videos.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 595.432,
+      "end": 596.192,
+      "person": "D",
+      "text": "We don't drink.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 596.272,
+      "end": 596.973,
+      "person": "D",
+      "text": "I don't have any house.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 596.993,
+      "end": 598.193,
+      "person": "D",
+      "text": "We don't use the redwood.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 599.513,
+      "end": 599.853,
+      "person": "B",
+      "text": "Seven.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 601.634,
+      "end": 603.975,
+      "person": "D",
+      "text": "One, two, three, four, five, six, seven.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 604.035,
+      "end": 604.295,
+      "person": "B",
+      "text": "Done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 605.015,
+      "end": 605.755,
+      "person": "B",
+      "text": "I think that is mine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 606.235,
+      "end": 607.015,
+      "person": "B",
+      "text": "No, luxury.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 607.235,
+      "end": 608.936,
+      "person": "B",
+      "text": "Oh, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 609.356,
+      "end": 610.136,
+      "person": "B",
+      "text": "Luxury.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 610.356,
+      "end": 611.717,
+      "person": "B",
+      "text": "$100 to the bank.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 613.417,
+      "end": 615.978,
+      "person": "B",
+      "text": "What do you want to bring?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 622.32,
+      "end": 622.54,
+      "person": "D",
+      "text": "11.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 622.56,
+      "end": 624.982,
+      "person": "B",
+      "text": "That's probably there, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 625.763,
+      "end": 626.563,
+      "person": "B",
+      "text": "Oh, I'm here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 626.703,
+      "end": 631.247,
+      "person": "B",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8, 9.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 631.287,
+      "end": 631.887,
+      "person": "B",
+      "text": "Not again.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 632.588,
+      "end": 635.85,
+      "person": "B",
+      "text": "3, 6, 9, 11.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 636.691,
+      "end": 637.311,
+      "person": "B",
+      "text": "That's bad.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 637.331,
+      "end": 638.412,
+      "person": "B",
+      "text": "I don't have any money.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 638.412,
+      "end": 640.133,
+      "person": "User",
+      "text": "[Wooden pieces clicking]",
+      "kind": "sound",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 640.133,
+      "end": 641.654,
+      "person": "C",
+      "text": "You'll get some money when you pass the ball.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 641.674,
+      "end": 642.995,
+      "person": "D",
+      "text": "Now it's my turn?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 647.759,
+      "end": 648.159,
+      "person": "D",
+      "text": "9. 9.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 659.289,
+      "end": 663.612,
+      "person": "B",
+      "text": "The most important properties are these two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 664.092,
+      "end": 664.413,
+      "person": "C",
+      "text": "11.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 667.315,
+      "end": 673.139,
+      "person": "C",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 673.179,
+      "end": 677.381,
+      "person": "C",
+      "text": "Each house you own, each hotel you own.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 677.421,
+      "end": 682.865,
+      "person": "C",
+      "text": "So I don't pay anything.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 683.045,
+      "end": 685.027,
+      "person": "B",
+      "text": "We just want to make you the chairman.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 685.167,
+      "end": 685.587,
+      "person": "B",
+      "text": "Every time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 686.771,
+      "end": 687.391,
+      "person": "C",
+      "text": "But I do get 200.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 687.811,
+      "end": 689.692,
+      "person": "B",
+      "text": "Or beauty contest winner.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 695.694,
+      "end": 696.134,
+      "person": "D",
+      "text": "Nine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 699.415,
+      "end": 699.835,
+      "person": "B",
+      "text": "Three.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 701.596,
+      "end": 701.836,
+      "person": "B",
+      "text": "Six.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 703.197,
+      "end": 703.537,
+      "person": "B",
+      "text": "Nine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 703.897,
+      "end": 704.877,
+      "person": "B",
+      "text": "Chance.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 704.917,
+      "end": 705.597,
+      "person": "B",
+      "text": "Take one card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 706.238,
+      "end": 706.938,
+      "person": "B",
+      "text": "Take 200.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 707.198,
+      "end": 707.578,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 710.019,
+      "end": 710.539,
+      "person": "D",
+      "text": "200.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 710.919,
+      "end": 712.4,
+      "person": "B",
+      "text": "Take.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 712.44,
+      "end": 713.94,
+      "person": "B",
+      "text": "Trip to the next.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 715.501,
+      "end": 715.801,
+      "person": "B",
+      "text": "Sorry.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 721.684,
+      "end": 744.385,
+      "person": "B",
+      "text": "then she will get 400 200 because for the passing she will get 200 if you pass go take trip to reading railroad if you pass go pay 200 she only get 200 but she like previously passed once oh she will previously pass once then she will get 400 oh wow but she will give me 25 man she is getting 400 and give me only 25 that's even",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 755.633,
+      "end": 756.015,
+      "person": "D",
+      "text": "order",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 756.015,
+      "end": 787.0,
+      "person": null,
+      "text": "[Clicking of wooden pieces]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 808.603,
+      "end": 816.0,
+      "person": "B",
+      "text": "So you have to pay 4 times 7, 28.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 824.487,
+      "end": 826.587,
+      "person": "D",
+      "text": "My first rate I think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 827.087,
+      "end": 827.648,
+      "person": "D",
+      "text": "So it's 2.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 840.0,
+      "end": 856.448,
+      "person": null,
+      "text": "[Wooden pieces clicking]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 856.448,
+      "end": 862.759,
+      "person": "B",
+      "text": "That's a good number to pick.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 884.122,
+      "end": 885.663,
+      "person": "D",
+      "text": "We don't need two players.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 885.703,
+      "end": 886.063,
+      "person": "D",
+      "text": "Seven.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 890.444,
+      "end": 892.785,
+      "person": "B",
+      "text": "That's very bad.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 893.005,
+      "end": 897.886,
+      "person": "D",
+      "text": "How long are we playing?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 897.966,
+      "end": 905.428,
+      "person": "D",
+      "text": "I think we should quit because if somebody wants three colors together, then we should stop playing.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 905.448,
+      "end": 905.708,
+      "person": "D",
+      "text": "Six.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 913.107,
+      "end": 919.21,
+      "person": "B",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 919.21,
+      "end": 930.0,
+      "person": null,
+      "text": "[Paper rustling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 930.0,
+      "end": 951.413,
+      "person": null,
+      "text": "[Wooden pieces clicking]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 951.413,
+      "end": 951.753,
+      "person": "B",
+      "text": "10.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 951.773,
+      "end": 952.074,
+      "person": "B",
+      "text": "10.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 986.68,
+      "end": 987.02,
+      "person": "D",
+      "text": "Three.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 988.941,
+      "end": 989.481,
+      "person": "B",
+      "text": "Kentucky.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 989.501,
+      "end": 991.141,
+      "person": "B",
+      "text": "You have to pick two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 991.181,
+      "end": 991.361,
+      "person": "B",
+      "text": "Eleven.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 993.722,
+      "end": 993.882,
+      "person": "B",
+      "text": "Eleven.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 993.922,
+      "end": 994.442,
+      "person": "B",
+      "text": "Is this one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 995.442,
+      "end": 995.622,
+      "person": "D",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 995.642,
+      "end": 1003.024,
+      "person": "B",
+      "text": "One, two, three, four, five, six, seven, eight, nine, ten, eleven.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1009.926,
+      "end": 1014.407,
+      "person": "B",
+      "text": "I have always, like, you know, taken a break in my own house.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1018.999,
+      "end": 1020.48,
+      "person": "B",
+      "text": "yeah yeah",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1045.683,
+      "end": 1047.881,
+      "person": "B",
+      "text": "One, two, three, four.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1083.539,
+      "end": 1085.88,
+      "person": "B",
+      "text": "5, 1, 2, 3, 4, 5.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1086.42,
+      "end": 1087.12,
+      "person": "B",
+      "text": "This is mine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1087.2,
+      "end": 1090.241,
+      "person": "D",
+      "text": "11, 3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1090.361,
+      "end": 1094.642,
+      "person": "D",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1094.662,
+      "end": 1097.042,
+      "person": "D",
+      "text": "4, 5, 6, 7, 8.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1097.342,
+      "end": 1097.782,
+      "person": "D",
+      "text": "Next.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1099.443,
+      "end": 1100.083,
+      "person": "B",
+      "text": "Again, X.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1101.523,
+      "end": 1101.843,
+      "person": "D",
+      "text": "4, 9.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1101.903,
+      "end": 1103.063,
+      "person": "D",
+      "text": "Again, X.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1103.163,
+      "end": 1103.243,
+      "person": "D",
+      "text": "4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1114.261,
+      "end": 1119.522,
+      "person": "B",
+      "text": "oh no sorry not this one one two three four anyone have this one",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1140.417,
+      "end": 1142.419,
+      "person": "D",
+      "text": "Eight.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1168.605,
+      "end": 1169.706,
+      "person": "B",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1197.128,
+      "end": 1198.093,
+      "person": "B",
+      "text": "Malfin gardens",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1200.0,
+      "end": 1217.0,
+      "person": null,
+      "text": "[Rustling of wooden pieces]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1217.0,
+      "end": 1234.0,
+      "person": "B",
+      "text": "so collect 25 also 200 so it will give me",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1234.0,
+      "end": 1270.0,
+      "person": null,
+      "text": "[Plastic tray clicking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1271.323,
+      "end": 1278.908,
+      "person": "C",
+      "text": "Oh, this is mine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1278.908,
+      "end": 1278.928,
+      "person": null,
+      "text": "[Wooden pieces snapping together]",
+      "kind": "sound",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1278.928,
+      "end": 1279.909,
+      "person": "B",
+      "text": "24.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1290.0,
+      "end": 1302.264,
+      "person": null,
+      "text": "[Rustling of plastic pieces]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1302.264,
+      "end": 1306.267,
+      "person": "B",
+      "text": "I was supposed to buy this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1307.307,
+      "end": 1309.549,
+      "person": "C",
+      "text": "I'm going to pay $210.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1309.569,
+      "end": 1318.815,
+      "person": "C",
+      "text": "I'm going to set up three houses.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1325.399,
+      "end": 1326.22,
+      "person": "B",
+      "text": "One for $70.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1349.877,
+      "end": 1350.0,
+      "person": "B",
+      "text": "So you are not buying it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1351.898,
+      "end": 1352.098,
+      "person": "B",
+      "text": "What?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1352.819,
+      "end": 1355.78,
+      "person": "B",
+      "text": "This one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1355.8,
+      "end": 1359.642,
+      "person": "C",
+      "text": "No, I can't buy that.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1359.662,
+      "end": 1360.263,
+      "person": "C",
+      "text": "Now my turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1360.283,
+      "end": 1360.323,
+      "person": "D",
+      "text": "9.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1365.246,
+      "end": 1366.166,
+      "person": "C",
+      "text": "Everyone is paying tax.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1366.186,
+      "end": 1370.368,
+      "person": "C",
+      "text": "It's good for the country.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1370.408,
+      "end": 1370.969,
+      "person": "B",
+      "text": "It's not everyone.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1370.989,
+      "end": 1371.409,
+      "person": "B",
+      "text": "It's just me.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1372.309,
+      "end": 1372.389,
+      "person": "B",
+      "text": "100.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1372.41,
+      "end": 1373.45,
+      "person": "B",
+      "text": "You have to pay 100 to the bank.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1377.012,
+      "end": 1377.192,
+      "person": "C",
+      "text": "100.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1377.212,
+      "end": 1377.372,
+      "person": "C",
+      "text": "100.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1381.453,
+      "end": 1382.233,
+      "person": "C",
+      "text": "to for",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1414.599,
+      "end": 1417.34,
+      "person": "C",
+      "text": "Finally, I will get some rent.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1417.38,
+      "end": 1419.381,
+      "person": "B",
+      "text": "Give me 50.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1419.441,
+      "end": 1424.303,
+      "person": "B",
+      "text": "I'll give you 50, but I want to also do kind of offer a deal to you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1424.963,
+      "end": 1430.665,
+      "person": "B",
+      "text": "Because, you know, we have both visited Rhode Island, Connecticut, and Vermont.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1431.466,
+      "end": 1440.0,
+      "person": "B",
+      "text": "So how about if you give me the Vermont, I'll give you the another one, the yellow.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1440.0,
+      "end": 1440.149,
+      "person": "B",
+      "text": "So how about if you give me the Vermont, I'll give you the another one, the yellow.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1440.549,
+      "end": 1442.11,
+      "person": "B",
+      "text": "So you'll get two yellow, I'll get...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1444.291,
+      "end": 1447.493,
+      "person": "B",
+      "text": "So, you know, this one, what is it called?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1448.193,
+      "end": 1448.873,
+      "person": "D",
+      "text": "Benfnor.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1448.893,
+      "end": 1449.454,
+      "person": "B",
+      "text": "Benfnor.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1449.774,
+      "end": 1450.935,
+      "person": "B",
+      "text": "What is it called?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1450.975,
+      "end": 1455.097,
+      "person": "B",
+      "text": "It's $260 property, and I'm asking that Bhanu.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1455.457,
+      "end": 1457.418,
+      "person": "B",
+      "text": "Bhanu is just $100 property.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1457.578,
+      "end": 1458.199,
+      "person": "D",
+      "text": "Okay, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1462.261,
+      "end": 1463.742,
+      "person": "B",
+      "text": "Now, wait a moment.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1465.223,
+      "end": 1466.664,
+      "person": "B",
+      "text": "How much for the one house?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1468.865,
+      "end": 1469.005,
+      "person": "B",
+      "text": "It's",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1480.0,
+      "end": 1480.168,
+      "person": "D",
+      "text": "Everyone is building house.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1480.328,
+      "end": 1481.669,
+      "person": "D",
+      "text": "I don't even have any street.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1482.569,
+      "end": 1488.993,
+      "person": "C",
+      "text": "Hotels, basically.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1489.013,
+      "end": 1492.375,
+      "person": "D",
+      "text": "When you have all the house, then you can buy hotel.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1492.395,
+      "end": 1497.018,
+      "person": "D",
+      "text": "But you have three houses, four houses in one place.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1497.198,
+      "end": 1500.4,
+      "person": "B",
+      "text": "So you're saying these three houses are mine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1501.06,
+      "end": 1503.682,
+      "person": "B",
+      "text": "If I want to put another houses in all three,",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1504.202,
+      "end": 1509.763,
+      "person": "B",
+      "text": "Then again, I have to pay like 150, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1509.844,
+      "end": 1517.526,
+      "person": "B",
+      "text": "And if I pay 300, then I can own like three houses altogether, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1518.866,
+      "end": 1519.406,
+      "person": "B",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1520.0,
+      "end": 1521.126,
+      "person": "B",
+      "text": "So put two houses again.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1521.827,
+      "end": 1523.587,
+      "person": "B",
+      "text": "Is it allowed?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1525.668,
+      "end": 1526.388,
+      "person": "C",
+      "text": "For every one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1537.192,
+      "end": 1538.713,
+      "person": "B",
+      "text": "And another 150.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1539.754,
+      "end": 1542.076,
+      "person": "B",
+      "text": "No, I have paid for three.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1543.357,
+      "end": 1545.578,
+      "person": "B",
+      "text": "So I will go for the four houses actually.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1546.259,
+      "end": 1548.14,
+      "person": "B",
+      "text": "And give me just $50 from the bank.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1550.822,
+      "end": 1552.143,
+      "person": "B",
+      "text": "So now it's like four houses.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1552.163,
+      "end": 1560.0,
+      "person": "B",
+      "text": "So I can just replace four houses as a... How much did you pay?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1560.0,
+      "end": 1560.57,
+      "person": "B",
+      "text": "So I can just replace four houses as a... How much did you pay?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1561.39,
+      "end": 1564.753,
+      "person": "B",
+      "text": "I have paid in total $300, $300, $600.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1564.753,
+      "end": 1583.0,
+      "person": null,
+      "text": "[Rustling of plastic bags and puzzle pieces]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1583.779,
+      "end": 1584.409,
+      "person": "User",
+      "text": "So why don't we...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1584.409,
+      "end": 1676.0,
+      "person": null,
+      "text": "[Clicking sounds of plastic pieces fitting together]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1676.978,
+      "end": 1680.0,
+      "person": "D",
+      "text": "So if you mortgage it, you will not get any rent, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1680.0,
+      "end": 1680.636,
+      "person": "B",
+      "text": "So if you mortgage it, you will not get any rent, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1738.972,
+      "end": 1739.553,
+      "person": "User",
+      "text": "Why?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1739.593,
+      "end": 1740.534,
+      "person": "B",
+      "text": "That's true.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1748.0,
+      "end": 1763.0,
+      "person": "User",
+      "text": "[User mentions needing a tissue and walks to the kitchen]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1787.786,
+      "end": 1800.0,
+      "person": "User",
+      "text": "26 do you want to trade with the company and that's why i got everything differently but i couldn't like you know stop that carry",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1800.0,
+      "end": 1804.275,
+      "person": "B",
+      "text": "26 do you want to trade with the company and that's why i got everything differently but i couldn't like you know stop that carry",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1816.097,
+      "end": 1830.795,
+      "person": "B",
+      "text": "what's the point of 25 so you get what's the benefit of yours you get three times that's it",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1847.26,
+      "end": 1855.502,
+      "person": "B",
+      "text": "I can give you that one if you give me the free pass of all the red notes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1856.563,
+      "end": 1860.544,
+      "person": "B",
+      "text": "So you can collect the rent from those people. Six.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1860.724,
+      "end": 1864.905,
+      "person": "B",
+      "text": "One, two, three, four, five, six. Oh, this is mine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1865.905,
+      "end": 1873.387,
+      "person": "D",
+      "text": "Okay, then you have to give me free. Okay, it's fine. I will not trade the electric company.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1875.108,
+      "end": 1875.508,
+      "person": "User",
+      "text": "Okay, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1882.658,
+      "end": 1887.242,
+      "person": "User",
+      "text": "i'm doing a deal with uh simon",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1904.621,
+      "end": 1906.562,
+      "person": "D",
+      "text": "I agree with you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1906.602,
+      "end": 1912.345,
+      "person": "B",
+      "text": "The deal is I'll give this railroad to him and he'll give me the free pass to all the railroads.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1913.846,
+      "end": 1916.688,
+      "person": "User",
+      "text": "Free pass?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1916.768,
+      "end": 1918.829,
+      "person": "B",
+      "text": "I'll not give anything to him.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1918.889,
+      "end": 1920.0,
+      "person": "User",
+      "text": "Is that even allowed in the room?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1920.0,
+      "end": 1920.189,
+      "person": "B",
+      "text": "Is that even allowed in the room?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1920.309,
+      "end": 1921.61,
+      "person": "D",
+      "text": "Yeah, it's allowed.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1923.511,
+      "end": 1925.732,
+      "person": "D",
+      "text": "But still I have to pay to you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1926.052,
+      "end": 1926.913,
+      "person": "D",
+      "text": "You can also give me...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1926.913,
+      "end": 1970.0,
+      "person": null,
+      "text": "[Background chatter and rustling of paper]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1971.261,
+      "end": 1972.723,
+      "person": "B",
+      "text": "You have this one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1973.023,
+      "end": 1974.625,
+      "person": "B",
+      "text": "No, I think North Carolina is one bottle.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1974.645,
+      "end": 1976.087,
+      "person": "B",
+      "text": "Okay, finally I can buy some.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1976.207,
+      "end": 1976.948,
+      "person": "B",
+      "text": "Who's that one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1977.028,
+      "end": 1977.429,
+      "person": "B",
+      "text": "Okay, 300.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2009.345,
+      "end": 2019.167,
+      "person": "B",
+      "text": "This is mine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2019.167,
+      "end": 2040.0,
+      "person": null,
+      "text": "[Sound of plastic rustling and small pieces clicking together]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2040.0,
+      "end": 2047.137,
+      "person": null,
+      "text": "[Plastic rustling]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2047.137,
+      "end": 2065.035,
+      "person": "B",
+      "text": "so i'll get 200 give me a 140 from there and the bunting those will you know give me the rent of like four dollars",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2065.035,
+      "end": 2083.0,
+      "person": null,
+      "text": "[Paper rustling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2086.929,
+      "end": 2089.611,
+      "person": "B",
+      "text": "I haven't given any creepers to my houses.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2089.631,
+      "end": 2091.392,
+      "person": "B",
+      "text": "Those ones are not creepers.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2091.412,
+      "end": 2091.512,
+      "person": "B",
+      "text": "Five.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2091.712,
+      "end": 2092.573,
+      "person": "B",
+      "text": "It's five.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2092.653,
+      "end": 2102.418,
+      "person": "B",
+      "text": "One, two, three, four, five.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2102.478,
+      "end": 2104.219,
+      "person": "B",
+      "text": "But I will buy some houses.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2105.9,
+      "end": 2108.201,
+      "person": "B",
+      "text": "Do you own all the Tennessee?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2108.502,
+      "end": 2108.742,
+      "person": "B",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2108.782,
+      "end": 2110.843,
+      "person": "B",
+      "text": "No, we cannot buy your house.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2122.867,
+      "end": 2125.168,
+      "person": "B",
+      "text": "But actual expensive places are these.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2125.868,
+      "end": 2127.909,
+      "person": "D",
+      "text": "I will bankrupt if I use these.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2127.929,
+      "end": 2128.069,
+      "person": "D",
+      "text": "100.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2128.089,
+      "end": 2133.771,
+      "person": "B",
+      "text": "Two houses, I need three, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2133.831,
+      "end": 2136.032,
+      "person": "B",
+      "text": "50, 20, 20, 10, 50.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2136.352,
+      "end": 2136.732,
+      "person": "B",
+      "text": "100.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2136.772,
+      "end": 2136.972,
+      "person": "B",
+      "text": "10.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2137.092,
+      "end": 2137.432,
+      "person": "B",
+      "text": "50.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2137.673,
+      "end": 2152.398,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2160.0,
+      "end": 2182.309,
+      "person": null,
+      "text": "[Rustling of plastic bags]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2182.309,
+      "end": 2187.854,
+      "person": "B",
+      "text": "no that's my plan because i have two guys",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2212.0,
+      "end": 2227.752,
+      "person": null,
+      "text": "[Tapping on instruction manual]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2227.752,
+      "end": 2229.734,
+      "person": "B",
+      "text": "I can give you my railroad.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2229.854,
+      "end": 2236.28,
+      "person": "D",
+      "text": "But you have to pay me 250.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2236.3,
+      "end": 2236.68,
+      "person": "B",
+      "text": "250, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2236.82,
+      "end": 2237.401,
+      "person": "B",
+      "text": "I mean 300.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2238.242,
+      "end": 2239.223,
+      "person": "D",
+      "text": "I don't understand.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2262.359,
+      "end": 2263.06,
+      "person": "D",
+      "text": "Now it's my turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2263.78,
+      "end": 2267.684,
+      "person": "B",
+      "text": "I mean, it's good for you in terms of us, but.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2280.0,
+      "end": 2350.0,
+      "person": null,
+      "text": "[Sound of plastic pieces clicking together]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2357.301,
+      "end": 2359.804,
+      "person": "B",
+      "text": "one two three four five six seven eight",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2359.804,
+      "end": 2400.0,
+      "person": null,
+      "text": "[Sound of a board game piece moving across the board]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2404.568,
+      "end": 2404.989,
+      "person": "B",
+      "text": "Now it's time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2454.986,
+      "end": 2473.155,
+      "person": "B",
+      "text": "It's my turn now, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2473.175,
+      "end": 2474.515,
+      "person": "B",
+      "text": "Two. One, two. Give me 200.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2474.535,
+      "end": 2478.477,
+      "person": "B",
+      "text": "Yeah, I thought it was a good investment.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2478.517,
+      "end": 2483.9,
+      "person": "D",
+      "text": "He bought into 200, right? So literally, you are giving it as a free gift.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2501.984,
+      "end": 2508.73,
+      "person": "D",
+      "text": "Just I want a chance card or community test card so that it says don't collect 200 from the goal.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2510.332,
+      "end": 2516.698,
+      "person": "B",
+      "text": "I will take this and get more cash.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2516.978,
+      "end": 2520.0,
+      "person": "B",
+      "text": "Can you give me 26?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2520.0,
+      "end": 2524.485,
+      "person": "B",
+      "text": "Can you give me 26?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2524.525,
+      "end": 2524.585,
+      "person": "B",
+      "text": "26.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2529.153,
+      "end": 2530.553,
+      "person": "B",
+      "text": "Oh, 74.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2530.593,
+      "end": 2530.953,
+      "person": "D",
+      "text": "Why?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2531.774,
+      "end": 2532.554,
+      "person": "D",
+      "text": "That was $3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2532.574,
+      "end": 2535.495,
+      "person": "D",
+      "text": "Yeah, I have only 75.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2535.595,
+      "end": 2535.775,
+      "person": "D",
+      "text": "75.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2536.075,
+      "end": 2537.415,
+      "person": "D",
+      "text": "Oh, no, my turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2537.435,
+      "end": 2539.535,
+      "person": "B",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2580.0,
+      "end": 2626.196,
+      "person": "C",
+      "text": "you should try to buy another from here like what do you have",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2626.196,
+      "end": 2630.999,
+      "person": "B",
+      "text": "one two three four five six seven eight nine ten",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2654.955,
+      "end": 2681.926,
+      "person": "B",
+      "text": "and again there is a high chance to get in the jail advance to go 200 you can collect 200 and you have to roll again roll again to go to the jail 3 give me 4 dollars what an exciting moment to collect 4 dollars collect 200 from the bag 200",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2681.926,
+      "end": 2685.0,
+      "person": null,
+      "text": "[Sound of wooden pieces clicking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2705.368,
+      "end": 2717.958,
+      "person": "B",
+      "text": "That's 18 for yours.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2718.799,
+      "end": 2720.42,
+      "person": "B",
+      "text": "Then the next two is 260, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2720.48,
+      "end": 2721.021,
+      "person": "B",
+      "text": "260.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2730.568,
+      "end": 2732.149,
+      "person": "B",
+      "text": "And the last one is eight.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2732.149,
+      "end": 2735.0,
+      "person": null,
+      "text": "[Rustling of paper]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2736.558,
+      "end": 2737.699,
+      "person": "B",
+      "text": "Give me 200.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2737.699,
+      "end": 2760.0,
+      "person": null,
+      "text": "[Sound of dice rolling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2769.077,
+      "end": 2774.783,
+      "person": "B",
+      "text": "Now, this is the time to trade yours, you know, with me, with a good deal.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2776.845,
+      "end": 2788.837,
+      "person": "B",
+      "text": "Otherwise, give me your two yellow, I'll give you the green one, probably.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2788.937,
+      "end": 2790.158,
+      "person": "B",
+      "text": "Who wants another one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2790.478,
+      "end": 2790.599,
+      "person": "B",
+      "text": "You.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2791.36,
+      "end": 2793.161,
+      "person": "B",
+      "text": "But you will not trade with me, I know that.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2793.922,
+      "end": 2796.123,
+      "person": "D",
+      "text": "I want to trade with you, the Atlantic Avenue.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2796.204,
+      "end": 2800.366,
+      "person": "B",
+      "text": "I can trade you, only if you give free... No, no, no.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2800.407,
+      "end": 2803.949,
+      "person": "B",
+      "text": "That's completely illegal to give a free pass with a house or hotels.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2806.191,
+      "end": 2807.992,
+      "person": "D",
+      "text": "I'll give you a passive, Kevin.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2808.012,
+      "end": 2809.453,
+      "person": "B",
+      "text": "No, you will not trade with me, I know that.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2809.713,
+      "end": 2810.374,
+      "person": "D",
+      "text": "Oh, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2810.454,
+      "end": 2811.875,
+      "person": "B",
+      "text": "So, yeah, you...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2812.235,
+      "end": 2813.956,
+      "person": "B",
+      "text": "I can give you this green one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2814.216,
+      "end": 2814.597,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2815.017,
+      "end": 2818.88,
+      "person": "B",
+      "text": "But... What will you give me then?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2821.383,
+      "end": 2823.0,
+      "person": "B",
+      "text": "How much is the rent here?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2851.067,
+      "end": 2851.707,
+      "person": "B",
+      "text": "Only.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2853.428,
+      "end": 2858.451,
+      "person": "B",
+      "text": "No, no, that doesn't make sense because you'll get three colors at the same time, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2859.312,
+      "end": 2860.473,
+      "person": "B",
+      "text": "And you'll give this to two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2862.094,
+      "end": 2862.894,
+      "person": "B",
+      "text": "I think it's a good deal.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2862.894,
+      "end": 2865.816,
+      "person": null,
+      "text": "Okay.",
+      "kind": "sound",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2865.816,
+      "end": 2868.117,
+      "person": "B",
+      "text": "Now I have two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2868.878,
+      "end": 2869.918,
+      "person": "B",
+      "text": "Now with you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2870.058,
+      "end": 2870.479,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2871.659,
+      "end": 2875.842,
+      "person": "B",
+      "text": "I'll give all four.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2885.168,
+      "end": 2886.329,
+      "person": "User",
+      "text": "Yeah, I know.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2886.389,
+      "end": 2888.711,
+      "person": "User",
+      "text": "So it's best not to do that.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2890.151,
+      "end": 2893.494,
+      "person": "B",
+      "text": "This is the time when people used to, you know, quarrel with each other.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2893.574,
+      "end": 2894.975,
+      "person": "B",
+      "text": "Because I'm doing the deal with you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2895.015,
+      "end": 2896.095,
+      "person": "B",
+      "text": "You cannot say like that.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2898.477,
+      "end": 2901.319,
+      "person": "B",
+      "text": "Look, you know, that electric, both of the electric.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2901.879,
+      "end": 2903.04,
+      "person": "B",
+      "text": "I know that you won't do it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2905.063,
+      "end": 2909.105,
+      "person": "D",
+      "text": "I can give you only, like, if you give me free pass here and here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2909.245,
+      "end": 2909.525,
+      "person": "D",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2909.946,
+      "end": 2911.426,
+      "person": "B",
+      "text": "How can I say, like, free pass to all?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2911.587,
+      "end": 2912.047,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2912.527,
+      "end": 2913.328,
+      "person": "B",
+      "text": "No, then no.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2913.408,
+      "end": 2920.131,
+      "person": "B",
+      "text": "I could, that's not a good way to do this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2920.151,
+      "end": 2921.952,
+      "person": "B",
+      "text": "Yeah, then we have to move forward.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2921.992,
+      "end": 2923.253,
+      "person": "User",
+      "text": "Who's turn?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2923.313,
+      "end": 2930.177,
+      "person": "User",
+      "text": "No, it's my turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2930.217,
+      "end": 2930.377,
+      "person": "D",
+      "text": "Seven.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2930.417,
+      "end": 2930.477,
+      "person": "D",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2930.537,
+      "end": 2931.978,
+      "person": "D",
+      "text": "Three, four, five, six, seven.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2931.998,
+      "end": 2932.418,
+      "person": "D",
+      "text": "Oh, it's my turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2939.218,
+      "end": 2939.698,
+      "person": "B",
+      "text": "Very nice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2941.861,
+      "end": 2943.362,
+      "person": "B",
+      "text": "That's a very nice shot, 550.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2943.482,
+      "end": 2946.665,
+      "person": "B",
+      "text": "Okay, I can give you an offer.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2946.705,
+      "end": 2946.905,
+      "person": "B",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2946.925,
+      "end": 2949.948,
+      "person": "B",
+      "text": "I want to go to jail, but I don't want to.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

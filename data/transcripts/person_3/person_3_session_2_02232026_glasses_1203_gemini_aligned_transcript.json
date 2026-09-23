@@ -1,0 +1,3504 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 385,
+    "timing_counts": {
+      "whisper_exact_match": 369,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 8,
+      "inferred_before_first_anchor": 1,
+      "inferred_after_last_anchor": 7,
+      "caption_segment_evenly_distributed": 0,
+      "caption_segment_inferred": 0
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "A": {
+          "SPEAKER_03": 190,
+          "SPEAKER_02": 3,
+          "SPEAKER_00": 11
+        },
+        "User": {
+          "SPEAKER_00": 147,
+          "SPEAKER_03": 11,
+          "SPEAKER_02": 7
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "A": "SPEAKER_03",
+        "User": "SPEAKER_00"
+      },
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_2_02232026_glasses_1203"
+  },
+  "transcript": [
+    {
+      "start": 5.0,
+      "end": 7.321,
+      "person": "A",
+      "text": "So, we have the rules here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 7.341,
+      "end": 12.743,
+      "person": "A",
+      "text": "So, you can use it as a reference.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 15.463,
+      "end": 16.244,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 16.404,
+      "end": 17.104,
+      "person": "A",
+      "text": "So, it has some X.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 19.822,
+      "end": 44.0,
+      "person": "A",
+      "text": "it's uh written there so these are the infection deck and these are the player deck uh so yeah these are all the cubes there so first we need to pick one card right okay so we can start okay are we allowed to show each other i forgot um yeah i'm not sure",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 46.286,
+      "end": 48.648,
+      "person": "User",
+      "text": "I think so, because we'll see anyway, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 49.028,
+      "end": 49.529,
+      "person": "User",
+      "text": "Once we...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 50.61,
+      "end": 53.032,
+      "person": "User",
+      "text": "So I got St. Petersburg.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 54.353,
+      "end": 54.733,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 55.414,
+      "end": 56.735,
+      "person": "A",
+      "text": "And the color is blue, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 56.795,
+      "end": 58.856,
+      "person": "A",
+      "text": "So you need to put... Blue, Russia.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 89.849,
+      "end": 90.484,
+      "person": "User",
+      "text": "So...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 90.484,
+      "end": 90.534,
+      "person": "User",
+      "text": "So you need to put... What?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 90.534,
+      "end": 90.584,
+      "person": "A",
+      "text": "Blue there, okay.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 90.584,
+      "end": 90.634,
+      "person": "User",
+      "text": "Does it mean that there's an infection starting in that city?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 90.634,
+      "end": 90.684,
+      "person": "User",
+      "text": "Is that what it means, or...",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 90.684,
+      "end": 90.734,
+      "person": "User",
+      "text": "Or do we like move our pawn over there?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 90.734,
+      "end": 90.784,
+      "person": "A",
+      "text": "No, it's your position, I think.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 90.784,
+      "end": 90.834,
+      "person": "A",
+      "text": "Yeah, it's confusing.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 90.834,
+      "end": 92.391,
+      "person": "A",
+      "text": "So I'll check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 92.491,
+      "end": 95.814,
+      "person": "User",
+      "text": "I think you said that we have an example here, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 97.094,
+      "end": 97.935,
+      "person": "User",
+      "text": "Can we follow that?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 100.317,
+      "end": 105.6,
+      "person": "A",
+      "text": "So it says that give each player card and a pawn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 105.761,
+      "end": 107.882,
+      "person": "A",
+      "text": "So, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 108.563,
+      "end": 109.003,
+      "person": "A",
+      "text": "Matching.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 110.52,
+      "end": 115.724,
+      "person": "A",
+      "text": "Place the matching colored pawns for this thesis role in Atlanta.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 116.745,
+      "end": 119.947,
+      "person": "A",
+      "text": "So, it all starts with Atlanta, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 120.468,
+      "end": 121.789,
+      "person": "User",
+      "text": "Yeah, because, like, CDC.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 122.329,
+      "end": 123.049,
+      "person": "A",
+      "text": "Oh, okay, got it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 123.11,
+      "end": 126.732,
+      "person": "A",
+      "text": "So, you need to put your, or both pawn to Atlanta.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 127.513,
+      "end": 128.994,
+      "person": "A",
+      "text": "I think this is where we should start.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 129.394,
+      "end": 129.734,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 134.0,
+      "end": 134.218,
+      "person": "A",
+      "text": "Okay, so...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 138.38,
+      "end": 144.923,
+      "person": "A",
+      "text": "Take the epidemic card, set them aside until September 5, okay?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 144.943,
+      "end": 149.205,
+      "person": "User",
+      "text": "Step 5, so shuffle the other player card city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 149.766,
+      "end": 152.827,
+      "person": "A",
+      "text": "Okay, so I think now you put there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 153.067,
+      "end": 156.609,
+      "person": "A",
+      "text": "So do we need to infect the other cities as well, like the connected ones?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 159.971,
+      "end": 162.432,
+      "person": "User",
+      "text": "I'm not sure.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 163.813,
+      "end": 164.493,
+      "person": "User",
+      "text": "What does it say?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 169.947,
+      "end": 197.975,
+      "person": "A",
+      "text": "so when a disease outbreak occurs move the outbreak marker forward okay so we don't need to move the outbreak marker not yet yeah so it's just like drawing the card okay so this is for the after doing four actions okay so this is the action okay it's showing some uh",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 201.218,
+      "end": 226.0,
+      "person": "A",
+      "text": "action there like some example so it's saying like place infection rate marker and infect nine cities so do four actions so step one two three four",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 228.016,
+      "end": 231.542,
+      "person": "A",
+      "text": "so prepare the player day so we have the epidemic card",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 239.923,
+      "end": 240.0,
+      "person": "A",
+      "text": "so we have four actions right so one is called drive so move to a city connected uh by a white line to the one you are in so you can uh move your phone to any other connected city so this is one action called drive one is called direct flight so discard a city card to move to the city",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 240.0,
+      "end": 261.215,
+      "person": "A",
+      "text": "so we have four actions right so one is called drive so move to a city connected uh by a white line to the one you are in so you can uh move your phone to any other connected city so this is one action called drive one is called direct flight so discard a city card to move to the city",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 261.875,
+      "end": 277.0,
+      "person": "A",
+      "text": "named on the card so you can directly move to that particular city like if you got like let's say Riyadh then you can go directly to Riyadh if you ever got that card you're taking a direct flight yeah so",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 279.083,
+      "end": 307.0,
+      "person": "A",
+      "text": "also you need to like uh any city you are in to move to any city okay so discard the city card that matches the city you are in to move to any city okay so i think some other actions as well like build a research station treat disease and share knowledge like you can like um i think we can exchange cards like the even cards like i need these",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 308.007,
+      "end": 330.39,
+      "person": "A",
+      "text": "card i can take it from you and vice versa i think we can only do that when either of us is the researcher because remember um researcher's role is to like share knowledge or yeah but i think there is only researcher card so there is no chance that we both can be researcher",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 333.612,
+      "end": 335.114,
+      "person": "User",
+      "text": "Do we both have to be researchers?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 335.154,
+      "end": 336.254,
+      "person": "User",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 336.455,
+      "end": 336.995,
+      "person": "User",
+      "text": "Just one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 337.415,
+      "end": 342.699,
+      "person": "User",
+      "text": "If one of us is a researcher, then the sharing process can happen.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 348.924,
+      "end": 357.491,
+      "person": "User",
+      "text": "Now the question is again, do we have to infect all the adjacent cities or just the one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 361.902,
+      "end": 386.794,
+      "person": "User",
+      "text": "you did say something about adjacent cities in the very beginning so i think uh we can just do it right we can we can go ahead and just do it um so yeah you need to put like all the adjacent uh so the ones that are like directly connected so this this one is also yeah yeah okay so now all are connected so um",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 389.881,
+      "end": 392.884,
+      "person": "User",
+      "text": "And then, do I pick another infection card as well?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 392.904,
+      "end": 393.404,
+      "person": "User",
+      "text": "Yeah, I think so.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 393.564,
+      "end": 394.105,
+      "person": "User",
+      "text": "Yeah, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 394.385,
+      "end": 397.828,
+      "person": "A",
+      "text": "So you need to pick two cards, I think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 397.968,
+      "end": 398.489,
+      "person": "A",
+      "text": "One from each.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 399.89,
+      "end": 400.11,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 401.391,
+      "end": 402.212,
+      "person": "User",
+      "text": "Algeria.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 405.342,
+      "end": 432.536,
+      "person": "User",
+      "text": "okay i think this is where the infection oh i see so this is the city card this is the city card i'm still like trying to figure out what this means but like infection card means that we have to infect algeria as well as its surroundings okay so we need to remove those right yeah we need the black ones actually so i'm removing the blue ones so we have the black then it's algeria",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 436.19,
+      "end": 437.671,
+      "person": "User",
+      "text": "please, somewhere around here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 438.192,
+      "end": 440.934,
+      "person": "A",
+      "text": "So Algeria should be... Algeria should be.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 442.355,
+      "end": 444.837,
+      "person": "User",
+      "text": "And then I infect the other cities as well.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 444.837,
+      "end": 451.382,
+      "person": null,
+      "text": "[Sound of plastic cubes clicking]",
+      "kind": "sound",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 451.382,
+      "end": 451.562,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 452.783,
+      "end": 453.624,
+      "person": "User",
+      "text": "Yeah, this makes sense.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 456.006,
+      "end": 457.427,
+      "person": "User",
+      "text": "What about the city card?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 457.507,
+      "end": 460.749,
+      "person": "User",
+      "text": "Do I move my pawn from Atlanta to that city?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 460.769,
+      "end": 463.932,
+      "person": "A",
+      "text": "I will check the city card, so",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 467.622,
+      "end": 480.0,
+      "person": "User",
+      "text": "About sharing knowledge, it's not necessary to be a researcher.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 480.0,
+      "end": 480.488,
+      "person": "User",
+      "text": "About sharing knowledge, it's not necessary to be a researcher.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 480.528,
+      "end": 483.169,
+      "person": "User",
+      "text": "You can be a researcher, but it's not mandatory.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 484.47,
+      "end": 489.972,
+      "person": "User",
+      "text": "If both of us are, let's say, we're both in the same city, then we can share knowledge.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 490.272,
+      "end": 491.753,
+      "person": "User",
+      "text": "So that's another something.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 494.834,
+      "end": 496.255,
+      "person": "A",
+      "text": "I think you can just...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 497.881,
+      "end": 499.642,
+      "person": "A",
+      "text": "keep the player card to you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 500.062,
+      "end": 500.323,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 500.363,
+      "end": 501.283,
+      "person": "A",
+      "text": "For now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 501.764,
+      "end": 503.785,
+      "person": "A",
+      "text": "And just do the infection one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 504.145,
+      "end": 504.365,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 504.385,
+      "end": 505.506,
+      "person": "A",
+      "text": "So now it's my turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 505.526,
+      "end": 505.907,
+      "person": "A",
+      "text": "Your turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 506.147,
+      "end": 509.229,
+      "person": "A",
+      "text": "So I will take one from each.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 509.749,
+      "end": 511.01,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 511.19,
+      "end": 514.653,
+      "person": "A",
+      "text": "So we have Mumbai.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 515.013,
+      "end": 517.455,
+      "person": "A",
+      "text": "So I need to put the black.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 519.576,
+      "end": 521.137,
+      "person": "A",
+      "text": "So where is Mumbai?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 521.878,
+      "end": 522.878,
+      "person": "User",
+      "text": "Mumbai is there, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 523.239,
+      "end": 523.479,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 524.179,
+      "end": 524.399,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 524.419,
+      "end": 525.18,
+      "person": "User",
+      "text": "So we need to put",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 527.018,
+      "end": 530.78,
+      "person": "User",
+      "text": "Chennai, Delhi, Karachi.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 530.96,
+      "end": 533.041,
+      "person": "A",
+      "text": "So yeah, I think I have connected all.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 533.241,
+      "end": 533.461,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 534.401,
+      "end": 536.082,
+      "person": "A",
+      "text": "So I need to discard this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 536.122,
+      "end": 538.963,
+      "person": "A",
+      "text": "So did you discard your card?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 538.983,
+      "end": 540.284,
+      "person": "User",
+      "text": "I can discard mine here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 541.584,
+      "end": 541.804,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 541.984,
+      "end": 544.005,
+      "person": "A",
+      "text": "So now I have one city card in my hand.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 544.065,
+      "end": 546.866,
+      "person": "A",
+      "text": "You have one city card or the player card in your hand.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 547.146,
+      "end": 549.0,
+      "person": "A",
+      "text": "So let's do another turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 549.0,
+      "end": 549.0,
+      "person": "User",
+      "text": "Yeah, sure.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 555.354,
+      "end": 556.835,
+      "person": "User",
+      "text": "So I have an epidemic card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 563.679,
+      "end": 573.304,
+      "person": "User",
+      "text": "I have an Istanbul infection card as well so I need to infect that and then start an epidemic.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 573.984,
+      "end": 575.125,
+      "person": "A",
+      "text": "Where is Istanbul?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 592.596,
+      "end": 592.802,
+      "person": "User",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 607.427,
+      "end": 613.633,
+      "person": "A",
+      "text": "So, it says, if you draw any epidemic card, immediately do the following step in order.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 613.693,
+      "end": 616.935,
+      "person": "A",
+      "text": "So, first you need to increase the infection rate.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 617.276,
+      "end": 618.116,
+      "person": "A",
+      "text": "So, outbreak rate.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 618.237,
+      "end": 618.817,
+      "person": "A",
+      "text": "So, one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 619.758,
+      "end": 620.719,
+      "person": "A",
+      "text": "So, now infect.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 620.739,
+      "end": 625.923,
+      "person": "A",
+      "text": "So, draw the bottom card of the infection deck.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 626.284,
+      "end": 627.305,
+      "person": "A",
+      "text": "So, bottom card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 627.685,
+      "end": 630.527,
+      "person": "User",
+      "text": "From just like a random card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 631.388,
+      "end": 633.21,
+      "person": "User",
+      "text": "And then I infect that city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 633.55,
+      "end": 634.651,
+      "person": "User",
+      "text": "So, I infect Baghdad.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 636.557,
+      "end": 636.957,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 637.598,
+      "end": 640.199,
+      "person": "A",
+      "text": "So, put three dizzies cube on that color.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 640.219,
+      "end": 640.859,
+      "person": "A",
+      "text": "And I discarded.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 640.879,
+      "end": 644.241,
+      "person": "A",
+      "text": "So, you need to put three dizzies cubes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 645.061,
+      "end": 645.361,
+      "person": "User",
+      "text": "Three?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 645.382,
+      "end": 646.422,
+      "person": "A",
+      "text": "Yeah, three.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 646.702,
+      "end": 648.043,
+      "person": "User",
+      "text": "So, I already did one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 648.443,
+      "end": 649.484,
+      "person": "User",
+      "text": "Now, two more.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 650.384,
+      "end": 651.465,
+      "person": "User",
+      "text": "And then I discarded, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 652.025,
+      "end": 652.205,
+      "person": "A",
+      "text": "Mm-hmm.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 660.0,
+      "end": 660.837,
+      "person": "A",
+      "text": "So, it says put three disease cube of that color on the neb city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 661.457,
+      "end": 666.439,
+      "person": "A",
+      "text": "So, if the city already has cube of this color, do not add three cube.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 667.119,
+      "end": 668.52,
+      "person": "User",
+      "text": "Yeah, it already did have.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 668.82,
+      "end": 670.48,
+      "person": "A",
+      "text": "So, do not add three cube.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 670.901,
+      "end": 676.623,
+      "person": "A",
+      "text": "Instead, just add enough cube so that it has three cube of the same color.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 677.003,
+      "end": 677.303,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 677.543,
+      "end": 680.264,
+      "person": "A",
+      "text": "And then an outbreak of the disease occurs in the.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 682.503,
+      "end": 705.719,
+      "person": "A",
+      "text": "city so we need to follow the outbreak rule so discard this card in the infection discard pile so you need to discard the pile and then you need to intensify like reshuffle just the card in the infection discard pile and put them on top of infection deck so we need to reshuffle all the cards",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 707.401,
+      "end": 709.222,
+      "person": "A",
+      "text": "And we need to put it top of this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 710.302,
+      "end": 712.163,
+      "person": "A",
+      "text": "Okay, so this is the rule for outbreak.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 712.663,
+      "end": 713.543,
+      "person": "A",
+      "text": "But there is one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 713.563,
+      "end": 716.344,
+      "person": "A",
+      "text": "So, this is the rule for epidemic, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 718.285,
+      "end": 720.0,
+      "person": "A",
+      "text": "So we need to also follow the rule for outbreak.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 720.0,
+      "end": 720.825,
+      "person": "A",
+      "text": "So we need to also follow the rule for outbreak.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 721.646,
+      "end": 724.286,
+      "person": "A",
+      "text": "Because one outbreak happens in Baghdad, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 726.687,
+      "end": 728.748,
+      "person": "A",
+      "text": "So let's see the rule for...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 734.455,
+      "end": 751.869,
+      "person": "A",
+      "text": "for outbreak so when a disease outbreak occurs so we have one outbreak in Baghdad because it exceeds the three cube so we put three and one outbreak occurs so move the outbreak marker forward one space in the outbreak track already did okay",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 756.0,
+      "end": 756.952,
+      "person": "A",
+      "text": "So then plus one cube to the disease color on every city connected to the city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 757.432,
+      "end": 761.714,
+      "person": "A",
+      "text": "If any of them have already three cube of the disease, do not place the fourth.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 762.235,
+      "end": 765.256,
+      "person": "A",
+      "text": "Instead, in each of them, a chain reaction outbreak occurs.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 766.337,
+      "end": 767.818,
+      "person": "A",
+      "text": "So do you get that?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 768.358,
+      "end": 769.339,
+      "person": "User",
+      "text": "Yeah, I think I did.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 770.079,
+      "end": 772.901,
+      "person": "A",
+      "text": "So you need to put one to every adjacent.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 773.261,
+      "end": 779.885,
+      "person": "A",
+      "text": "If there is like greater than three, then you need to follow chain outbreak in every other city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 781.754,
+      "end": 808.0,
+      "person": "User",
+      "text": "what if we run out of cubes of the same color like we don't we have fewer blacks so okay so in this game so it's a cooperative game",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 809.177,
+      "end": 836.772,
+      "person": "A",
+      "text": "so all the players win or lose together so there is no like single winner yeah and we will lose the game if any of this happens like eight outbreak occurs so i think uh the number of outbreak reaches to this mark so this is one where everyone will lose second one is not enough disease cube are left when needed oh i think this is the your answer",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 838.551,
+      "end": 839.411,
+      "person": "User",
+      "text": "Oh, shoot.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 839.511,
+      "end": 840.0,
+      "person": "A",
+      "text": "So in that case, we will lose the game.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 840.0,
+      "end": 841.293,
+      "person": "A",
+      "text": "So in that case, we will lose the game.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 841.973,
+      "end": 845.136,
+      "person": "A",
+      "text": "And also not enough player cards are left when needed.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 846.157,
+      "end": 848.439,
+      "person": "A",
+      "text": "So your team runs out of time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 848.779,
+      "end": 849.84,
+      "person": "User",
+      "text": "So yeah, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 849.9,
+      "end": 852.122,
+      "person": "A",
+      "text": "So I think that was your answer.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 852.342,
+      "end": 858.367,
+      "person": "User",
+      "text": "Okay, another question I have is, so I picked out an epidemic card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 858.813,
+      "end": 881.0,
+      "person": "User",
+      "text": "didn't pick it up like i i drew up an epidemic card and as well as the player card right so for the epidemic i followed all three steps but for the player card i got istanbul and then i had to like infect istanbul right so so that's what i did yeah i just wanted to make sure okay to discard the card here the epidemic one um no i think",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 882.83,
+      "end": 884.092,
+      "person": "A",
+      "text": "Oh, you already discarded it, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 884.232,
+      "end": 885.173,
+      "person": "User",
+      "text": "Yeah, I already did.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 885.593,
+      "end": 886.334,
+      "person": "A",
+      "text": "What about this one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 886.354,
+      "end": 892.761,
+      "person": "A",
+      "text": "You need to discard it here because you already applied the rule.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 893.282,
+      "end": 895.124,
+      "person": "User",
+      "text": "And I just have my two city cards.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 897.266,
+      "end": 898.528,
+      "person": "User",
+      "text": "No, one infection as well.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 899.365,
+      "end": 900.126,
+      "person": "A",
+      "text": "Do I discard this?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 900.186,
+      "end": 906.011,
+      "person": "A",
+      "text": "Yeah, you should... Like, when you... Once I'm done, I'm just... You need to discard it here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 906.091,
+      "end": 906.971,
+      "person": "A",
+      "text": "Okay, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 907.091,
+      "end": 909.173,
+      "person": "A",
+      "text": "As you already infected, so you need to discard it here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 909.213,
+      "end": 909.674,
+      "person": "A",
+      "text": "Okay, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 911.0,
+      "end": 911.075,
+      "person": "A",
+      "text": "Okay, so I think it's my turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 912.256,
+      "end": 914.598,
+      "person": "A",
+      "text": "So I will pick one from each deck.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 915.619,
+      "end": 916.78,
+      "person": "A",
+      "text": "Yeah, I got another epidemic.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 917.42,
+      "end": 917.78,
+      "person": "User",
+      "text": "Oh, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 917.96,
+      "end": 919.342,
+      "person": "A",
+      "text": "So it's...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 919.642,
+      "end": 919.902,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 920.563,
+      "end": 921.724,
+      "person": "A",
+      "text": "So first I will...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 924.197,
+      "end": 926.922,
+      "person": "A",
+      "text": "So we need to move the marker first.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 927.643,
+      "end": 930.047,
+      "person": "A",
+      "text": "And then we need to infect the city, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 930.107,
+      "end": 931.109,
+      "person": "User",
+      "text": "Don't tell me it's black.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 934.494,
+      "end": 935.957,
+      "person": "User",
+      "text": "Because we have how many?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 935.977,
+      "end": 938.421,
+      "person": "A",
+      "text": "Yeah, I have Mumbai.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 939.075,
+      "end": 940.0,
+      "person": "User",
+      "text": "Oh no, again?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 940.0,
+      "end": 940.0,
+      "person": "User",
+      "text": "Did you shuffle these properly?",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 943.318,
+      "end": 948.741,
+      "person": "A",
+      "text": "Yes, it says that reshuffle and put it on top of it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 949.822,
+      "end": 951.883,
+      "person": "A",
+      "text": "So that's why it's coming again and again, I think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 952.103,
+      "end": 959.628,
+      "person": "User",
+      "text": "But what are the odds that just, you know, the two times you picked, both times you got like Mumbai, that's...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 961.377,
+      "end": 987.148,
+      "person": "A",
+      "text": "yeah because there were only three cards yeah i got it like yeah so i think i need to like what are the rules like i need to first put it here in mumbai yeah infect the city and then we i think it's written there right yeah so but we cannot add more than three so the outbreak will occur so we need to put one in every other city",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 990.233,
+      "end": 996.898,
+      "person": "A",
+      "text": "Okay, we already increased it and then you just discard it and then you take a player card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 996.918,
+      "end": 1001.981,
+      "person": "A",
+      "text": "Yeah, I already took this card and it was an infection card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1004.323,
+      "end": 1006.224,
+      "person": "User",
+      "text": "So yeah, infection.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1006.605,
+      "end": 1006.985,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1007.703,
+      "end": 1010.725,
+      "person": "A",
+      "text": "Like this card, like epidemic card, sorry.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1012.326,
+      "end": 1014.687,
+      "person": "User",
+      "text": "And you have to pick an infection card as well, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1014.867,
+      "end": 1016.348,
+      "person": "A",
+      "text": "Yeah, I already picked the infection card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1016.468,
+      "end": 1017.068,
+      "person": "A",
+      "text": "Oh, that's the one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1017.088,
+      "end": 1019.769,
+      "person": "A",
+      "text": "It was Mumbai, so that's why I did everything in Mumbai.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1019.81,
+      "end": 1021.871,
+      "person": "A",
+      "text": "So now I will discard this card here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1023.491,
+      "end": 1023.992,
+      "person": "User",
+      "text": "Oh, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1025.292,
+      "end": 1027.654,
+      "person": "User",
+      "text": "Okay, I think in that case...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1033.317,
+      "end": 1035.558,
+      "person": "User",
+      "text": "I think we have accidentally...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1037.705,
+      "end": 1038.826,
+      "person": "A",
+      "text": "Oh, so you did it twice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1039.066,
+      "end": 1039.967,
+      "person": "A",
+      "text": "Twice, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1040.287,
+      "end": 1042.209,
+      "person": "User",
+      "text": "Yeah, so that's why we have so many.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1043.31,
+      "end": 1043.771,
+      "person": "A",
+      "text": "Right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1043.811,
+      "end": 1044.271,
+      "person": "A",
+      "text": "I see.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1050.0,
+      "end": 1050.517,
+      "person": "User",
+      "text": "The city I got was Baghdad.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1050.897,
+      "end": 1051.217,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1051.518,
+      "end": 1052.979,
+      "person": "User",
+      "text": "If I remember it correctly.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1053.94,
+      "end": 1058.063,
+      "person": "User",
+      "text": "So i'm supposed to infect Baghdad and the surrounding cities.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1061.026,
+      "end": 1063.148,
+      "person": "User",
+      "text": "Why didn't I infect Tehran and Riyadh?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1067.058,
+      "end": 1067.518,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1067.878,
+      "end": 1068.118,
+      "person": "User",
+      "text": "Right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1069.518,
+      "end": 1072.759,
+      "person": "A",
+      "text": "Exactly.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1072.819,
+      "end": 1079.52,
+      "person": "A",
+      "text": "Are you sure that the infection occurred in Baghdad, not in other cities?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1079.8,
+      "end": 1080.0,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1080.0,
+      "end": 1080.22,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1080.66,
+      "end": 1082.221,
+      "person": "User",
+      "text": "Oh, we've already shuffled, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1082.421,
+      "end": 1083.621,
+      "person": "User",
+      "text": "So there is no way of finding.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1083.641,
+      "end": 1086.381,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1086.401,
+      "end": 1087.542,
+      "person": "User",
+      "text": "Maybe we can just move forward.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1087.562,
+      "end": 1088.502,
+      "person": "User",
+      "text": "Yeah, we can move forward.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1088.522,
+      "end": 1091.202,
+      "person": "A",
+      "text": "Even if there's a mistake, we can just move forward.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1092.122,
+      "end": 1092.882,
+      "person": "A",
+      "text": "Yeah, that's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1092.942,
+      "end": 1094.763,
+      "person": "A",
+      "text": "So pick another card from each deck.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1095.683,
+      "end": 1095.963,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1098.255,
+      "end": 1100.356,
+      "person": "User",
+      "text": "So I got an airlift.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1100.796,
+      "end": 1101.116,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1101.736,
+      "end": 1105.417,
+      "person": "A",
+      "text": "And you can also take one from this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1105.617,
+      "end": 1106.497,
+      "person": "User",
+      "text": "The infection one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1106.577,
+      "end": 1106.877,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1107.298,
+      "end": 1108.258,
+      "person": "User",
+      "text": "I got Baghdad.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1108.738,
+      "end": 1111.139,
+      "person": "User",
+      "text": "Yeah, this is the one I got because it's coming back.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1111.239,
+      "end": 1111.599,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1113.339,
+      "end": 1127.203,
+      "person": "A",
+      "text": "So that means you have one roll card that you can move to any other city, any other city that you have the card and you just eradicate like all the disease there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1128.328,
+      "end": 1129.388,
+      "person": "User",
+      "text": "For the airlift?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1130.028,
+      "end": 1131.609,
+      "person": "A",
+      "text": "I think so.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1131.709,
+      "end": 1135.41,
+      "person": "User",
+      "text": "It says move any one pawn to any city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1135.59,
+      "end": 1137.811,
+      "person": "User",
+      "text": "Get permission before moving another player's pawn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1137.831,
+      "end": 1138.931,
+      "person": "User",
+      "text": "Why would I want to do that?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1139.311,
+      "end": 1141.992,
+      "person": "A",
+      "text": "Like you can move my pawn also.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1142.472,
+      "end": 1144.172,
+      "person": "A",
+      "text": "Like let's say I don't have any airlift card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1144.873,
+      "end": 1147.453,
+      "person": "A",
+      "text": "But I need to remove some disease there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1147.513,
+      "end": 1151.294,
+      "person": "A",
+      "text": "So on behalf of me, you can move my pawn to there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1152.535,
+      "end": 1154.255,
+      "person": "User",
+      "text": "So you're a medic, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1154.415,
+      "end": 1154.835,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1154.895,
+      "end": 1156.036,
+      "person": "User",
+      "text": "So I want to move you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1156.236,
+      "end": 1156.456,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1157.842,
+      "end": 1162.025,
+      "person": "User",
+      "text": "So maybe I can move your pawn to Baghdad.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1163.285,
+      "end": 1164.526,
+      "person": "A",
+      "text": "Do you have the Baghdad card?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1164.746,
+      "end": 1165.186,
+      "person": "A",
+      "text": "No, I don't.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1165.207,
+      "end": 1166.287,
+      "person": "User",
+      "text": "Oh, yeah, I do.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1166.487,
+      "end": 1167.248,
+      "person": "User",
+      "text": "Yeah, I do.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1167.288,
+      "end": 1168.969,
+      "person": "A",
+      "text": "But this is your city card, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1168.989,
+      "end": 1170.009,
+      "person": "A",
+      "text": "This is the disease card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1170.109,
+      "end": 1171.59,
+      "person": "User",
+      "text": "This is the infection card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1171.67,
+      "end": 1172.911,
+      "person": "User",
+      "text": "Yes, this is not a city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1173.131,
+      "end": 1174.832,
+      "person": "User",
+      "text": "So it only applies to the city card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1174.852,
+      "end": 1175.273,
+      "person": "A",
+      "text": "Yeah, the city card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1175.293,
+      "end": 1176.313,
+      "person": "A",
+      "text": "So it will not work.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1176.974,
+      "end": 1177.454,
+      "person": "A",
+      "text": "Oh, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1180.0,
+      "end": 1180.536,
+      "person": "A",
+      "text": "So you can move to any... Oh, let's see if I have the...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1181.576,
+      "end": 1184.038,
+      "person": "A",
+      "text": "So I have only London.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1184.378,
+      "end": 1185.679,
+      "person": "A",
+      "text": "Have I discarded anything there?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1185.699,
+      "end": 1185.799,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1187.993,
+      "end": 1200.0,
+      "person": "A",
+      "text": "we've only played like one so okay i have one city you have these two times so that's why that's yeah less card yeah so we can move to london will it work um i think we can move to london and then we need we can we can move to a connected city by a white line so i think this is the step we can do white line should",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1200.0,
+      "end": 1215.023,
+      "person": "A",
+      "text": "we've only played like one so okay i have one city you have these two times so that's why that's yeah less card yeah so we can move to london will it work um i think we can move to london and then we need we can we can move to a connected city by a white line so i think this is the step we can do white line should",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1215.372,
+      "end": 1242.982,
+      "person": "User",
+      "text": "like so first we will go to london and then we will go to paris then we will go to uh i have st petersburg so i can move you to istanbul so i i will move you right since i have the airlift card so i want to move you or myself yeah you can move any of us okay so i'm moving you to here the city because i have the city card and then",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1245.876,
+      "end": 1247.697,
+      "person": "User",
+      "text": "And then there were a few actions.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1251.798,
+      "end": 1253.059,
+      "person": "User",
+      "text": "Yeah, there are some actions.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1253.679,
+      "end": 1254.88,
+      "person": "User",
+      "text": "Yeah, like drive ferry.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1255.5,
+      "end": 1257.721,
+      "person": "User",
+      "text": "So move to a city connected by a white line.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1257.761,
+      "end": 1260.302,
+      "person": "User",
+      "text": "So you can drive and come to the city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1260.322,
+      "end": 1264.003,
+      "person": "A",
+      "text": "OK.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1264.523,
+      "end": 1270.026,
+      "person": "A",
+      "text": "So I need to go to, yeah, so when it will I will do that step.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1270.786,
+      "end": 1272.006,
+      "person": "A",
+      "text": "So your step is done, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1272.427,
+      "end": 1272.627,
+      "person": "User",
+      "text": "Mm-hmm.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1272.627,
+      "end": 1273.0,
+      "person": "A",
+      "text": "OK.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1274.783,
+      "end": 1275.883,
+      "person": "User",
+      "text": "And then do I discard this?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1275.923,
+      "end": 1278.064,
+      "person": "A",
+      "text": "Yeah, you need to discard this because you already played.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1278.204,
+      "end": 1278.424,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1279.564,
+      "end": 1283.125,
+      "person": "A",
+      "text": "And also the St. Peter's... No, that's my city card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1284.085,
+      "end": 1286.425,
+      "person": "A",
+      "text": "But you already used that card, I think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1288.346,
+      "end": 1292.887,
+      "person": "User",
+      "text": "Okay, so... Let's see, are we supposed to...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1296.568,
+      "end": 1298.748,
+      "person": "User",
+      "text": "So play any time, not an action.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1300.841,
+      "end": 1320.0,
+      "person": "A",
+      "text": "so this can be done anytime it's not an action so i don't have to discard or anything and what about this one i think you can just discard it here because we already uh do did one mistake in the last step so we don't okay repeat yeah so i will pick uh one",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1320.0,
+      "end": 1324.93,
+      "person": "A",
+      "text": "so this can be done anytime it's not an action so i don't have to discard or anything and what about this one i think you can just discard it here because we already uh do did one mistake in the last step so we don't okay repeat yeah so i will pick uh one",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1327.557,
+      "end": 1354.743,
+      "person": "A",
+      "text": "so i have this one quiet knight so it says skip the next infection card so do not flip over any infection card so i think we can skip the infection for this round because i got this one quiet knight so i can apply no infection for this turn so i will discard this card here which one did you get?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1354.743,
+      "end": 1355.371,
+      "person": "User",
+      "text": "this one?",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1355.371,
+      "end": 1356.0,
+      "person": "A",
+      "text": "oh okay yeah that's coming again okay so i will uh i need to discard it here right okay so yeah it's your turn",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1369.375,
+      "end": 1376.213,
+      "person": "User",
+      "text": "okay so i got grant so it's also not an action i'm sorry",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1378.321,
+      "end": 1392.0,
+      "person": "User",
+      "text": "um add one research station to any city no city card needed oh also i got a grant so i can like build so by the way i am scientist right so it says that i need four cards of the same color to discover a cure",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1399.992,
+      "end": 1428.0,
+      "person": "User",
+      "text": "four cards of the same color of the same color so since i have six saint petersburg so i need three more blues right and then i have the blue cure yeah yeah it's just something to keep in mind so i have one blue london oh you can like share with oh that's the purpose of research you know researcher so if you were a researcher you could like share your",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1429.881,
+      "end": 1440.0,
+      "person": "User",
+      "text": "maybe yeah so I'm gonna like build a research station to any city on what basis like basis of infection right yeah I can like build here can we do that",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1440.0,
+      "end": 1445.694,
+      "person": "User",
+      "text": "maybe yeah so I'm gonna like build a research station to any city on what basis like basis of infection right yeah I can like build here can we do that",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1445.694,
+      "end": 1455.0,
+      "person": null,
+      "text": "[Plastic crinkling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1456.556,
+      "end": 1476.465,
+      "person": "A",
+      "text": "okay let's check the rule for this i mean in real life scenario just because we have a research station doesn't mean that all the diseases are gone okay so it's the rule here so build a research station so discard the city card that matches the city you are",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1478.007,
+      "end": 1480.249,
+      "person": "A",
+      "text": "in place to a research station here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1481.369,
+      "end": 1484.592,
+      "person": "A",
+      "text": "Take the research station from the pile next to the board.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1485.292,
+      "end": 1491.877,
+      "person": "A",
+      "text": "If all six research stations have been built, take a research station from anywhere on the board.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1491.877,
+      "end": 1506.0,
+      "person": null,
+      "text": "[Paper rustling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1506.0,
+      "end": 1506.05,
+      "person": "User",
+      "text": "Okay, just read the first part because we still have more research stations.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1506.05,
+      "end": 1506.467,
+      "person": "A",
+      "text": "Okay, so discard the city card that matches the city you are in to place a research station there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1507.997,
+      "end": 1510.459,
+      "person": "User",
+      "text": "Oh, so I can't build it anywhere, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1510.559,
+      "end": 1511.679,
+      "person": "User",
+      "text": "I need to have the city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1511.759,
+      "end": 1514.221,
+      "person": "A",
+      "text": "And you need to discard the city card as well.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1514.541,
+      "end": 1514.921,
+      "person": "User",
+      "text": "Oh, no.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1517.963,
+      "end": 1519.103,
+      "person": "User",
+      "text": "So it's not an action.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1519.163,
+      "end": 1520.604,
+      "person": "User",
+      "text": "What if I don't want to do this now?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1520.904,
+      "end": 1521.725,
+      "person": "A",
+      "text": "Oh, you can do it later.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1522.025,
+      "end": 1523.126,
+      "person": "A",
+      "text": "I can do it later, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1523.166,
+      "end": 1525.307,
+      "person": "A",
+      "text": "You don't need to do it now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1525.747,
+      "end": 1526.928,
+      "person": "A",
+      "text": "Just leave it be.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1528.0,
+      "end": 1529.889,
+      "person": "User",
+      "text": "So for the infection card, I got Montreal.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1530.209,
+      "end": 1532.211,
+      "person": "A",
+      "text": "Okay, so you need to infect Montreal, I think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1533.531,
+      "end": 1533.991,
+      "person": "User",
+      "text": "That's a blue.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1534.031,
+      "end": 1534.192,
+      "person": "User",
+      "text": "Mm-hmm.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1535.73,
+      "end": 1538.672,
+      "person": "User",
+      "text": "As well as its surrounding or not?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1538.712,
+      "end": 1545.155,
+      "person": "A",
+      "text": "I think just Montreal should be fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1545.635,
+      "end": 1547.276,
+      "person": "User",
+      "text": "Oh, we're changing the rules then.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1547.376,
+      "end": 1549.057,
+      "person": "User",
+      "text": "Because we started with infecting.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1549.077,
+      "end": 1552.058,
+      "person": "A",
+      "text": "Okay, so then play it the same way.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1552.298,
+      "end": 1555.7,
+      "person": "A",
+      "text": "So let's infect the other cities as well.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1555.74,
+      "end": 1560.0,
+      "person": "A",
+      "text": "Because it's like infecting in a more rapid way.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1560.0,
+      "end": 1561.183,
+      "person": "A",
+      "text": "Because it's like infecting in a more rapid way.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1561.523,
+      "end": 1561.683,
+      "person": "User",
+      "text": "Mm-hmm.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1568.65,
+      "end": 1590.0,
+      "person": "A",
+      "text": "and then I just got it now it's your turn so now it's my turn so I got one event card called forecast and one for daisy so forecast is draw look at and",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1591.816,
+      "end": 1617.918,
+      "person": "A",
+      "text": "rearrange the top six card of the infection deck okay put them back on top okay so that means i can have the forecast power so i can check the top six card i can shuffle it in any order in favor of our game and i can put it there okay that's so but it's an uh event like we don't need to play it right now",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1619.214,
+      "end": 1642.783,
+      "person": "A",
+      "text": "like when we have a very difficult situation in the game and we need something in our favor we can play uh in that case i would say maybe like are we out of baghdad istanbul and mumbai are we done with those cards um yes we are done we have baghdad here i'm sure okay and i think we have mumbai also then then you can use it later",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1668.138,
+      "end": 1675.18,
+      "person": "User",
+      "text": "I have an event card resilient population play anytime not an action remove any one card in the infection",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1676.199,
+      "end": 1680.0,
+      "person": "User",
+      "text": "discard pile from the game remove any one card in the infection discard pile infection discard pile you may play this between the infect and intensify steps of an epidemic okay you may play this between um okay let's um in fact let's say uh i'm not sure resilient population so uh what is this card",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1680.0,
+      "end": 1705.645,
+      "person": "User",
+      "text": "discard pile from the game remove any one card in the infection discard pile infection discard pile you may play this between the infect and intensify steps of an epidemic okay you may play this between um okay let's um in fact let's say uh i'm not sure resilient population so uh what is this card",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1706.367,
+      "end": 1711.494,
+      "person": "User",
+      "text": "So it says I can remove any one card from the infection discard pile.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1712.254,
+      "end": 1713.356,
+      "person": "User",
+      "text": "How will that help me?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1715.608,
+      "end": 1720.432,
+      "person": "User",
+      "text": "And it also says you may play this between the infect and intensify steps of an epidemic.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1720.752,
+      "end": 1723.955,
+      "person": "User",
+      "text": "Let's say I got an epidemic card and it has three steps, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1724.355,
+      "end": 1727.418,
+      "person": "User",
+      "text": "I start with infect and then intensify.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1727.698,
+      "end": 1734.583,
+      "person": "User",
+      "text": "Then I can play this card and remove one card from the infection discard pile so that it's not repeated again.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1734.623,
+      "end": 1735.564,
+      "person": "User",
+      "text": "Yeah, I think so.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1735.604,
+      "end": 1736.685,
+      "person": "User",
+      "text": "Oh, okay, yeah, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1737.286,
+      "end": 1738.0,
+      "person": "User",
+      "text": "So I don't want to play this now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1739.367,
+      "end": 1740.869,
+      "person": "User",
+      "text": "And then I got soul, so...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1748.634,
+      "end": 1756.282,
+      "person": "User",
+      "text": "Yeah, so here, Tokyo, Beijing, Shanghai.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1757.023,
+      "end": 1761.0,
+      "person": "User",
+      "text": "Okay, so your part is done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1761.929,
+      "end": 1765.813,
+      "person": "A",
+      "text": "So now I will pick a card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1768.34,
+      "end": 1789.353,
+      "person": "A",
+      "text": "uh i got this again so oh so this is for the like player card not the disease card so you got this no this is the city card yeah the city card okay yeah it's different so i got moscow oh i have to discard this yeah so i have moscow and it's a",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1795.9,
+      "end": 1800.0,
+      "person": "A",
+      "text": "I'm not sure because I have to put black card in Moscow and let's say, where is Moscow?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1800.0,
+      "end": 1805.208,
+      "person": "A",
+      "text": "I'm not sure because I have to put black card in Moscow and let's say, where is Moscow?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1805.529,
+      "end": 1805.989,
+      "person": "A",
+      "text": "This one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1806.97,
+      "end": 1814.016,
+      "person": "A",
+      "text": "So if I put one cube there, we need to put some other cubes as well.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1814.577,
+      "end": 1818.941,
+      "person": "User",
+      "text": "You don't have enough, which basically means this is the end of the game and we're dead.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1819.617,
+      "end": 1830.279,
+      "person": "A",
+      "text": "Yeah, but I think we did some mistake because maybe we don't need to put the cubes to the adjacent city or the connected city.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1830.599,
+      "end": 1835.5,
+      "person": "User",
+      "text": "We just need to put it on... Yeah, otherwise we'll run out of the cubes very soon.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1835.62,
+      "end": 1837.0,
+      "person": "A",
+      "text": "Yeah, it's ending very fast.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1838.921,
+      "end": 1843.722,
+      "person": "A",
+      "text": "So I'm not sure if we played the game in the right way.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1844.002,
+      "end": 1849.343,
+      "person": "User",
+      "text": "I remember you mentioned something about adjacent cities in the beginning of the game and I also asked a question.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1849.603,
+      "end": 1858.547,
+      "person": "A",
+      "text": "If it's for regular one or just for the epidemic or what are the other outbreaks?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1858.927,
+      "end": 1862.669,
+      "person": "User",
+      "text": "Yeah, the outbreak makes sense because in real life also that happens.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1862.709,
+      "end": 1868.511,
+      "person": "User",
+      "text": "The neighboring cities or countries, you know, if it's an infectious disease, then it spreads very quickly.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1868.871,
+      "end": 1869.712,
+      "person": "User",
+      "text": "So that makes sense.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1869.792,
+      "end": 1870.712,
+      "person": "User",
+      "text": "But if it's like...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1873.784,
+      "end": 1882.769,
+      "person": "User",
+      "text": "a regular disease that has started locally in a particular region, then it takes a while before it starts spreading around, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1882.849,
+      "end": 1887.0,
+      "person": "User",
+      "text": "So it doesn't really make sense to put cubes in all the adjacent cities.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1887.992,
+      "end": 1890.454,
+      "person": "A",
+      "text": "Yeah, I think that's where we did one mistake.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1890.594,
+      "end": 1897.738,
+      "person": "A",
+      "text": "Also, I think we forgot to do another thing, like we haven't moved our phone to any city to",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1901.19,
+      "end": 1917.715,
+      "person": "User",
+      "text": "yeah I was kind of doing that because you're a medic right you can treat disease I'm a scientist I don't think I can can I treat disease I don't think so medic and quarantine specialist",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1920.153,
+      "end": 1924.676,
+      "person": "User",
+      "text": "then I should at least move some of the cities.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1924.916,
+      "end": 1925.957,
+      "person": "A",
+      "text": "That was the whole point.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1926.397,
+      "end": 1929.199,
+      "person": "A",
+      "text": "I moved it here so that you could drive.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1929.639,
+      "end": 1937.644,
+      "person": "A",
+      "text": "So in the next turn, you picked up another card and then you started infecting other cities.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1938.464,
+      "end": 1944.008,
+      "person": "A",
+      "text": "But you should have maybe driven to this city and then treated the diseases first.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1944.825,
+      "end": 1964.0,
+      "person": "User",
+      "text": "okay so that is one mistake yeah yeah also we uh run out of like we ran out of like black cubes we have lots of yellows we never get any of the yellow so that's kind of interesting yeah but that's not in our hand it's just the way the cards are shuffled",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1965.148,
+      "end": 1971.653,
+      "person": "User",
+      "text": "So yeah, I think another reason is that we got one outbreak first and we shuffled the card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1972.133,
+      "end": 1975.736,
+      "person": "User",
+      "text": "So we got like Mumbai twice, Baghdad twice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1975.836,
+      "end": 1977.357,
+      "person": "A",
+      "text": "But that's how it works, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1977.457,
+      "end": 1981.0,
+      "person": "A",
+      "text": "Like we have to shuffle it in every round, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1981.681,
+      "end": 1982.721,
+      "person": "User",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1983.482,
+      "end": 1991.108,
+      "person": "User",
+      "text": "Like every time there is outbreak, we need to shuffle the card and put it on top of this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1991.128,
+      "end": 1991.368,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1995.333,
+      "end": 2018.85,
+      "person": "User",
+      "text": "um yeah so also uh yes so we need to also be careful about the like our roles like for each of us we have our defined role so we need to keep in mind yeah keep that in mind like i had this in mind like having four cards of same color so i was kind of",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2020.19,
+      "end": 2040.0,
+      "person": "User",
+      "text": "rooting for blue cards like i have one blue card so if i had like three more then i can i could treat so we need to check like if the way we played the game was the right way because",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2040.847,
+      "end": 2062.0,
+      "person": "User",
+      "text": "especially um infecting cities that part yeah that's confusing so i'm not still like 100 sure that we did everything in the right order so let's see okay so let's close the session okay so for today you will be like",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

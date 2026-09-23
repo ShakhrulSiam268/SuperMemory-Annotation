@@ -1,0 +1,470 @@
+[
+  {
+    "start": 241.13,
+    "end": 242.931,
+    "text": "Are you done with your prayer?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 243.011,
+    "end": 257.0,
+    "text": "Yes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 257.06,
+    "end": 257.26,
+    "text": "Why?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 257.32,
+    "end": 259.921,
+    "text": "You can pray here.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 260.982,
+    "end": 263.924,
+    "text": "Should I give you a...",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 264.004,
+    "end": 264.184,
+    "text": "Yes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 264.204,
+    "end": 264.444,
+    "text": "Yes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 294.495,
+    "end": 296.558,
+    "text": "I'm going to be just here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 297.479,
+    "end": 298.039,
+    "text": "Just get set up.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 298.059,
+    "end": 298.8,
+    "text": "I'm just gonna be here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 611.48,
+    "end": 626.57,
+    "text": "You should create a recording, include the name calibration inside, and calibrate inside that recording.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 626.61,
+    "end": 634.916,
+    "text": "And then, when you are ready, you can begin the actual recording.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 634.956,
+    "end": 640.4,
+    "text": "The reason I am doing that is because when we submit to MPS,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 642.546,
+    "end": 654.921,
+    "text": "If you submit to MPS, then if only one of the large recording has the on-letter calibration, it's not going to work.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 656.262,
+    "end": 661.008,
+    "text": "So we just append this short calibration recording in front of this and it should work.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 669.143,
+    "end": 675.385,
+    "text": "Remember that you need to start calibration every time for a new glass.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 770.257,
+    "end": 775.601,
+    "text": "Yes, where do you keep the prayer mat?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 777.522,
+    "end": 782.746,
+    "text": "I need to throw this out.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 782.846,
+    "end": 788.97,
+    "text": "I'll just go outside in a few minutes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 788.991,
+    "end": 792.393,
+    "text": "Yes, you should start recording.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 792.433,
+    "end": 795.215,
+    "text": "I'm just like clearing out any...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 799.222,
+    "end": 805.587,
+    "text": "Any dirt in the floor so that we can work.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 805.607,
+    "end": 805.747,
+    "text": "28.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 897.473,
+    "end": 901.276,
+    "text": "Yes, regular fridge I think.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 901.336,
+    "end": 905.78,
+    "text": "I think the shrimp is the only one that needs to be in the deep fridge.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1039.543,
+    "end": 1040.953,
+    "text": "Just throw it in the garbage.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1109.695,
+    "end": 1115.178,
+    "text": "I don't think you should put the banana in the fridge.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1115.198,
+    "end": 1117.04,
+    "text": "You can put it here over the counter.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1117.06,
+    "end": 1117.22,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1117.28,
+    "end": 1125.165,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1125.205,
+    "end": 1125.425,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1131.503,
+    "end": 1133.963,
+    "text": "You can put your butter in the fridge for now.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1180.213,
+    "end": 1181.076,
+    "text": "Is everything done?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1181.136,
+    "end": 1181.297,
+    "text": "Yes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1181.317,
+    "end": 1185.71,
+    "text": "I will take the rack.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1186.152,
+    "end": 1186.252,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1186.272,
+    "end": 1186.432,
+    "text": "Do that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1293.181,
+    "end": 1298.791,
+    "text": "I think you should take it in your hand and check what spices we have.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1298.832,
+    "end": 1301.296,
+    "text": "Just to make sure that we know what we're seeing.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1344.68,
+    "end": 1346.681,
+    "text": "So I think what you can do is look at it like this.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1346.721,
+    "end": 1349.422,
+    "text": "I think that's fine.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1387.46,
+    "end": 1394.092,
+    "text": "Okay, so let me just clean that up over there.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1501.698,
+    "end": 1504.62,
+    "text": "You don't have to check it very thoroughly.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1504.68,
+    "end": 1514.205,
+    "text": "Just one or two, one second is fine.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1514.225,
+    "end": 1519.488,
+    "text": "Like a glance.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1520.349,
+    "end": 1525.212,
+    "text": "Some of those actually might be expired.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1537.96,
+    "end": 1540.702,
+    "text": "Canola oil can be substituted for vegetable oil, I think.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1638.812,
+    "end": 1641.735,
+    "text": "No cockroaches.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1641.815,
+    "end": 1649.861,
+    "text": "At least not since they had the pesticide, applied the pesticide.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1649.961,
+    "end": 1654.405,
+    "text": "I haven't seen any since then, even in the summer.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1674.004,
+    "end": 1677.367,
+    "text": "We are out of disinfecting wipes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1677.387,
+    "end": 1678.688,
+    "text": "That is a bad thing.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1730.643,
+    "end": 1736.073,
+    "text": "I have chopped garlic, I think.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1736.273,
+    "end": 1740.381,
+    "text": "Yes, yes, yes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1740.441,
+    "end": 1743.286,
+    "text": "I think chopped garlic is in the fridge.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1763.997,
+    "end": 1765.358,
+    "text": "I think I'm nearly done.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1766.459,
+    "end": 1770.062,
+    "text": "I'll just...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1770.082,
+    "end": 1771.443,
+    "text": "I should probably do this here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1771.463,
+    "end": 1771.703,
+    "text": "So...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1803.343,
+    "end": 1809.407,
+    "text": "I think we can now check what ingredients we need.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1809.427,
+    "end": 1817.253,
+    "text": "Let me just take a look at the fridge.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1817.473,
+    "end": 1822.337,
+    "text": "Chicken biryani.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1822.377,
+    "end": 1823.258,
+    "text": "Let's see.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1823.298,
+    "end": 1826.56,
+    "text": "Do we have chicken?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1826.58,
+    "end": 1827.461,
+    "text": "I don't think so.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1828.081,
+    "end": 1829.062,
+    "text": "Do we need to buy chicken?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1829.574,
+    "end": 1832.316,
+    "text": "Right, we have white chicken.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1832.436,
+    "end": 1835.678,
+    "text": "We have cooked chicken.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1835.758,
+    "end": 1846.925,
+    "text": "Some onions.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1846.945,
+    "end": 1849.587,
+    "text": "We have the garlic here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1849.627,
+    "end": 1853.049,
+    "text": "We have the ginger paste.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1853.069,
+    "end": 1853.93,
+    "text": "We have ghee.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1854.871,
+    "end": 1855.671,
+    "text": "I think it's fine.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1855.691,
+    "end": 1856.892,
+    "text": "We have everything.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1856.912,
+    "end": 1858.593,
+    "text": "We just need to get chicken, I think.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1863.657,
+    "end": 1867.299,
+    "text": "So, check the status of your glasses.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1877.584,
+    "end": 1882.326,
+    "text": "Okay, my one is only 44% battery left.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1882.666,
+    "end": 1886.828,
+    "text": "And I'm going to complete this recording.",
+    "speaker": "SPEAKER_00"
+  }
+]

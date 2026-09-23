@@ -1,0 +1,1946 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 211,
+    "timing_counts": {
+      "whisper_exact_match": 69,
+      "whisper_partial_match": 28,
+      "interpolated_between_anchors": 26,
+      "inferred_before_first_anchor": 16,
+      "inferred_after_last_anchor": 31,
+      "caption_segment_evenly_distributed": 11,
+      "caption_segment_inferred": 30
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "User": {
+          "SPEAKER_00": 79,
+          "SPEAKER_03": 16
+        },
+        "B": {
+          "SPEAKER_03": 11,
+          "SPEAKER_00": 13
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "User": "SPEAKER_00",
+        "B": "SPEAKER_00"
+      },
+      "conflicts": {
+        "SPEAKER_00": [
+          "B",
+          "User"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "caption_metadata": {
+      "video_id": "",
+      "video_path": "",
+      "duration": null,
+      "start_time": null
+    }
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "person": "User",
+      "text": "Okay, I think the washer is done by now.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 7.0,
+      "end": 20.0,
+      "person": null,
+      "text": "[Washing machine lid opens]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 20.0,
+      "end": 50.0,
+      "person": null,
+      "text": "[Clothes rustling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 50.0,
+      "end": 80.0,
+      "person": null,
+      "text": "[Clothes rustling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 80.0,
+      "end": 84.75,
+      "person": null,
+      "text": "[Dryer door closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 84.75,
+      "end": 89.5,
+      "person": null,
+      "text": "[Buttons beep]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 89.5,
+      "end": 94.25,
+      "person": null,
+      "text": "[Dryer starts running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 94.25,
+      "end": 99.0,
+      "person": null,
+      "text": "[Washer lid closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 99.0,
+      "end": 105.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 105.0,
+      "end": 115.0,
+      "person": null,
+      "text": "[Lid clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 115.0,
+      "end": 121.0,
+      "person": null,
+      "text": "[Cabinet doors opening]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 127.997,
+      "end": 130.519,
+      "person": "User",
+      "text": "So you mentioned I need to fry something, so what are those?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 132.381,
+      "end": 135.0,
+      "person": "B",
+      "text": "Uh so... fry the spice first.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 135.723,
+      "end": 150.776,
+      "person": "B",
+      "text": "So the bay leaf, cloves, cardamom, everything.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 155.94,
+      "end": 156.361,
+      "person": "User",
+      "text": "Cardamom.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 156.361,
+      "end": 174.028,
+      "person": "B",
+      "text": "Uh we need the green cardamom, I add around 10 piece.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 174.028,
+      "end": 179.174,
+      "person": "B",
+      "text": "And uh... we need uh...",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 179.214,
+      "end": 180.936,
+      "person": "User",
+      "text": "Cloves, right?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 180.936,
+      "end": 183.291,
+      "person": "B",
+      "text": "Yeah we need cloves.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 183.291,
+      "end": 185.645,
+      "person": "B",
+      "text": "We need around 8 cloves.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 185.645,
+      "end": 188.0,
+      "person": "B",
+      "text": "We need some shahi jeera I think I...",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 188.0,
+      "end": 199.82,
+      "person": "B",
+      "text": "We can use shahi jeera from here.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 199.82,
+      "end": 200.302,
+      "person": "User",
+      "text": "What is this?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 200.322,
+      "end": 203.215,
+      "person": "B",
+      "text": "Uh this is the regular jeera.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 203.235,
+      "end": 203.737,
+      "person": "User",
+      "text": "Do I need this?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 203.737,
+      "end": 208.0,
+      "person": "B",
+      "text": "Uh yes.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 208.0,
+      "end": 219.624,
+      "person": "B",
+      "text": "So add uh one teaspoon of regular jeera and one teaspoon of the shahi jeera.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 219.624,
+      "end": 231.249,
+      "person": "B",
+      "text": "And 1/4 teaspoon of ground nutmeg.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 231.249,
+      "end": 240.0,
+      "person": "User",
+      "text": "I'll just eyeball it.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 250.0,
+      "end": 251.378,
+      "person": "User",
+      "text": "Where is the ground nutmeg?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 251.378,
+      "end": 252.755,
+      "person": "B",
+      "text": "This is the ground nutmeg.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 252.755,
+      "end": 254.436,
+      "person": "User",
+      "text": "One fourth?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 254.436,
+      "end": 274.61,
+      "person": "B",
+      "text": "Yeah one fourth. Tea spoon I think.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 274.61,
+      "end": 279.134,
+      "person": "User",
+      "text": "Anything else?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 279.134,
+      "end": 283.0,
+      "person": "B",
+      "text": "Uh, no.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 283.0,
+      "end": 289.383,
+      "person": "User",
+      "text": "What about the other one? The big one? This one?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 289.403,
+      "end": 290.304,
+      "person": "User",
+      "text": "Star Anise.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 290.304,
+      "end": 290.684,
+      "person": "B",
+      "text": "Oh yes, you have to add it.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 290.684,
+      "end": 298.091,
+      "person": "User",
+      "text": "Just one piece? I got so many man.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 298.091,
+      "end": 305.211,
+      "person": "B",
+      "text": "One piece for the powder, and one piece for the whole spices.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 305.211,
+      "end": 308.453,
+      "person": "User",
+      "text": "I'm using at least three.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 308.453,
+      "end": 313.316,
+      "person": "User",
+      "text": "Because I need to make my money's worth.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 313.316,
+      "end": 321.0,
+      "person": "B",
+      "text": "I'm starting the recording.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 325.124,
+      "end": 327.326,
+      "person": "User",
+      "text": "So how long should I fry it for?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 327.326,
+      "end": 327.386,
+      "person": "B",
+      "text": "Two to three minutes, medium heat.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 327.386,
+      "end": 329.827,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 369.0,
+      "end": 373.367,
+      "person": "B",
+      "text": "Do I need to connect the glass to Wi-Fi?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 373.367,
+      "end": 376.661,
+      "person": "User",
+      "text": "You need to connect it to update the OS.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 404.72,
+      "end": 409.641,
+      "person": "User",
+      "text": "I think you should collect the marination items first.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 409.661,
+      "end": 414.0,
+      "person": "User",
+      "text": "To marinate the chicken.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 414.0,
+      "end": 415.923,
+      "person": "B",
+      "text": "I am going to do that, just need to connect to the glass.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 415.923,
+      "end": 418.103,
+      "person": "User",
+      "text": "Don't we need onions for our one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 418.203,
+      "end": 422.504,
+      "person": "B",
+      "text": "Yeah, we need onion.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 422.544,
+      "end": 425.025,
+      "person": "User",
+      "text": "I think yeah this one is fine for marinating.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 425.025,
+      "end": 432.0,
+      "person": "B",
+      "text": "I can use this one.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 446.0,
+      "end": 480.0,
+      "person": null,
+      "text": "[Swirling spices on pan]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 484.817,
+      "end": 487.997,
+      "person": "User",
+      "text": "Do we need to include anything here before marinating... before...",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 487.997,
+      "end": 488.017,
+      "person": "B",
+      "text": "Just uh heat...",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 488.017,
+      "end": 488.037,
+      "person": "B",
+      "text": "Just roast the ingredients and grind it.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 488.037,
+      "end": 488.057,
+      "person": "B",
+      "text": "So it's uh saying checking for glass updates and it's not...",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 488.057,
+      "end": 501.941,
+      "person": "User",
+      "text": "You have to connect it to the power.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 501.941,
+      "end": 507.0,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 540.0,
+      "end": 565.0,
+      "person": null,
+      "text": "[Spices rattling into plastic bowl]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 565.0,
+      "end": 600.0,
+      "person": null,
+      "text": "[Food processor grinding loudly and repeatedly]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 600.0,
+      "end": 656.0,
+      "person": null,
+      "text": "[Food processor pulsing repeatedly]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 656.0,
+      "end": 674.0,
+      "person": null,
+      "text": "[Food processor pulsing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 674.0,
+      "end": 676.894,
+      "person": "User",
+      "text": "I think my blender will not be able to grind it to a fine powder.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 676.894,
+      "end": 676.954,
+      "person": "B",
+      "text": "Oh.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 676.954,
+      "end": 678.675,
+      "person": "User",
+      "text": "Oh. It's fine, we'll just do it like it is.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 678.715,
+      "end": 685.797,
+      "person": "B",
+      "text": "Yeah, I think that's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 687.037,
+      "end": 689.338,
+      "person": "User",
+      "text": "Uh, let's start with the...",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 690.555,
+      "end": 693.957,
+      "person": "User",
+      "text": "In that case I'll start with the marination.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 693.977,
+      "end": 696.379,
+      "person": "User",
+      "text": "Since this will take one hour, we should do it quickly.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 696.379,
+      "end": 696.409,
+      "person": "B",
+      "text": "Yeah, you need to first uh wash the chicken properly.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 696.409,
+      "end": 696.439,
+      "person": "B",
+      "text": "And with a knife you need to uh cut some slits there.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 696.439,
+      "end": 709.368,
+      "person": "User",
+      "text": "Yeah, we can do that.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 720.0,
+      "end": 743.0,
+      "person": null,
+      "text": "[plastic crunching]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 743.0,
+      "end": 750.0,
+      "person": null,
+      "text": "[Trash can opening and closing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 750.0,
+      "end": 754.097,
+      "person": "User",
+      "text": "Did we need to add carda-..uh? Cinnamon?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 754.097,
+      "end": 754.107,
+      "person": "User",
+      "text": "In this stage?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 754.107,
+      "end": 754.117,
+      "person": "B",
+      "text": "Like for the marination process?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 754.117,
+      "end": 755.978,
+      "person": "User",
+      "text": "No, in the blender.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 759.0,
+      "end": 760.061,
+      "person": "B",
+      "text": "No, I think you can use it with the powder.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 760.061,
+      "end": 786.53,
+      "person": "B",
+      "text": "So not as a powder, you can use it as a whole.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 786.53,
+      "end": 813.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 826.0,
+      "end": 841.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 841.0,
+      "end": 847.5,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 847.5,
+      "end": 855.0,
+      "person": null,
+      "text": "[Water stops]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 855.0,
+      "end": 871.391,
+      "person": "User",
+      "text": "Do you know what the marinades are?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 871.411,
+      "end": 875.0,
+      "person": "B",
+      "text": "Uh yes, so you need to put salt.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 875.0,
+      "end": 875.154,
+      "person": "User",
+      "text": "Salt.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 875.174,
+      "end": 878.797,
+      "person": "B",
+      "text": "Salt, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 878.817,
+      "end": 881.619,
+      "person": "B",
+      "text": "Ginger garlic paste, and I think you need to use the yogurt here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 903.837,
+      "end": 905.118,
+      "person": "B",
+      "text": "One tablespoon, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 905.118,
+      "end": 909.882,
+      "person": "User",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 909.882,
+      "end": 914.645,
+      "person": "B",
+      "text": "So I will start the, with the rice then.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 914.645,
+      "end": 919.0,
+      "person": "User",
+      "text": "I think you can do the marination thing.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 919.0,
+      "end": 919.0,
+      "person": "B",
+      "text": "Okay, I'll start.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 919.0,
+      "end": 922.427,
+      "person": null,
+      "text": "[Refrigerator door opens and closes]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 922.427,
+      "end": 930.248,
+      "person": "User",
+      "text": "I think we can both do the marination together.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 930.958,
+      "end": 934.409,
+      "person": "User",
+      "text": "The first order of business would be to get everything.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 938.0,
+      "end": 938.05,
+      "person": "B",
+      "text": "Have you cut the chicken with knife?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 938.05,
+      "end": 939.39,
+      "person": "User",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 939.39,
+      "end": 939.43,
+      "person": "B",
+      "text": "Uh.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 939.43,
+      "end": 940.37,
+      "person": "User",
+      "text": "Cut it using this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 975.725,
+      "end": 982.009,
+      "person": "User",
+      "text": "I can use my entire garlic here. Should use my entire garlic. Did you wash your hands?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 982.049,
+      "end": 982.189,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 996.0,
+      "end": 1002.4,
+      "person": "User",
+      "text": "Garlic paste.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1002.4,
+      "end": 1008.8,
+      "person": "User",
+      "text": "Did you add all the marinades?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1008.8,
+      "end": 1015.2,
+      "person": "B",
+      "text": "Uh just this one is remaining. Yeah you can put all of it.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1015.2,
+      "end": 1021.6,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1021.6,
+      "end": 1028.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1028.0,
+      "end": 1033.129,
+      "person": "User",
+      "text": "You should also dry the knife. Sorry. You should also dry the knife like with the uh tissue.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1036.404,
+      "end": 1039.585,
+      "person": "User",
+      "text": "Do we need to use lime here?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1039.605,
+      "end": 1042.587,
+      "person": "B",
+      "text": "Uh yes. Lime and yogurt.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1042.647,
+      "end": 1043.987,
+      "person": "User",
+      "text": "Lime and yogurt?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1044.027,
+      "end": 1047.028,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1048.0,
+      "end": 1051.67,
+      "person": "User",
+      "text": "Gonna use the entirety of this yogurt.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1051.71,
+      "end": 1052.97,
+      "person": "B",
+      "text": "Uh you can use uh one tablespoon of this.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1053.01,
+      "end": 1055.311,
+      "person": "User",
+      "text": "Only one tablespoon? Really?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1055.311,
+      "end": 1063.655,
+      "person": "B",
+      "text": "Uh yes uh you can use two if you want.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1063.655,
+      "end": 1072.0,
+      "person": "B",
+      "text": "The recipe says one.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1072.0,
+      "end": 1076.924,
+      "person": "B",
+      "text": "So I think it's fine to use more.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1076.924,
+      "end": 1079.045,
+      "person": "User",
+      "text": "Don't want to use too much more.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1080.0,
+      "end": 1095.929,
+      "person": "User",
+      "text": "But my problem is that this may not last long in the fridge after opening.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1095.929,
+      "end": 1095.965,
+      "person": "User",
+      "text": "Like yogurt.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1095.965,
+      "end": 1096.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1096.0,
+      "end": 1096.05,
+      "person": null,
+      "text": "[Water Draining]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1096.05,
+      "end": 1096.1,
+      "person": "B",
+      "text": "Should we add the lime?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1096.1,
+      "end": 1098.01,
+      "person": "User",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1098.07,
+      "end": 1103.612,
+      "person": "User",
+      "text": "You need to puncture it. Give it to me, I will puncture it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1103.612,
+      "end": 1112.772,
+      "person": "B",
+      "text": "Ok.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1112.772,
+      "end": 1123.0,
+      "person": "User",
+      "text": "This is not the best way to do it but whatever.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1123.0,
+      "end": 1128.195,
+      "person": "User",
+      "text": "You can use this to marinate it?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1128.235,
+      "end": 1132.0,
+      "person": "User",
+      "text": "So in the meanwhile I will strain the rice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1134.896,
+      "end": 1140.457,
+      "person": "User",
+      "text": "We have to like wash the rice right? And then do we need to add anything to the rice?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1140.457,
+      "end": 1143.957,
+      "person": "B",
+      "text": "No just uh wash it properly.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1143.957,
+      "end": 1147.0,
+      "person": "User",
+      "text": "Do I need to like cook it first? Or no?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1147.0,
+      "end": 1152.74,
+      "person": "B",
+      "text": "First you need to wash the rice and then soak it around like 20 minutes. And then drain it for another 20 minutes or 30 minutes.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1152.74,
+      "end": 1155.461,
+      "person": "User",
+      "text": "Oh soak it too?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1155.461,
+      "end": 1179.939,
+      "person": "User",
+      "text": "Uh 20 minutes.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1179.939,
+      "end": 1191.047,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1191.047,
+      "end": 1196.523,
+      "person": "B",
+      "text": "I need uh turmeric powder and chili powder for that.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1196.523,
+      "end": 1202.0,
+      "person": "User",
+      "text": "Okay, give me a second.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1203.075,
+      "end": 1206.377,
+      "person": "User",
+      "text": "Here, make sure to use extra chili powder.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1206.397,
+      "end": 1206.877,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1210.0,
+      "end": 1219.458,
+      "person": "B",
+      "text": "Have you added salt?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1219.458,
+      "end": 1220.341,
+      "person": "User",
+      "text": "No. Wait, to what?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1220.361,
+      "end": 1222.667,
+      "person": "B",
+      "text": "The marinade?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1222.687,
+      "end": 1222.868,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1226.0,
+      "end": 1261.5,
+      "person": null,
+      "text": "[Water running from faucet]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1261.5,
+      "end": 1297.0,
+      "person": null,
+      "text": "[Water splashing as rice is washed]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1297.0,
+      "end": 1305.0,
+      "person": "User",
+      "text": "Too small for this.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1305.0,
+      "end": 1313.0,
+      "person": "User",
+      "text": "Let's see if I have anything bigger for this.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1313.0,
+      "end": 1321.0,
+      "person": null,
+      "text": "[Cabinet doors opening and closing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1321.0,
+      "end": 1354.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1354.0,
+      "end": 1375.0,
+      "person": null,
+      "text": "[Water running and draining]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1388.855,
+      "end": 1394.227,
+      "person": "B",
+      "text": "Oh I need cumin powder and coriander powder?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1394.227,
+      "end": 1397.67,
+      "person": "User",
+      "text": "Oh, cumin is jeera.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1397.67,
+      "end": 1401.113,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1401.113,
+      "end": 1404.557,
+      "person": "User",
+      "text": "And coriander is dhaniya.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1404.557,
+      "end": 1408.0,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1408.0,
+      "end": 1441.0,
+      "person": null,
+      "text": "[Water running and draining]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1441.0,
+      "end": 1476.5,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1476.5,
+      "end": 1513.0,
+      "person": null,
+      "text": "[Water splashing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1513.0,
+      "end": 1515.323,
+      "person": "User",
+      "text": "So it has to be strained, uh, like, strained for 20 minutes?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1516.925,
+      "end": 1519.046,
+      "person": "User",
+      "text": "Okay, then strain for 20 minutes.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1519.226,
+      "end": 1520.307,
+      "person": "User",
+      "text": "I'll keep this...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1520.307,
+      "end": 1525.31,
+      "person": "B",
+      "text": "We have to marinate this.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1525.31,
+      "end": 1526.531,
+      "person": "User",
+      "text": "One hour?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1526.711,
+      "end": 1529.33,
+      "person": "B",
+      "text": "If we have time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1533.596,
+      "end": 1534.797,
+      "person": "User",
+      "text": "I think we have time, it's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1534.797,
+      "end": 1538.278,
+      "person": "B",
+      "text": "Then we do it for one hour.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1538.278,
+      "end": 1541.758,
+      "person": "User",
+      "text": "The rice straining will take 20 minutes plus 30 minutes, right?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1541.758,
+      "end": 1544.796,
+      "person": "User",
+      "text": "Like because we have to also drain it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1544.796,
+      "end": 1548.592,
+      "person": "User",
+      "text": "And then keep it for 15 minutes, is that right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1548.592,
+      "end": 1551.074,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1551.074,
+      "end": 1553.555,
+      "person": "B",
+      "text": "I think the marination part is done. We can keep it, uh, in the refrigerator for, like, one hour.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1553.555,
+      "end": 1556.037,
+      "person": "B",
+      "text": "Uh, if we have time, then one hour, otherwise we can keep it for like 20 minutes.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1556.037,
+      "end": 1558.518,
+      "person": "B",
+      "text": "Then we can for one hour.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1558.518,
+      "end": 1561.0,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1561.0,
+      "end": 1563.88,
+      "person": "B",
+      "text": "Where should I put this?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1563.88,
+      "end": 1574.111,
+      "person": "User",
+      "text": "I think you can put this uh on a plate. We definitely want to use it again right? So you can put this on this one over here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1574.111,
+      "end": 1595.633,
+      "person": "B",
+      "text": "I can see a red light blinking in the glass.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1595.633,
+      "end": 1606.039,
+      "person": "User",
+      "text": "Check the status on the phone.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1606.039,
+      "end": 1606.119,
+      "person": "B",
+      "text": "So it's saying uh high temperature, around 40 degrees centigrade.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1606.119,
+      "end": 1607.4,
+      "person": "User",
+      "text": "You should complete the recording now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1607.4,
+      "end": 1609.261,
+      "person": "B",
+      "text": "Should I stop?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1609.261,
+      "end": 1621.487,
+      "person": "User",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1621.487,
+      "end": 1621.567,
+      "person": "B",
+      "text": "Is the glass defective?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1621.567,
+      "end": 1623.989,
+      "person": "User",
+      "text": "I don't think so, it just got hot.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1625.0,
+      "end": 1641.252,
+      "person": "B",
+      "text": "I think I can use the other glass.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1641.252,
+      "end": 1650.0,
+      "person": "User",
+      "text": "No need, uh because we are going to have a recess now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1650.0,
+      "end": 1650.0,
+      "person": "B",
+      "text": "Okay. So no recording for a few moments?",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1650.0,
+      "end": 1650.0,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1650.115,
+      "end": 1659.759,
+      "person": "User",
+      "text": "So right now everything's done right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1659.779,
+      "end": 1662.02,
+      "person": "B",
+      "text": "The rice just needs to be cleaned.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1662.06,
+      "end": 1666.882,
+      "person": "User",
+      "text": "It's cleaned, it's I kept it soaked for some time.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1666.942,
+      "end": 1676.634,
+      "person": "User",
+      "text": "And after some time I will have to like strain the rice. How long for that?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1676.634,
+      "end": 1680.0,
+      "person": "B",
+      "text": "15 minutes is enough.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1680.0,
+      "end": 1687.64,
+      "person": "B",
+      "text": "So 20 minutes soak and then 15 minutes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1687.68,
+      "end": 1691.122,
+      "person": "User",
+      "text": "Okay, my glass camera is fine. I'll try to continue the recording for a while.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1695.0,
+      "end": 1710.0,
+      "person": null,
+      "text": "[Dryer tumbling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1710.0,
+      "end": 1738.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1748.698,
+      "end": 1765.0,
+      "person": "User",
+      "text": "Do you want some water?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1765.0,
+      "end": 1765.0,
+      "person": "B",
+      "text": "No, I'm good.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1776.0,
+      "end": 1780.5,
+      "person": "User",
+      "text": "Do we need lemon juice again?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1780.5,
+      "end": 1785.0,
+      "person": "B",
+      "text": "No. This part is done.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1799.0,
+      "end": 1814.0,
+      "person": null,
+      "text": "[plastic bag rustling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1863.211,
+      "end": 1875.0,
+      "person": "User",
+      "text": "Okay, I will complete my recording now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1875.0,
+      "end": 1875.0,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    }
+  ]
+}

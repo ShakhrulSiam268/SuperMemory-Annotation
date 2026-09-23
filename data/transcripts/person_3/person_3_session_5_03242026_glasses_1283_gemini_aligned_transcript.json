@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 30,
+    "timing_counts": {
+      "whisper_exact_match": 27,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 0,
+      "inferred_before_first_anchor": 0,
+      "inferred_after_last_anchor": 0,
+      "caption_segment_evenly_distributed": 0,
+      "caption_segment_inferred": 3
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "User": {
+          "SPEAKER_00": 9,
+          "UNKNOWN": 1
+        },
+        "A": {
+          "SPEAKER_03": 17,
+          "SPEAKER_02": 3
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "User": "SPEAKER_00",
+        "A": "SPEAKER_03"
+      },
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_5_03242026_glasses_1283"
+  },
+  "transcript": [
+    {
+      "start": 0.943,
+      "end": 1.203,
+      "person": "User",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2.084,
+      "end": 4.027,
+      "person": "A",
+      "text": "So, I can move on to the rule already.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 24.67,
+      "end": 29.018,
+      "person": "A",
+      "text": "you can check you can stream through this to understand the rule",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 32.0,
+      "end": 91.0,
+      "person": null,
+      "text": "[Sound of cardboard sliding]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 91.425,
+      "end": 112.757,
+      "person": "A",
+      "text": "so these are the monopoly money so you can see that is uh like starting from one dollar to hundred dollar so these are uh we can this we will use during the game so let me arrange this first so one dollar five",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 120.0,
+      "end": 178.0,
+      "person": null,
+      "text": "[Paper rustling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 178.248,
+      "end": 207.0,
+      "person": "A",
+      "text": "so there are two types of additional card one is called chance card and another one is called community chest so i will place it here so this is the community chest and this is the chance card and we have also some other card as well like this is for like electric company so if you own any any electric company there or let's say uh electric company you will receive this card okay okay",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 208.967,
+      "end": 212.07,
+      "person": "A",
+      "text": "So also these are for some houses.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 212.19,
+      "end": 215.573,
+      "person": "A",
+      "text": "You can see that Pacific Avenue.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 216.174,
+      "end": 219.597,
+      "person": "A",
+      "text": "So this card is for this house.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 219.737,
+      "end": 223.26,
+      "person": "A",
+      "text": "If you own this house, you should get this card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 226.343,
+      "end": 228.325,
+      "person": "A",
+      "text": "So let me arrange it here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 240.0,
+      "end": 248.0,
+      "person": null,
+      "text": "[Sound of cards being moved]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 248.917,
+      "end": 251.058,
+      "person": "A",
+      "text": "Is it uncomfortable?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 251.978,
+      "end": 253.379,
+      "person": "User",
+      "text": "Not yet, but it's pretty hot.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 254.44,
+      "end": 259.442,
+      "person": "A",
+      "text": "Can we continue?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 262.863,
+      "end": 265.0,
+      "person": "User",
+      "text": "Unless there's like an alternative, we have to continue.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 268.646,
+      "end": 272.287,
+      "person": "A",
+      "text": "Let me know if it's really uncomfortable, then we can skip the session.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 273.188,
+      "end": 274.088,
+      "person": "User",
+      "text": "Only this side though.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 288.0,
+      "end": 288.829,
+      "person": "A",
+      "text": "Okay, we have another glass but it's not fully charged yet.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 289.929,
+      "end": 299.754,
+      "person": "A",
+      "text": "Is it the same as the yesterday?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 300.214,
+      "end": 300.355,
+      "person": "User",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 301.555,
+      "end": 303.216,
+      "person": "A",
+      "text": "So it's hotter?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 303.396,
+      "end": 303.636,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 305.057,
+      "end": 305.477,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 306.758,
+      "end": 311.2,
+      "person": "User",
+      "text": "Did I use the same glass? No, it's new. Yeah, it's definitely different.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 313.875,
+      "end": 322.482,
+      "person": "A",
+      "text": "this side only for now it's tolerable but I think it's gonna get hotter like can we use the other one for 40 minutes",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 343.083,
+      "end": 344.323,
+      "person": "A",
+      "text": "Let me close the recording then.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 345.024,
+      "end": 352.228,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 352.248,
+      "end": 356.611,
+      "person": "A",
+      "text": "So let's continue. So let me know if there is any issue in the class.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

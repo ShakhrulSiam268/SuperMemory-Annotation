@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 7,
+    "timing_counts": {
+      "whisper_exact_match": 4,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 0,
+      "inferred_before_first_anchor": 0,
+      "inferred_after_last_anchor": 2,
+      "caption_segment_evenly_distributed": 0,
+      "caption_segment_inferred": 1
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "C": {
+          "SPEAKER_02": 1,
+          "SPEAKER_06": 1
+        },
+        "E": {
+          "SPEAKER_06": 1,
+          "SPEAKER_02": 1
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "C": "SPEAKER_02",
+        "E": "SPEAKER_06"
+      },
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_12_03282026_glasses_1264"
+  },
+  "transcript": [
+    {
+      "start": 20.738,
+      "end": 21.218,
+      "person": "C",
+      "text": "Oh, my.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 21.218,
+      "end": 45.0,
+      "person": null,
+      "text": "[Chips clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 45.0,
+      "end": 90.0,
+      "person": null,
+      "text": "[Chips clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 100.797,
+      "end": 101.382,
+      "person": "E",
+      "text": "Taking the card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 101.382,
+      "end": 120.0,
+      "person": null,
+      "text": "[Card rustles]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 151.482,
+      "end": 171.0,
+      "person": "E",
+      "text": "So let's see what's there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 171.667,
+      "end": 173.608,
+      "person": "C",
+      "text": "Yeah, go ahead.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

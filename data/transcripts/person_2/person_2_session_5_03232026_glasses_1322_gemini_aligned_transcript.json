@@ -1,0 +1,1953 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 212,
+    "timing_counts": {
+      "whisper_exact_match": 192,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 0,
+      "inferred_before_first_anchor": 3,
+      "inferred_after_last_anchor": 17,
+      "caption_segment_evenly_distributed": 0,
+      "caption_segment_inferred": 0
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "C": {
+          "SPEAKER_00": 19,
+          "SPEAKER_06": 72,
+          "SPEAKER_02": 4
+        },
+        "User": {
+          "SPEAKER_06": 29,
+          "SPEAKER_00": 62,
+          "UNKNOWN": 2
+        },
+        "A": {
+          "SPEAKER_05": 1,
+          "SPEAKER_00": 1,
+          "SPEAKER_02": 3
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "C": "SPEAKER_06",
+        "User": "SPEAKER_00",
+        "A": "SPEAKER_02"
+      },
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_5_03232026_glasses_1322"
+  },
+  "transcript": [
+    {
+      "start": 6.136,
+      "end": 13.86,
+      "person": "C",
+      "text": "Yeah, all the way in.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 14.22,
+      "end": 16.842,
+      "person": "C",
+      "text": "The other on the opposite.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 17.002,
+      "end": 17.582,
+      "person": "C",
+      "text": "The opposite side.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 22.542,
+      "end": 44.388,
+      "person": "C",
+      "text": "yeah but okay it's not connecting to the gray yeah it's not connecting we have to continue here",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 48.319,
+      "end": 72.353,
+      "person": "User",
+      "text": "okay so two yellow so we have connected this one one from yellow one from gray and it's not connected okay okay let's leave it here take the third one this is the third one this way yeah okay so two okay",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 76.5,
+      "end": 77.54,
+      "person": "C",
+      "text": "Is it all the way?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 77.66,
+      "end": 78.0,
+      "person": "User",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 85.323,
+      "end": 88.304,
+      "person": "User",
+      "text": "It's not actually connecting.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 88.364,
+      "end": 96.0,
+      "person": "C",
+      "text": "I think the placement is wrong.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 97.566,
+      "end": 97.886,
+      "person": "C",
+      "text": "Why?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 104.568,
+      "end": 106.289,
+      "person": "C",
+      "text": "No, the placement is wrong.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 109.22,
+      "end": 111.941,
+      "person": "User",
+      "text": "Are those all same size? It's supposed to connect.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 140.939,
+      "end": 162.113,
+      "person": "User",
+      "text": "yes so if i connect this then this isn't connecting right so i think what i can do is can i move it here",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 169.72,
+      "end": 198.778,
+      "person": "C",
+      "text": "yeah i think the wheel has to be more inwards see after the orange track there's only one gap and then the yellow okay",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 218.293,
+      "end": 220.013,
+      "person": "User",
+      "text": "Okay, let's try it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 220.053,
+      "end": 221.394,
+      "person": "User",
+      "text": "Let me see it once again.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 224.034,
+      "end": 226.155,
+      "person": "User",
+      "text": "Okay, yeah, I think that's the reason.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 242.253,
+      "end": 242.893,
+      "person": "C",
+      "text": "Now it should be fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 242.914,
+      "end": 247.097,
+      "person": "User",
+      "text": "Does it fit?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 248.177,
+      "end": 249.038,
+      "person": "C",
+      "text": "It should fit.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 249.598,
+      "end": 252.32,
+      "person": "User",
+      "text": "If it's C, there's only one wall apart.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 253.601,
+      "end": 254.422,
+      "person": "C",
+      "text": "Yeah, now it's fit.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 261.847,
+      "end": 264.289,
+      "person": "User",
+      "text": "OK. Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 264.349,
+      "end": 264.449,
+      "person": "User",
+      "text": "OK.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 274.0,
+      "end": 278.938,
+      "person": "User",
+      "text": "So we're done with three.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 278.938,
+      "end": 283.876,
+      "person": "C",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 283.876,
+      "end": 306.0,
+      "person": "User",
+      "text": "is it gray or uh which one uh is there any black no okay let's use this gray one the color is so confusing this looks like here right yeah we need one of these as well smaller",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 359.398,
+      "end": 360.0,
+      "person": "C",
+      "text": "what are you looking for this one I think should be fine so we need this one first right",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 360.0,
+      "end": 373.148,
+      "person": "User",
+      "text": "what are you looking for this one I think should be fine so we need this one first right",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 391.85,
+      "end": 400.0,
+      "person": "C",
+      "text": "yes I think this one I think it's fine",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 400.0,
+      "end": 412.679,
+      "person": "C",
+      "text": "yes I think this one I think it's fine",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 426.12,
+      "end": 426.323,
+      "person": "C",
+      "text": "Mm hmm.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 457.59,
+      "end": 473.374,
+      "person": "C",
+      "text": "no I think this part is done yeah this one one blue this like this okay okay",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 483.799,
+      "end": 512.0,
+      "person": "C",
+      "text": "uh it's white this one there is white and there's light gray i think it's this one four dot it's three dots okay okay so the same way right i need to put this one first okay so you have the white one",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 513.828,
+      "end": 537.35,
+      "person": "User",
+      "text": "white and that small yellow yeah so white first yeah in there and then you use this on the other small yellow yeah here i think it's the other way it's the other okay this way",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 537.35,
+      "end": 541.0,
+      "person": null,
+      "text": "[Lego parts clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 542.048,
+      "end": 544.789,
+      "person": "C",
+      "text": "Yeah, that was before.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 547.911,
+      "end": 549.791,
+      "person": "User",
+      "text": "No, it looks like the longer part stays.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 550.212,
+      "end": 552.092,
+      "person": "User",
+      "text": "It goes down.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 552.272,
+      "end": 552.673,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 552.753,
+      "end": 554.814,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 555.934,
+      "end": 558.815,
+      "person": "User",
+      "text": "And then you need the gray thing.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 559.215,
+      "end": 564.418,
+      "person": "User",
+      "text": "And insert the blue thing from bottom first.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 564.438,
+      "end": 564.858,
+      "person": "C",
+      "text": "The gray?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 566.099,
+      "end": 566.259,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 566.319,
+      "end": 566.599,
+      "person": "C",
+      "text": "This?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 567.939,
+      "end": 568.199,
+      "person": "C",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 568.46,
+      "end": 569.48,
+      "person": "User",
+      "text": "No, the other way, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 571.368,
+      "end": 579.373,
+      "person": "User",
+      "text": "ok so this one right ok so",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 579.373,
+      "end": 600.0,
+      "person": null,
+      "text": "[Lego parts snapping]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 601.873,
+      "end": 607.475,
+      "person": "C",
+      "text": "but it's not here it should be here the last one this one is on top",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 643.104,
+      "end": 643.965,
+      "person": "User",
+      "text": "Let me see it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 644.085,
+      "end": 651.026,
+      "person": "C",
+      "text": "The white one, I think it goes at the end.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 651.146,
+      "end": 651.727,
+      "person": "User",
+      "text": "No, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 652.027,
+      "end": 653.367,
+      "person": "User",
+      "text": "I put it in the wrong place.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 662.77,
+      "end": 687.08,
+      "person": "C",
+      "text": "i think it's fine now yes so now again that one black thing this one okay this yeah and then one white",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 697.483,
+      "end": 705.21,
+      "person": "C",
+      "text": "this is for lock I think I think this one because this is the fourth wheel",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 726.847,
+      "end": 736.355,
+      "person": "C",
+      "text": "i already locked it this way wait do you have no so you use the wrong one these two whites go",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 736.355,
+      "end": 762.0,
+      "person": null,
+      "text": "[Lego parts clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 762.967,
+      "end": 781.145,
+      "person": "User",
+      "text": "this one was here now this will",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 781.145,
+      "end": 793.0,
+      "person": null,
+      "text": "[Lego parts clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 793.789,
+      "end": 794.99,
+      "person": "User",
+      "text": "So the wheel is done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 795.53,
+      "end": 796.51,
+      "person": "C",
+      "text": "This is the fourth wheel, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 796.771,
+      "end": 796.951,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 797.491,
+      "end": 798.752,
+      "person": "User",
+      "text": "And this one goes here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 800.813,
+      "end": 801.793,
+      "person": "User",
+      "text": "So the last one, yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 802.854,
+      "end": 803.935,
+      "person": "C",
+      "text": "Like how to connect it?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 807.456,
+      "end": 809.298,
+      "person": "User",
+      "text": "Did we use this one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 809.318,
+      "end": 812.879,
+      "person": "C",
+      "text": "Yes, we have this one, but where should we connect it?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 812.919,
+      "end": 813.48,
+      "person": "C",
+      "text": "Let me see.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 816.161,
+      "end": 817.402,
+      "person": "C",
+      "text": "Oh, yeah, I think this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 824.818,
+      "end": 825.959,
+      "person": "C",
+      "text": "Is it correct?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 828.581,
+      "end": 831.584,
+      "person": "User",
+      "text": "Can I see?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 838.871,
+      "end": 840.0,
+      "person": "User",
+      "text": "Yeah, looks good.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 840.0,
+      "end": 840.0,
+      "person": null,
+      "text": "[Lego parts snapping]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 840.0,
+      "end": 841.593,
+      "person": "User",
+      "text": "Yeah, looks good.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 841.613,
+      "end": 841.733,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 841.753,
+      "end": 842.494,
+      "person": "User",
+      "text": "So, we are done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 842.634,
+      "end": 846.117,
+      "person": "User",
+      "text": "Then, let us move on.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 846.137,
+      "end": 846.898,
+      "person": "User",
+      "text": "This part, we need to optimize.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 874.0,
+      "end": 887.671,
+      "person": "User",
+      "text": "This one and this one.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 887.671,
+      "end": 911.916,
+      "person": "User",
+      "text": "yes i think so this way same direction",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 917.825,
+      "end": 919.126,
+      "person": "C",
+      "text": "A bit.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 920.507,
+      "end": 920.768,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 920.788,
+      "end": 921.188,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 946.566,
+      "end": 950.116,
+      "person": "C",
+      "text": "blue small and four black",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 985.231,
+      "end": 1011.192,
+      "person": "C",
+      "text": "ok so these go here here yeah we already had a blue here right ok so let's put the wheel here in this direction so we need to put one blue here yeah we already had a blue here then one on the side ok then",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1011.833,
+      "end": 1013.514,
+      "person": "User",
+      "text": "Then a black one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1015.374,
+      "end": 1015.934,
+      "person": "C",
+      "text": "Black where?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1016.815,
+      "end": 1017.195,
+      "person": "C",
+      "text": "Next.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1017.535,
+      "end": 1018.135,
+      "person": "User",
+      "text": "Next to the blue.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1024.597,
+      "end": 1026.018,
+      "person": "User",
+      "text": "And the same on the opposite side.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1026.018,
+      "end": 1031.0,
+      "person": "C",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1032.04,
+      "end": 1033.2,
+      "person": "User",
+      "text": "We have two more blacks, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1033.701,
+      "end": 1033.941,
+      "person": "C",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1034.901,
+      "end": 1036.101,
+      "person": "User",
+      "text": "I think one goes here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1036.642,
+      "end": 1037.402,
+      "person": "User",
+      "text": "And one goes here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1045.672,
+      "end": 1073.735,
+      "person": "C",
+      "text": "yes yeah so which one lucky I think stop the base so we need",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1075.8,
+      "end": 1076.32,
+      "person": "C",
+      "text": "One of these.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1078.38,
+      "end": 1080.0,
+      "person": "C",
+      "text": "We need these two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1080.0,
+      "end": 1081.221,
+      "person": "C",
+      "text": "We need these two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1083.321,
+      "end": 1084.202,
+      "person": "C",
+      "text": "We need the blue.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1087.842,
+      "end": 1091.343,
+      "person": "C",
+      "text": "So one of blue, one of this red and one of this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1092.103,
+      "end": 1093.143,
+      "person": "C",
+      "text": "So we need these three, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1097.024,
+      "end": 1097.524,
+      "person": "User",
+      "text": "No red.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1098.464,
+      "end": 1100.345,
+      "person": "User",
+      "text": "Just two blue and one black.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1100.365,
+      "end": 1100.905,
+      "person": "C",
+      "text": "There is no red here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1100.945,
+      "end": 1101.245,
+      "person": "C",
+      "text": "No red.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1101.485,
+      "end": 1102.865,
+      "person": "User",
+      "text": "Yeah, that's what I'm saying.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1103.435,
+      "end": 1105.757,
+      "person": "C",
+      "text": "Yeah, there's no red in my hand as well.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1107.579,
+      "end": 1110.422,
+      "person": "User",
+      "text": "Yeah, that's correct.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1114.846,
+      "end": 1117.368,
+      "person": "C",
+      "text": "Okay, we can follow this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1117.429,
+      "end": 1117.689,
+      "person": "C",
+      "text": "This one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1117.709,
+      "end": 1122.013,
+      "person": "C",
+      "text": "And then this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1122.994,
+      "end": 1124.355,
+      "person": "C",
+      "text": "Yeah, so this part is done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1125.236,
+      "end": 1127.438,
+      "person": "User",
+      "text": "Yeah, and we need six of these.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1128.868,
+      "end": 1156.0,
+      "person": "C",
+      "text": "okay so one two three four five six we need six of these so in which direction so one these two is there a gap yeah okay and then there as well right one two two two apart then okay",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1158.349,
+      "end": 1173.041,
+      "person": "C",
+      "text": "then two apart there yeah now we need two on top uh the before right this one yeah this part is done",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1173.041,
+      "end": 1200.0,
+      "person": null,
+      "text": "[Lego parts snapping]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1203.897,
+      "end": 1211.7,
+      "person": "C",
+      "text": "Do you see this one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1211.72,
+      "end": 1214.641,
+      "person": "C",
+      "text": "One of...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1216.882,
+      "end": 1216.982,
+      "person": "C",
+      "text": "This?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1217.002,
+      "end": 1217.062,
+      "person": "C",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1217.082,
+      "end": 1218.022,
+      "person": "C",
+      "text": "No, I can't see any.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1222.403,
+      "end": 1223.144,
+      "person": "C",
+      "text": "Yeah, this one I think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1224.144,
+      "end": 1224.284,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1229.309,
+      "end": 1254.996,
+      "person": "User",
+      "text": "one of yeah this one and then this weird thing here yeah got it okay and then is this the bigger one yeah i think so and then oh we need this this i think one yeah and one blue yeah we have all the three all the items",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1269.037,
+      "end": 1284.006,
+      "person": "C",
+      "text": "this first and then this one and then this one and then",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1300.142,
+      "end": 1300.863,
+      "person": "User",
+      "text": "And then on top.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1301.023,
+      "end": 1305.467,
+      "person": "User",
+      "text": "Are we done?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1306.848,
+      "end": 1307.529,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1308.11,
+      "end": 1310.732,
+      "person": "User",
+      "text": "And then maybe we attach it to the base.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1311.132,
+      "end": 1312.394,
+      "person": "C",
+      "text": "So what about these two?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1313.595,
+      "end": 1316.818,
+      "person": "User",
+      "text": "Let's see.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1316.838,
+      "end": 1317.879,
+      "person": "User",
+      "text": "Yeah, this one is here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1317.899,
+      "end": 1318.98,
+      "person": "C",
+      "text": "I need to attach it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1319.04,
+      "end": 1320.0,
+      "person": "User",
+      "text": "Oh, over here, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1320.0,
+      "end": 1320.301,
+      "person": "User",
+      "text": "Oh, over here, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1329.317,
+      "end": 1358.064,
+      "person": "C",
+      "text": "what about this black oh no no no we don't yeah then it's done so why should i connect oh here",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1359.479,
+      "end": 1359.719,
+      "person": "C",
+      "text": "This way?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1359.739,
+      "end": 1359.819,
+      "person": "C",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1360.781,
+      "end": 1361.0,
+      "person": "User",
+      "text": "Hmm, redstone.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1361.882,
+      "end": 1367.79,
+      "person": "C",
+      "text": "Let's check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1367.79,
+      "end": 1382.895,
+      "person": null,
+      "text": "[Lego parts clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1382.895,
+      "end": 1398.0,
+      "person": null,
+      "text": "[Lego parts snapping]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1398.152,
+      "end": 1411.691,
+      "person": "C",
+      "text": "so we need this we need four of the small and one of no four of this",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1435.421,
+      "end": 1440.0,
+      "person": "User",
+      "text": "and then oh you attach these two can i see to which direction okay yeah i think it's yeah yeah this one stays on top yeah",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1440.0,
+      "end": 1454.258,
+      "person": "User",
+      "text": "and then oh you attach these two can i see to which direction okay yeah i think it's yeah yeah this one stays on top yeah",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1465.126,
+      "end": 1466.007,
+      "person": "A",
+      "text": "We need to connect it here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1467.007,
+      "end": 1468.408,
+      "person": "C",
+      "text": "Oh, we need both, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1469.329,
+      "end": 1470.429,
+      "person": "C",
+      "text": "We need to construct both.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1470.609,
+      "end": 1470.909,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1474.792,
+      "end": 1475.892,
+      "person": "User",
+      "text": "Why it's different?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1487.442,
+      "end": 1489.103,
+      "person": "User",
+      "text": "Do we have four of these?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1489.163,
+      "end": 1489.443,
+      "person": "C",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1490.664,
+      "end": 1494.046,
+      "person": "User",
+      "text": "Then why don't they show it here?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1494.066,
+      "end": 1496.727,
+      "person": "C",
+      "text": "Like why four of these?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1496.788,
+      "end": 1499.569,
+      "person": "C",
+      "text": "No, we need this one separate and this one separate.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1499.589,
+      "end": 1500.29,
+      "person": "C",
+      "text": "We already made it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1500.47,
+      "end": 1502.131,
+      "person": "C",
+      "text": "We were making the other one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1502.151,
+      "end": 1503.772,
+      "person": "User",
+      "text": "Yeah, they didn't show it here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1504.892,
+      "end": 1506.953,
+      "person": "C",
+      "text": "Oh, like repeat the whole process twice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1508.174,
+      "end": 1508.494,
+      "person": "C",
+      "text": "I think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1508.955,
+      "end": 1510.676,
+      "person": "User",
+      "text": "Okay, it's the first part and the second and then.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1511.336,
+      "end": 1511.996,
+      "person": "C",
+      "text": "And then, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1512.717,
+      "end": 1514.578,
+      "person": "C",
+      "text": "So we have these two identical parts.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1516.183,
+      "end": 1526.611,
+      "person": "C",
+      "text": "and we need to connect this to with this so in uh which direction so this will be here okay oh this way",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1545.053,
+      "end": 1545.673,
+      "person": "C",
+      "text": "This one is done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1547.454,
+      "end": 1547.794,
+      "person": "C",
+      "text": "This way?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1555.757,
+      "end": 1556.917,
+      "person": "C",
+      "text": "Yeah, this part is done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1562.62,
+      "end": 1563.0,
+      "person": "User",
+      "text": "This one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1565.08,
+      "end": 1565.32,
+      "person": "User",
+      "text": "Where?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1566.221,
+      "end": 1566.441,
+      "person": "User",
+      "text": "Here?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1566.441,
+      "end": 1574.0,
+      "person": null,
+      "text": "[Lego parts clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1575.465,
+      "end": 1597.608,
+      "person": "User",
+      "text": "okay so yeah we need it here right so it's done now so you have to connect it here",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1597.608,
+      "end": 1602.0,
+      "person": null,
+      "text": "[Lego parts snapping]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1603.223,
+      "end": 1618.31,
+      "person": "User",
+      "text": "so we have this is the wheel right so let's put it in this direction so this is the wheel we need to put it here",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1618.31,
+      "end": 1630.0,
+      "person": null,
+      "text": "[Lego parts clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1632.955,
+      "end": 1645.414,
+      "person": "User",
+      "text": "yeah i think so this will rotate okay so now we have to just but",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1663.387,
+      "end": 1664.289,
+      "person": "User",
+      "text": "Should I push it?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1672.424,
+      "end": 1673.085,
+      "person": "User",
+      "text": "Should I push it?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1673.707,
+      "end": 1675.47,
+      "person": "User",
+      "text": "I think it's in the correct position.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1675.47,
+      "end": 1680.0,
+      "person": null,
+      "text": "[Lego parts snapping and clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1691.869,
+      "end": 1703.873,
+      "person": "User",
+      "text": "yeah i think i need to push the whole item because it's not correctly placed like and now it should work",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1703.873,
+      "end": 1730.0,
+      "person": null,
+      "text": "[Lego parts snapping]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1742.002,
+      "end": 1764.682,
+      "person": "C",
+      "text": "This is just the first level.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1765.142,
+      "end": 1767.604,
+      "person": "A",
+      "text": "We need the second level and then the ball.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1776.109,
+      "end": 1799.14,
+      "person": "User",
+      "text": "yeah so i think we have uh built the first part right so yeah so we need still this two of this so we need to place this in",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1799.14,
+      "end": 1800.0,
+      "person": null,
+      "text": "[Lego parts clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1824.428,
+      "end": 1826.049,
+      "person": "C",
+      "text": "Okay, I think it's in this way.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1826.069,
+      "end": 1827.05,
+      "person": "C",
+      "text": "This way, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1827.35,
+      "end": 1827.651,
+      "person": "C",
+      "text": "See?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1828.511,
+      "end": 1828.952,
+      "person": "User",
+      "text": "These two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1830.473,
+      "end": 1833.515,
+      "person": "User",
+      "text": "And this one goes right beside.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1835.076,
+      "end": 1835.777,
+      "person": "User",
+      "text": "So here, here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1837.278,
+      "end": 1839.319,
+      "person": "User",
+      "text": "Do we have anything here?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1839.339,
+      "end": 1839.86,
+      "person": "User",
+      "text": "Let's see.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1840.46,
+      "end": 1843.202,
+      "person": "User",
+      "text": "So have this, this, and oh, at the bottom, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1844.063,
+      "end": 1845.244,
+      "person": "User",
+      "text": "Oh, wait, this is weird.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1851.55,
+      "end": 1880.824,
+      "person": "C",
+      "text": "should we yeah i think we should move it here right we have some extra part there like these not extra it's just rotating part we can bring it in the front then we can just push it through okay",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1892.476,
+      "end": 1919.605,
+      "person": "C",
+      "text": "yeah this part is done this part is done we have one only",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1921.987,
+      "end": 1922.967,
+      "person": "User",
+      "text": "We should put it here, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1932.17,
+      "end": 1933.311,
+      "person": "User",
+      "text": "Yeah, I think it should be here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1936.472,
+      "end": 1936.592,
+      "person": "C",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1936.592,
+      "end": 1958.0,
+      "person": null,
+      "text": "[Lego parts snapping]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1959.557,
+      "end": 1960.618,
+      "person": "User",
+      "text": "Now it should work.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1960.879,
+      "end": 1961.079,
+      "person": "User",
+      "text": "See?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1961.779,
+      "end": 1962.36,
+      "person": "User",
+      "text": "It's rotating.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1971.088,
+      "end": 1977.514,
+      "person": "A",
+      "text": "How much time do we left?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1978.656,
+      "end": 1980.657,
+      "person": "A",
+      "text": "7 more minutes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1980.657,
+      "end": 1985.0,
+      "person": null,
+      "text": "[Gears whirring]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1988.941,
+      "end": 1990.473,
+      "person": "A",
+      "text": "I think that's completed now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

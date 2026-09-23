@@ -1,0 +1,642 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 68,
+    "timing_counts": {
+      "whisper_exact_match": 0,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 0,
+      "inferred_before_first_anchor": 0,
+      "inferred_after_last_anchor": 0,
+      "caption_segment_evenly_distributed": 6,
+      "caption_segment_inferred": 62
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {},
+      "primary_whisper_speaker_by_person": {},
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "caption_metadata": {
+      "video_id": "",
+      "video_path": "",
+      "duration": null,
+      "start_time": null
+    }
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 24.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 24.0,
+      "end": 35.0,
+      "person": null,
+      "text": "[Clanking of pan on stove]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 35.0,
+      "end": 46.0,
+      "person": null,
+      "text": "[Tearing paper towel]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 46.0,
+      "end": 67.0,
+      "person": null,
+      "text": "[Tapping on smartphone screen]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 67.0,
+      "end": 81.0,
+      "person": null,
+      "text": "[Faint audio from video playing on smartphone]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 81.0,
+      "end": 121.0,
+      "person": null,
+      "text": "[Silence]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 148.0,
+      "end": 184.0,
+      "person": "User",
+      "text": "Okay, so I don't have coriander with me now. Uh, sorry, cilantro. So what I will do is I'll simply use coriander powder.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 197.0,
+      "end": 218.5,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 218.5,
+      "end": 240.0,
+      "person": null,
+      "text": "[Garbage disposal whirring]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 275.0,
+      "end": 288.0,
+      "person": "User",
+      "text": "So one tablespoon of salt.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 384.0,
+      "end": 403.0,
+      "person": null,
+      "text": "[User sneezes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 501.0,
+      "end": 518.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 529.0,
+      "end": 548.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 567.0,
+      "end": 601.0,
+      "person": null,
+      "text": "[Food processor pulsing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 601.0,
+      "end": 632.0,
+      "person": null,
+      "text": "[Food processor whirring loudly]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 632.0,
+      "end": 669.0,
+      "person": null,
+      "text": "[Food processor whirring loudly]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 669.0,
+      "end": 698.0,
+      "person": null,
+      "text": "[Food processor whirring loudly]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 748.0,
+      "end": 806.0,
+      "person": null,
+      "text": "[Food processor running repeatedly]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 806.0,
+      "end": 833.0,
+      "person": null,
+      "text": "[Food processor running repeatedly]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 833.0,
+      "end": 835.667,
+      "person": null,
+      "text": "[User sighs]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 835.667,
+      "end": 838.333,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 838.333,
+      "end": 841.0,
+      "person": "User",
+      "text": "Okay, so next up is I...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 850.0,
+      "end": 866.0,
+      "person": "User",
+      "text": "So one large onion, I'll just use two small shallots. That should work.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 992.0,
+      "end": 1043.0,
+      "person": null,
+      "text": "[Chopping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1058.0,
+      "end": 1081.0,
+      "person": null,
+      "text": "[Chopping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1440.0,
+      "end": 1494.0,
+      "person": null,
+      "text": "[Chopping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1494.0,
+      "end": 1515.0,
+      "person": null,
+      "text": "[Scraping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1515.0,
+      "end": 1526.5,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1526.5,
+      "end": 1538.0,
+      "person": null,
+      "text": "[Running water]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1538.0,
+      "end": 1543.0,
+      "person": null,
+      "text": "[Rustling fabric]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1543.0,
+      "end": 1549.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1549.0,
+      "end": 1555.0,
+      "person": null,
+      "text": "[Running water]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1555.0,
+      "end": 1561.0,
+      "person": null,
+      "text": "[Scrubbing sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1561.0,
+      "end": 1574.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1574.0,
+      "end": 1588.0,
+      "person": null,
+      "text": "[Drawer opening and closing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1588.0,
+      "end": 1608.0,
+      "person": null,
+      "text": "[Trash can opening and closing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1608.0,
+      "end": 1654.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1654.0,
+      "end": 1667.5,
+      "person": null,
+      "text": "[Drawer opening and closing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1667.5,
+      "end": 1681.0,
+      "person": null,
+      "text": "[Food processor parts clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1800.0,
+      "end": 1810.0,
+      "person": null,
+      "text": "[Refrigerator door opens]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1810.0,
+      "end": 1824.0,
+      "person": null,
+      "text": "[Bottle squeezes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1824.0,
+      "end": 1828.0,
+      "person": null,
+      "text": "[Refrigerator door opens]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1828.0,
+      "end": 1832.0,
+      "person": null,
+      "text": "[Refrigerator door closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1832.0,
+      "end": 1844.0,
+      "person": null,
+      "text": "[Bottle squeezes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1844.0,
+      "end": 1851.0,
+      "person": null,
+      "text": "[Trash can lid opens and closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1851.0,
+      "end": 1857.0,
+      "person": null,
+      "text": "[Dishwasher door opens]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1857.0,
+      "end": 1863.0,
+      "person": null,
+      "text": "[Dishwasher door closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1863.0,
+      "end": 1883.0,
+      "person": null,
+      "text": "[Plastic bag rustles]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1883.0,
+      "end": 1891.5,
+      "person": null,
+      "text": "[Dishwasher door opens]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1891.5,
+      "end": 1900.0,
+      "person": null,
+      "text": "[Dishwasher door closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1900.0,
+      "end": 1921.0,
+      "person": null,
+      "text": "[Forks scraping against plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1921.0,
+      "end": 1941.0,
+      "person": null,
+      "text": "[Forks clinking against plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1941.0,
+      "end": 1963.0,
+      "person": null,
+      "text": "[Dishwasher door opening and closing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1963.0,
+      "end": 1983.0,
+      "person": null,
+      "text": "[Forks clinking against plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1983.0,
+      "end": 1996.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1996.0,
+      "end": 2009.0,
+      "person": null,
+      "text": "[Scrubbing sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2009.0,
+      "end": 2040.0,
+      "person": null,
+      "text": "[Forks clinking against plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2040.0,
+      "end": 2117.0,
+      "person": null,
+      "text": "[Forks scraping against a plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2121.0,
+      "end": 2160.0,
+      "person": null,
+      "text": "[Forks scraping against a plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2233.0,
+      "end": 2250.0,
+      "person": null,
+      "text": "[Oil sizzles]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2259.0,
+      "end": 2281.0,
+      "person": null,
+      "text": "[Oil sizzles]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2400.0,
+      "end": 2415.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2415.0,
+      "end": 2436.0,
+      "person": null,
+      "text": "[Forks scraping plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2436.0,
+      "end": 2459.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2459.0,
+      "end": 2473.0,
+      "person": null,
+      "text": "[Forks scraping plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2473.0,
+      "end": 2496.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2496.0,
+      "end": 2512.0,
+      "person": null,
+      "text": "[Forks scraping plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2512.0,
+      "end": 2537.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    }
+  ]
+}

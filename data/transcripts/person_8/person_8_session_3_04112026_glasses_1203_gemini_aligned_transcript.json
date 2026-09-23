@@ -1,0 +1,766 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 79,
+    "timing_counts": {
+      "whisper_exact_match": 60,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 1,
+      "inferred_before_first_anchor": 0,
+      "inferred_after_last_anchor": 10,
+      "caption_segment_evenly_distributed": 4,
+      "caption_segment_inferred": 4
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "B": {
+          "SPEAKER_03": 7,
+          "SPEAKER_01": 13,
+          "SPEAKER_02": 1
+        },
+        "User": {
+          "SPEAKER_01": 5
+        },
+        "A": {
+          "SPEAKER_02": 5,
+          "SPEAKER_03": 2,
+          "SPEAKER_00": 1
+        },
+        "C": {
+          "SPEAKER_02": 1,
+          "SPEAKER_01": 21,
+          "SPEAKER_00": 4
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "B": "SPEAKER_01",
+        "User": "SPEAKER_01",
+        "A": "SPEAKER_02",
+        "C": "SPEAKER_01"
+      },
+      "conflicts": {
+        "SPEAKER_01": [
+          "B",
+          "C",
+          "User"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_3_04112026_glasses_1203"
+  },
+  "transcript": [
+    {
+      "start": 2.029,
+      "end": 2.93,
+      "person": "B",
+      "text": "yeah I want okay",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 37.672,
+      "end": 49.803,
+      "person": "B",
+      "text": "Hey, hey, hey, hey, okay, okay, oh man, I burned my leg way before.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 56.89,
+      "end": 59.973,
+      "person": "B",
+      "text": "Come on man, come on, hold.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 65.538,
+      "end": 66.799,
+      "person": "User",
+      "text": "So should we wait?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 68.42,
+      "end": 69.16,
+      "person": "B",
+      "text": "Yeah, just wait.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 69.28,
+      "end": 71.962,
+      "person": "B",
+      "text": "Let me just go get the pizza.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 71.982,
+      "end": 72.342,
+      "person": "User",
+      "text": "OK.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 74.363,
+      "end": 75.423,
+      "person": "User",
+      "text": "Finally.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 75.443,
+      "end": 77.284,
+      "person": "B",
+      "text": "Are you hungry?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 78.065,
+      "end": 79.165,
+      "person": "User",
+      "text": "Of course, man.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 79.185,
+      "end": 92.913,
+      "person": "A",
+      "text": "Please send us the recorded video of it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 95.842,
+      "end": 106.58,
+      "person": "User",
+      "text": "no no no you can't do that because this is confidential right you can't share anything no no no it's no man it's private private video",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 107.585,
+      "end": 108.966,
+      "person": "A",
+      "text": "So don't share the link.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 109.046,
+      "end": 111.047,
+      "person": "A",
+      "text": "Don't share the link.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 112.007,
+      "end": 112.787,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 112.827,
+      "end": 113.728,
+      "person": "A",
+      "text": "Let's finish this round.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 144.654,
+      "end": 145.315,
+      "person": "B",
+      "text": "Oh, man.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 157.046,
+      "end": 157.326,
+      "person": "B",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 161.77,
+      "end": 163.0,
+      "person": "B",
+      "text": "So only you two guys.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 163.0,
+      "end": 163.0,
+      "person": "B",
+      "text": "You took it.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 166.354,
+      "end": 167.635,
+      "person": "C",
+      "text": "Oh, no, I took it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 167.675,
+      "end": 168.536,
+      "person": "B",
+      "text": "Yeah, four, four.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 168.616,
+      "end": 169.237,
+      "person": "B",
+      "text": "Yeah, four.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 169.677,
+      "end": 170.478,
+      "person": "B",
+      "text": "Yeah, that's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 174.352,
+      "end": 176.594,
+      "person": "B",
+      "text": "Oh man, I will get this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 176.614,
+      "end": 177.454,
+      "person": "B",
+      "text": "I have two peers.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 180.256,
+      "end": 180.876,
+      "person": "B",
+      "text": "Two peers.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 181.617,
+      "end": 182.097,
+      "person": "B",
+      "text": "So what?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 182.217,
+      "end": 182.758,
+      "person": "B",
+      "text": "Two peers.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 192.0,
+      "end": 202.5,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 202.5,
+      "end": 213.0,
+      "person": "A",
+      "text": "Not just...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 213.352,
+      "end": 213.932,
+      "person": "C",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 226.318,
+      "end": 236.822,
+      "person": "A",
+      "text": "Who is here?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 236.822,
+      "end": 240.0,
+      "person": "A",
+      "text": "[Sound of plates rustling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 240.0,
+      "end": 269.0,
+      "person": null,
+      "text": "[Knock at the door]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 269.598,
+      "end": 273.22,
+      "person": "C",
+      "text": "Okay, that's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 273.36,
+      "end": 274.901,
+      "person": "C",
+      "text": "We can just wait.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 274.901,
+      "end": 303.763,
+      "person": null,
+      "text": "[Background conversation between Person B and utility worker at the door]",
+      "kind": "sound",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 303.763,
+      "end": 330.0,
+      "person": "C",
+      "text": "why chips and not our food let me check out the pizza oh wow it's big man yoga just",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 333.286,
+      "end": 333.807,
+      "person": "C",
+      "text": "Roll it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 334.527,
+      "end": 339.23,
+      "person": "C",
+      "text": "We can have some drinks.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 340.651,
+      "end": 344.094,
+      "person": "C",
+      "text": "Yeah, we have some Diet Coke.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 359.044,
+      "end": 359.785,
+      "person": "C",
+      "text": "You guys want some?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 359.785,
+      "end": 360.0,
+      "person": null,
+      "text": "[Sound of refrigerator door opening and closing]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 364.733,
+      "end": 365.894,
+      "person": "C",
+      "text": "Let me distribute the drink.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 368.016,
+      "end": 368.336,
+      "person": "C",
+      "text": "Shit.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 368.336,
+      "end": 373.0,
+      "person": null,
+      "text": "[Clinking of cans]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 374.842,
+      "end": 376.203,
+      "person": "C",
+      "text": "You can take this out there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 385.711,
+      "end": 386.712,
+      "person": "C",
+      "text": "It's just rolling.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 387.453,
+      "end": 387.833,
+      "person": "C",
+      "text": "Yeah, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 387.833,
+      "end": 408.0,
+      "person": null,
+      "text": "[Door closing sound]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 411.291,
+      "end": 426.376,
+      "person": "C",
+      "text": "we can start too many toppings but it's good",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 426.376,
+      "end": 445.0,
+      "person": null,
+      "text": "[Sound of pizza box opening]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 445.0,
+      "end": 480.0,
+      "person": null,
+      "text": "[Sounds of chewing and background chatter]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 507.883,
+      "end": 508.931,
+      "person": "A",
+      "text": "So I don't know.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 508.931,
+      "end": 529.465,
+      "person": null,
+      "text": "[Eating sounds]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 529.465,
+      "end": 550.0,
+      "person": null,
+      "text": "[Ambient chatter]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 551.815,
+      "end": 553.098,
+      "person": "C",
+      "text": "This is a cool strategy.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 555.042,
+      "end": 555.243,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 555.243,
+      "end": 577.622,
+      "person": null,
+      "text": "[Person C continues explaining the blue light feature on the glasses]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 577.622,
+      "end": 600.0,
+      "person": null,
+      "text": "[Chewing sounds]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 600.0,
+      "end": 641.0,
+      "person": null,
+      "text": "[Sounds of chewing and swallowing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 642.525,
+      "end": 646.407,
+      "person": "C",
+      "text": "so many toppings okay sure",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 678.585,
+      "end": 679.747,
+      "person": "C",
+      "text": "You can't use your phone.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 686.982,
+      "end": 687.643,
+      "person": "C",
+      "text": "No, no, no.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 688.485,
+      "end": 689.487,
+      "person": "C",
+      "text": "This is not good.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 705.945,
+      "end": 709.608,
+      "person": "B",
+      "text": "No, I can't.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 711.629,
+      "end": 712.189,
+      "person": "C",
+      "text": "You do it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 712.65,
+      "end": 712.85,
+      "person": "A",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 720.0,
+      "end": 737.5,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 737.5,
+      "end": 755.0,
+      "person": null,
+      "text": "[Chewing sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 755.0,
+      "end": 790.0,
+      "person": null,
+      "text": "[Footsteps on wooden floor]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 790.334,
+      "end": 792.299,
+      "person": "C",
+      "text": "Yeah, you said, I'll just say yes, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 792.34,
+      "end": 795.267,
+      "person": "C",
+      "text": "Yeah, no, but also they're going to ask for your account number and I'm not going to do anything.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 797.674,
+      "end": 798.656,
+      "person": "B",
+      "text": "I think I'll get back on number one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 878.728,
+      "end": 879.694,
+      "person": "B",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 928.304,
+      "end": 931.605,
+      "person": "C",
+      "text": "You can stop the recording now, I guess.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 939.428,
+      "end": 943.55,
+      "person": "B",
+      "text": "You will be the dealer.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 943.81,
+      "end": 945.671,
+      "person": "C",
+      "text": "Yeah, let's play aggressive.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

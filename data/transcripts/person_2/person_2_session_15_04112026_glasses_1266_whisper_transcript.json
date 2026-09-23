@@ -1,0 +1,374 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.9320000000006985,
+    "text": "So should we wait?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 3.433000000000902,
+    "end": 4.233000000000175,
+    "text": "Yeah, just wait.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 4.253000000000611,
+    "end": 4.832999999998719,
+    "text": "OK, we can wait.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 4.8729999999995925,
+    "end": 6.813999999998487,
+    "text": "We'll go get the pizza.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 6.934000000001106,
+    "end": 7.373999999999796,
+    "text": "OK.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 11.909999999999854,
+    "end": 12.431000000000495,
+    "text": "Are you hungry?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 13.611000000000786,
+    "end": 26.260999999998603,
+    "text": "Of course, man.",
+    "speaker": "SPEAKER_05"
+  },
+  {
+    "start": 26.361000000000786,
+    "end": 31.264999999999418,
+    "text": "Please send us the video.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 31.3650000000016,
+    "end": 31.764999999999418,
+    "text": "Okay.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 31.80500000000029,
+    "end": 34.40699999999924,
+    "text": "You can't do that because this is confidential.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 34.76800000000003,
+    "end": 36.129000000000815,
+    "text": "Yes, I can't share the video.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 42.36000000000058,
+    "end": 48.36300000000119,
+    "text": "It will be released publicly so you can just go to the link and see everything.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 48.70400000000154,
+    "end": 50.3849999999984,
+    "text": "Everyone can see the video actually.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 50.94499999999971,
+    "end": 52.205000000001746,
+    "text": "So with the link.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 52.486000000000786,
+    "end": 56.52799999999843,
+    "text": "But your face will be blurred so don't worry about it.",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 89.14800000000105,
+    "end": 90.34899999999834,
+    "text": "Oh, man.",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 90.40899999999965,
+    "end": 96.99299999999857,
+    "text": "I will get this one.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 97.01299999999901,
+    "end": 100.47499999999854,
+    "text": "I have two kills.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 124.83499999999913,
+    "end": 125.65599999999904,
+    "text": "Should we keep the recording?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 166.6939999999995,
+    "end": 167.04000000000087,
+    "text": "Thank you.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 231.09100000000035,
+    "end": 237.5570000000007,
+    "text": "We can arrange our chips there.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 245.0139999999992,
+    "end": 249.59700000000157,
+    "text": "Okay, let's check it.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 251.65799999999945,
+    "end": 252.37900000000081,
+    "text": "We can walk around.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 252.39900000000125,
+    "end": 259.14300000000003,
+    "text": "Yes, check the drinks.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 278.72799999999916,
+    "end": 280.0740000000005,
+    "text": "Okay, we have a lot of drinks.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 334.15000000000146,
+    "end": 334.53099999999904,
+    "text": "Thank you.",
+    "speaker": "SPEAKER_05"
+  },
+  {
+    "start": 353.28800000000047,
+    "end": 353.78800000000047,
+    "text": "uh...",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 417.84899999999834,
+    "end": 420.40000000000146,
+    "text": "Thank you.",
+    "speaker": "SPEAKER_05"
+  },
+  {
+    "start": 501.0720000000001,
+    "end": 502.4929999999986,
+    "text": "Like, reverting this?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 503.0139999999992,
+    "end": 503.2940000000017,
+    "text": "Okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 505.7560000000012,
+    "end": 509.6800000000003,
+    "text": "No, I saw the breaking bed, not the bed castle.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 510.48099999999977,
+    "end": 514.625,
+    "text": "But I, yeah, I plan to watch it, but...",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 565.1290000000008,
+    "end": 565.8379999999997,
+    "text": "Thank you.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 622.0829999999987,
+    "end": 622.6840000000011,
+    "text": "No, no.",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 623.0440000000017,
+    "end": 624.5449999999983,
+    "text": "This is not good.",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 624.7249999999985,
+    "end": 625.7059999999983,
+    "text": "I'm capturing the moment.",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 625.7659999999996,
+    "end": 628.6879999999983,
+    "text": "It's a big moment for you, right?",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 628.7079999999987,
+    "end": 631.1290000000008,
+    "text": "Why don't we all look at him when he is...",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 658.2560000000012,
+    "end": 658.4579999999987,
+    "text": "Thank you.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 697.4880000000012,
+    "end": 702.898000000001,
+    "text": "I think you can use another bread.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 702.9180000000015,
+    "end": 706.5849999999991,
+    "text": "There's a lot of stuffings.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 725.4310000000005,
+    "end": 727.6729999999989,
+    "text": "Yeah, you said, I was just saying, yeah, right?",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 728.1130000000012,
+    "end": 728.2940000000017,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 813.2560000000012,
+    "end": 815.3509999999987,
+    "text": "I was not given the keyword for our manifesto.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 849.3990000000013,
+    "end": 850.2930000000015,
+    "text": "and you wasted all my time.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 892.023000000001,
+    "end": 897.2040000000015,
+    "text": "Only black ones matter.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 898.4239999999991,
+    "end": 902.9049999999988,
+    "text": "Let's play normally.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 903.005000000001,
+    "end": 908.1660000000011,
+    "text": "After that, will there be a dinner break?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 920.5260000000017,
+    "end": 924.4089999999997,
+    "text": "If you want, we can go out to eat.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 924.4290000000001,
+    "end": 924.6889999999985,
+    "text": "Oh, yes.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 924.7690000000002,
+    "end": 925.2299999999996,
+    "text": "Nice.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 925.869999999999,
+    "end": 926.3709999999992,
+    "text": "Nice.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 926.4310000000005,
+    "end": 931.6949999999997,
+    "text": "Super nice.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 931.7350000000006,
+    "end": 932.1549999999988,
+    "text": "Oh, wow.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 933.8760000000002,
+    "end": 937.3189999999995,
+    "text": "Man, my luck is not changing.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 937.6990000000005,
+    "end": 938.5600000000013,
+    "text": "Come on, dude.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 938.6800000000003,
+    "end": 938.9000000000015,
+    "text": "Okay.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 938.9199999999983,
+    "end": 939.4209999999985,
+    "text": "200.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 939.4409999999989,
+    "end": 939.9209999999985,
+    "text": "100, 200.",
+    "speaker": "SPEAKER_05"
+  },
+  {
+    "start": 940.0210000000006,
+    "end": 941.1419999999998,
+    "text": "Come on, man.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 941.1620000000003,
+    "end": 941.6219999999994,
+    "text": "Hey, dude.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 952.2299999999996,
+    "end": 955.3729999999996,
+    "text": "okay uh i am the big plane so",
+    "speaker": "SPEAKER_04"
+  }
+]

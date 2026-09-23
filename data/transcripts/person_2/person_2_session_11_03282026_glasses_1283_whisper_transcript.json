@@ -1,0 +1,32 @@
+[
+  {
+    "start": 13.903999999998632,
+    "end": 14.470000000001164,
+    "text": "Is it your turn?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 15.621999999999389,
+    "end": 15.845000000001164,
+    "text": "OK.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 50.92099999999846,
+    "end": 74.01800000000003,
+    "text": "your turn is it my turn?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 77.2400000000016,
+    "end": 78.80199999999968,
+    "text": "sorry i go first",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 197.762999999999,
+    "end": 204.84500000000116,
+    "text": "I think it's my turn.",
+    "speaker": "SPEAKER_06"
+  }
+]

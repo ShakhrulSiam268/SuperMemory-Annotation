@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 48,
+    "timing_counts": {
+      "whisper_exact_match": 0,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 0,
+      "inferred_before_first_anchor": 0,
+      "inferred_after_last_anchor": 0,
+      "caption_segment_evenly_distributed": 5,
+      "caption_segment_inferred": 43
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {},
+      "primary_whisper_speaker_by_person": {},
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "caption_metadata": {
+      "video_id": "",
+      "video_path": "",
+      "duration": null,
+      "start_time": null
+    }
+  },
+  "transcript": [
+    {
+      "start": 18.0,
+      "end": 32.0,
+      "person": "User",
+      "text": "Okay, I'm done with... I'm done with folding the clothes.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 32.0,
+      "end": 46.0,
+      "person": "User",
+      "text": "I'll go outside, take a walk.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 65.0,
+      "end": 76.0,
+      "person": "User",
+      "text": "Okay, so the garbage still has a lot of way to go, so I won't be emptying it.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 76.0,
+      "end": 94.0,
+      "person": "User",
+      "text": "Let me check what I have in the fridge.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 94.0,
+      "end": 121.0,
+      "person": "User",
+      "text": "Okay, I have... actually, so I don't need any groceries.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 121.0,
+      "end": 123.5,
+      "person": null,
+      "text": "[Keys jingling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 123.5,
+      "end": 127.0,
+      "person": null,
+      "text": "[Lock clicking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 127.0,
+      "end": 144.0,
+      "person": null,
+      "text": "[Footsteps on wood]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 144.0,
+      "end": 159.0,
+      "person": null,
+      "text": "[Footsteps on concrete]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 159.0,
+      "end": 174.0,
+      "person": null,
+      "text": "[Distant traffic sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 174.0,
+      "end": 189.5,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 189.5,
+      "end": 205.0,
+      "person": null,
+      "text": "[Passing cars]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 205.0,
+      "end": 223.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 223.0,
+      "end": 241.0,
+      "person": null,
+      "text": "[Traffic noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 241.0,
+      "end": 282.0,
+      "person": null,
+      "text": "[Footsteps and ambient wind noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 282.0,
+      "end": 300.0,
+      "person": null,
+      "text": "[Footsteps and ambient wind noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 300.0,
+      "end": 318.0,
+      "person": null,
+      "text": "[Car drives past]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 318.0,
+      "end": 328.0,
+      "person": null,
+      "text": "[Footsteps and ambient wind noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 328.0,
+      "end": 344.0,
+      "person": null,
+      "text": "[Footsteps and ambient wind noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 344.0,
+      "end": 360.0,
+      "person": null,
+      "text": "[Car drives past]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 600.0,
+      "end": 606.5,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 606.5,
+      "end": 613.0,
+      "person": null,
+      "text": "[Ambient street noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 613.0,
+      "end": 622.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 622.0,
+      "end": 633.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 633.0,
+      "end": 644.0,
+      "person": null,
+      "text": "[Car driving past]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 644.0,
+      "end": 655.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 655.0,
+      "end": 672.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 672.0,
+      "end": 689.0,
+      "person": null,
+      "text": "[Ambient street noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 689.0,
+      "end": 718.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 718.0,
+      "end": 721.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 721.0,
+      "end": 758.5,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 758.5,
+      "end": 797.0,
+      "person": null,
+      "text": "[Traffic noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 797.0,
+      "end": 805.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 805.0,
+      "end": 841.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1080.0,
+      "end": 1095.0,
+      "person": null,
+      "text": "[Wind blowing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1095.0,
+      "end": 1110.0,
+      "person": null,
+      "text": "[Car engines passing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1110.0,
+      "end": 1122.0,
+      "person": null,
+      "text": "[Wind blowing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1122.0,
+      "end": 1134.0,
+      "person": null,
+      "text": "[Car engines passing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1134.0,
+      "end": 1149.5,
+      "person": null,
+      "text": "[Wind blowing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1149.5,
+      "end": 1165.0,
+      "person": null,
+      "text": "[Car engines passing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1165.0,
+      "end": 1172.5,
+      "person": null,
+      "text": "[Wind blowing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1172.5,
+      "end": 1180.0,
+      "person": null,
+      "text": "[Car engines passing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1180.0,
+      "end": 1190.5,
+      "person": null,
+      "text": "[Wind blowing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1190.5,
+      "end": 1201.0,
+      "person": null,
+      "text": "[Car engines passing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1201.0,
+      "end": 1230.0,
+      "person": null,
+      "text": "[Cars driving on the road]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1230.0,
+      "end": 1264.0,
+      "person": null,
+      "text": "[Cars driving on the road]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1264.0,
+      "end": 1301.0,
+      "person": null,
+      "text": "[Cars driving on the road]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1301.0,
+      "end": 1322.0,
+      "person": null,
+      "text": "[Cars driving on the road]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    }
+  ]
+}

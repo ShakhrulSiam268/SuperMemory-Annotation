@@ -1,0 +1,1494 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 160,
+    "timing_counts": {
+      "whisper_exact_match": 89,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 1,
+      "inferred_before_first_anchor": 4,
+      "inferred_after_last_anchor": 22,
+      "caption_segment_evenly_distributed": 20,
+      "caption_segment_inferred": 24
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "B": {
+          "SPEAKER_01": 54,
+          "SPEAKER_00": 7,
+          "SPEAKER_02": 2
+        },
+        "C": {
+          "SPEAKER_02": 1,
+          "SPEAKER_00": 1,
+          "SPEAKER_01": 1
+        },
+        "User": {
+          "SPEAKER_00": 13,
+          "SPEAKER_01": 8
+        },
+        "A": {
+          "SPEAKER_02": 8,
+          "SPEAKER_00": 1
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "B": "SPEAKER_01",
+        "C": "SPEAKER_02",
+        "User": "SPEAKER_00",
+        "A": "SPEAKER_02"
+      },
+      "conflicts": {
+        "SPEAKER_02": [
+          "A",
+          "C"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_7_03282026_glasses_1284"
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 44.0,
+      "person": null,
+      "text": "[Can tab clicks]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 105.303,
+      "end": 105.544,
+      "person": "B",
+      "text": "Oh, sorry.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 120.0,
+      "end": 142.0,
+      "person": null,
+      "text": "[Sound of game chips clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 142.06,
+      "end": 159.0,
+      "person": "B",
+      "text": "now like you know there might be the cards already been used here so he needs to find out which card has been used so you mean you can at any moment take five cards no no no",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 159.0,
+      "end": 191.0,
+      "person": null,
+      "text": "[Sound of cards being shuffled and chips clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 191.0,
+      "end": 205.0,
+      "person": null,
+      "text": "[Sound of a can being set down on the floor]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 205.0,
+      "end": 240.0,
+      "person": null,
+      "text": "[Sound of chips clinking on the board]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 253.0,
+      "end": 281.0,
+      "person": "C",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 281.0,
+      "end": 305.0,
+      "person": null,
+      "text": "[Sound of cards being fanned]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 320.08,
+      "end": 327.392,
+      "person": "B",
+      "text": "I loved it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 327.432,
+      "end": 327.612,
+      "person": "C",
+      "text": "Sorry.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 327.652,
+      "end": 330.016,
+      "person": "B",
+      "text": "I was just waiting.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 360.0,
+      "end": 374.667,
+      "person": null,
+      "text": "[Sound of a can opening]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 374.667,
+      "end": 389.333,
+      "person": null,
+      "text": "[Clinking of chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 389.333,
+      "end": 404.0,
+      "person": null,
+      "text": "[Sip from can]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 404.0,
+      "end": 410.5,
+      "person": "B",
+      "text": "We actually have a lot of opportunities.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 410.5,
+      "end": 417.0,
+      "person": "User",
+      "text": "But the thing is we don't have the key card.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 417.0,
+      "end": 423.5,
+      "person": "B",
+      "text": "Yeah. A lot. Five, six sequences... One day we have aligned like literally a whole row.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 423.5,
+      "end": 430.0,
+      "person": "A",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 430.0,
+      "end": 442.5,
+      "person": null,
+      "text": "[Clinking of chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 442.5,
+      "end": 455.0,
+      "person": "B",
+      "text": "I'm gonna have to block that.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 455.0,
+      "end": 463.333,
+      "person": "B",
+      "text": "Because both are... oh this is nine, right? Yeah, we should actually drop that one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 463.333,
+      "end": 471.667,
+      "person": null,
+      "text": "[Sound of chip being placed]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 471.667,
+      "end": 480.0,
+      "person": null,
+      "text": "[Laughter]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 488.067,
+      "end": 493.568,
+      "person": "B",
+      "text": "We actually have a lot of opportunities, but the thing is we don't have the key card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 494.349,
+      "end": 494.509,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 497.75,
+      "end": 517.555,
+      "person": "B",
+      "text": "A lot. Five, six sequences. Six cards, seven cards. One day we have a line like literally a whole row.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 542.742,
+      "end": 544.523,
+      "person": "B",
+      "text": "Because both are, oh, this is nine, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 544.583,
+      "end": 570.159,
+      "person": "B",
+      "text": "Yeah. Oh. Why do we have three cards?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 570.179,
+      "end": 571.66,
+      "person": "User",
+      "text": "We should have two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 575.998,
+      "end": 578.399,
+      "person": "B",
+      "text": "That's what I'm saying. Why don't you?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 578.419,
+      "end": 585.441,
+      "person": "User",
+      "text": "I forgot to take a card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 592.643,
+      "end": 595.803,
+      "person": "User",
+      "text": "I took two cards and I still don't have the match.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 598.224,
+      "end": 600.0,
+      "person": "B",
+      "text": "So unfortunate.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 600.0,
+      "end": 601.205,
+      "person": "B",
+      "text": "So unfortunate.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 601.225,
+      "end": 605.106,
+      "person": "B",
+      "text": "We literally have one, two, three, four...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 605.106,
+      "end": 608.38,
+      "person": null,
+      "text": "[Chips clinking]",
+      "kind": "sound",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 608.38,
+      "end": 612.921,
+      "person": "B",
+      "text": "now we got another",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 612.921,
+      "end": 675.0,
+      "person": null,
+      "text": "[Cards shuffling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 675.0,
+      "end": 684.679,
+      "person": null,
+      "text": "[Chips clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 684.679,
+      "end": 689.122,
+      "person": "B",
+      "text": "was it here or here",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 689.122,
+      "end": 720.0,
+      "person": null,
+      "text": "[Laughter]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 720.253,
+      "end": 721.115,
+      "person": "A",
+      "text": "Now you're done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 721.215,
+      "end": 727.126,
+      "person": "B",
+      "text": "When that comes, it really comes like a fire.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 728.87,
+      "end": 730.012,
+      "person": "B",
+      "text": "Now I'm getting older guys.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 764.492,
+      "end": 764.932,
+      "person": "B",
+      "text": "Well played",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 764.932,
+      "end": 795.0,
+      "person": null,
+      "text": "[Sound of chips clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 795.695,
+      "end": 796.696,
+      "person": "B",
+      "text": "Do you want to be with my team?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 798.237,
+      "end": 799.017,
+      "person": "A",
+      "text": "No, it's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 799.718,
+      "end": 812.167,
+      "person": "B",
+      "text": "Take care.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 812.167,
+      "end": 840.0,
+      "person": null,
+      "text": "[Continued sound of chips being gathered]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 840.0,
+      "end": 876.0,
+      "person": null,
+      "text": "[Clinking of game chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 876.0,
+      "end": 912.0,
+      "person": null,
+      "text": "[Ambient room noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 913.579,
+      "end": 927.248,
+      "person": "B",
+      "text": "Now let's just start from there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 927.248,
+      "end": 943.624,
+      "person": null,
+      "text": "[Person B realizes he missed a draw]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 943.624,
+      "end": 960.0,
+      "person": null,
+      "text": "[Light laughter and chatter]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 960.0,
+      "end": 1010.0,
+      "person": null,
+      "text": "[Sound of chips clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1018.2,
+      "end": 1018.346,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1040.0,
+      "end": 1080.0,
+      "person": null,
+      "text": "[Shuffling sounds and clinking of chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1080.0,
+      "end": 1094.0,
+      "person": null,
+      "text": "[Shuffling sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1094.0,
+      "end": 1112.0,
+      "person": null,
+      "text": "[Clinking of game chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1112.0,
+      "end": 1152.0,
+      "person": null,
+      "text": "[Clinking of game chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1152.0,
+      "end": 1190.0,
+      "person": "User",
+      "text": "Okay, we got one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1190.0,
+      "end": 1195.0,
+      "person": "B",
+      "text": "Oh, another sequence?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1195.0,
+      "end": 1200.0,
+      "person": "User",
+      "text": "Yeah, we got one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1200.0,
+      "end": 1240.0,
+      "person": null,
+      "text": "[Clinking of game chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1240.0,
+      "end": 1281.0,
+      "person": null,
+      "text": "[Ambient room noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1281.0,
+      "end": 1288.8,
+      "person": "B",
+      "text": "Ei chare diye den toh.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1288.8,
+      "end": 1296.6,
+      "person": "User",
+      "text": "Oh, sorry, char. Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1296.6,
+      "end": 1304.4,
+      "person": "B",
+      "text": "Was it a jack?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1304.4,
+      "end": 1312.2,
+      "person": "User",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1312.2,
+      "end": 1320.0,
+      "person": null,
+      "text": "[Clinking of chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1320.0,
+      "end": 1370.0,
+      "person": null,
+      "text": "[Clinking of game chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1371.487,
+      "end": 1372.019,
+      "person": "A",
+      "text": "Was it still?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1372.019,
+      "end": 1407.0,
+      "person": null,
+      "text": "[Sound of person drinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1408.247,
+      "end": 1418.97,
+      "person": "B",
+      "text": "But the thing is, since I have showed it, the next time I have to just play this card. But if anyone on the block, they have to understand. It's your turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1485.595,
+      "end": 1485.698,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1485.698,
+      "end": 1500.0,
+      "person": null,
+      "text": "[Clinking of game chips]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1520.973,
+      "end": 1521.514,
+      "person": "C",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1521.514,
+      "end": 1530.0,
+      "person": null,
+      "text": "[Sound of card being drawn]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1560.0,
+      "end": 1645.0,
+      "person": null,
+      "text": "[Sound of chips clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1646.406,
+      "end": 1673.586,
+      "person": "B",
+      "text": "pretty much here that is nothing good",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1676.593,
+      "end": 1678.463,
+      "person": "B",
+      "text": "No, that's our secret.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1678.463,
+      "end": 1680.0,
+      "person": null,
+      "text": "[User explains the dead card and points to the board]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1680.0,
+      "end": 1726.0,
+      "person": null,
+      "text": "[Quiet sounds of cards and chips being handled]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1726.628,
+      "end": 1750.0,
+      "person": "B",
+      "text": "I mean this card shouldn't be in that state because you know this 9 has been played and the same time this one is also played so it means there shouldn't be any so these two decks have to be separate no it's fine maybe you have taken a card from here because this has already been played",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1756.583,
+      "end": 1758.504,
+      "person": "User",
+      "text": "Oh, so we cannot mix these two decks together.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1759.285,
+      "end": 1762.267,
+      "person": "B",
+      "text": "Yeah, but not any card what you have already played.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1764.449,
+      "end": 1767.972,
+      "person": "B",
+      "text": "Because those points are already filled up, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1768.792,
+      "end": 1776.0,
+      "person": "User",
+      "text": "Is it my turn?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1781.182,
+      "end": 1782.423,
+      "person": "B",
+      "text": "No, it's your turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1782.663,
+      "end": 1784.104,
+      "person": "B",
+      "text": "But okay, then...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1784.869,
+      "end": 1792.676,
+      "person": "B",
+      "text": "If anyone has any card that has been played twice in the board, he can just drop the card and pick up another.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1793.917,
+      "end": 1795.899,
+      "person": "User",
+      "text": "I think Ace has been played twice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1798.021,
+      "end": 1799.902,
+      "person": "User",
+      "text": "Right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1799.922,
+      "end": 1800.0,
+      "person": "User",
+      "text": "There's one Ace.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1800.0,
+      "end": 1800.623,
+      "person": "B",
+      "text": "There's one Ace.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1801.844,
+      "end": 1802.645,
+      "person": "B",
+      "text": "There's another Ace.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1809.091,
+      "end": 1809.491,
+      "person": "B",
+      "text": "Here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1869.612,
+      "end": 1869.753,
+      "person": "C",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1903.407,
+      "end": 1903.888,
+      "person": "B",
+      "text": "sequence",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1920.0,
+      "end": 1945.0,
+      "person": null,
+      "text": "[Sounds of cards being handled and quiet background noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1945.887,
+      "end": 1948.128,
+      "person": "B",
+      "text": "Oh, man.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1949.169,
+      "end": 1950.309,
+      "person": "B",
+      "text": "That's pathetic.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1950.449,
+      "end": 1971.48,
+      "person": "User",
+      "text": "What happens if seven is played twice because of Joker?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1972.62,
+      "end": 1973.841,
+      "person": "B",
+      "text": "Still you can drop it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2000.0,
+      "end": 2020.0,
+      "person": "User",
+      "text": "They literally stopped matching their sequence, building their sequence. They are now like you know just removing our...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2020.0,
+      "end": 2040.0,
+      "person": null,
+      "text": "[Sounds of chips being placed on the board]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2052.847,
+      "end": 2054.833,
+      "person": "B",
+      "text": "And we exchange cards like this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2054.853,
+      "end": 2058.542,
+      "person": "B",
+      "text": "Then you have to be real like that, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2058.542,
+      "end": 2067.0,
+      "person": null,
+      "text": "[Sound of game chip being placed]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2067.0,
+      "end": 2085.5,
+      "person": null,
+      "text": "[Sound of cards being shuffled and handled]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2085.5,
+      "end": 2104.0,
+      "person": null,
+      "text": "[Sound of a game chip being placed]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2104.0,
+      "end": 2104.659,
+      "person": "B",
+      "text": "Why?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2104.659,
+      "end": 2105.318,
+      "person": "B",
+      "text": "Why you have used that jack?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2105.318,
+      "end": 2105.977,
+      "person": "B",
+      "text": "Because we",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2105.977,
+      "end": 2107.518,
+      "person": "B",
+      "text": "we must not have that seven.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2108.339,
+      "end": 2112.122,
+      "person": "User",
+      "text": "What's the point of, like... We might get seven eventually.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2112.142,
+      "end": 2113.343,
+      "person": "B",
+      "text": "No, seven has been played.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2113.583,
+      "end": 2113.944,
+      "person": "User",
+      "text": "Twice?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2114.704,
+      "end": 2120.649,
+      "person": "B",
+      "text": "Twice, because I had placed that dice first and she removed it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2120.91,
+      "end": 2122.711,
+      "person": "B",
+      "text": "Then she played it and now you removed it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2122.731,
+      "end": 2123.672,
+      "person": "User",
+      "text": "Oh, right.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2123.872,
+      "end": 2130.177,
+      "person": "User",
+      "text": "I didn't think about that.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2140.0,
+      "end": 2140.413,
+      "person": "B",
+      "text": "Hell is happening.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2140.413,
+      "end": 2143.678,
+      "person": "User",
+      "text": "I have a dead card.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2143.678,
+      "end": 2146.942,
+      "person": "B",
+      "text": "Yeah, if you have dead card just drop it and take another.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2146.942,
+      "end": 2150.207,
+      "person": "B",
+      "text": "But make sure it is really dead.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2150.207,
+      "end": 2153.471,
+      "person": "User",
+      "text": "Yeah, he is dead.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2153.471,
+      "end": 2156.736,
+      "person": null,
+      "text": "[Sound of card being placed on the floor]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2156.736,
+      "end": 2160.0,
+      "person": null,
+      "text": "[Sound of person drinking from a can]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2167.248,
+      "end": 2169.49,
+      "person": "A",
+      "text": "Oh, this is my dead card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2169.53,
+      "end": 2171.752,
+      "person": "User",
+      "text": "Make sure it is really dead.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2171.792,
+      "end": 2175.956,
+      "person": "User",
+      "text": "Yes, key is dead.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2175.956,
+      "end": 2208.0,
+      "person": null,
+      "text": "[Sound of cards being handled]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2212.865,
+      "end": 2215.347,
+      "person": "User",
+      "text": "here just replace those",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2215.347,
+      "end": 2250.0,
+      "person": null,
+      "text": "[Sound of chips being placed on the board]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2264.18,
+      "end": 2265.824,
+      "person": "A",
+      "text": "Yeah, who's turning?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2265.964,
+      "end": 2269.592,
+      "person": "A",
+      "text": "Mine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2269.772,
+      "end": 2270.554,
+      "person": "A",
+      "text": "This is also big, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2271.115,
+      "end": 2272.638,
+      "person": "A",
+      "text": "You can just look at it on this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2273.32,
+      "end": 2274.282,
+      "person": "A",
+      "text": "This one is fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2310.932,
+      "end": 2331.454,
+      "person": "B",
+      "text": "it was not dead before i had two in my hand and there was only one there then take the cards again how many do you have taken five",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2331.454,
+      "end": 2359.0,
+      "person": null,
+      "text": "[Sounds of cards being shuffled and chips clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2359.09,
+      "end": 2383.044,
+      "person": "User",
+      "text": "to match it right right unless they they had no the thing is the king is probably not there because he has like removed one of my king over there if that was there then we have already like four sequences yes the most important so there is still one king somewhere i don't know",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2389.744,
+      "end": 2390.926,
+      "person": "B",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2418.134,
+      "end": 2421.515,
+      "person": "B",
+      "text": "Look how many ways we can make the sequence.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2421.956,
+      "end": 2428.318,
+      "person": "B",
+      "text": "Again, we have six, seven opportunities, but we don't have the most important card.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2438.563,
+      "end": 2445.926,
+      "person": "B",
+      "text": "How many jacks do they have?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2446.006,
+      "end": 2447.467,
+      "person": "B",
+      "text": "Like they are just picking up the...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2448.529,
+      "end": 2450.13,
+      "person": "B",
+      "text": "This is dead card Seven seven",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2479.752,
+      "end": 2484.755,
+      "person": "B",
+      "text": "Why you are just looking at my card and giving it to me?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2484.755,
+      "end": 2508.377,
+      "person": null,
+      "text": "[Laughter]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2508.377,
+      "end": 2532.0,
+      "person": "B",
+      "text": "There's like total eight jacks. Four one-eyed and four two-eyed.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2533.964,
+      "end": 2534.705,
+      "person": "B",
+      "text": "That's the diagram.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2534.785,
+      "end": 2537.847,
+      "person": "B",
+      "text": "Why don't you, why aren't you like paying that 10?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2537.867,
+      "end": 2540.289,
+      "person": "B",
+      "text": "Nice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2540.429,
+      "end": 2543.271,
+      "person": "User",
+      "text": "Two sequences now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2545.893,
+      "end": 2552.538,
+      "person": "User",
+      "text": "I didn't notice that.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2552.558,
+      "end": 2557.162,
+      "person": "User",
+      "text": "I was thinking about the seven of them.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

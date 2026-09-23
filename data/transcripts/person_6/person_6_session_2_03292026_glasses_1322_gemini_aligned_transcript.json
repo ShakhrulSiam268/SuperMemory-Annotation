@@ -1,0 +1,2194 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 238,
+    "timing_counts": {
+      "whisper_exact_match": 203,
+      "whisper_partial_match": 1,
+      "interpolated_between_anchors": 1,
+      "inferred_before_first_anchor": 1,
+      "inferred_after_last_anchor": 11,
+      "caption_segment_evenly_distributed": 5,
+      "caption_segment_inferred": 16
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "C": {
+          "SPEAKER_02": 77,
+          "SPEAKER_01": 9,
+          "UNKNOWN": 2,
+          "SPEAKER_00": 3
+        },
+        "User": {
+          "SPEAKER_02": 84,
+          "UNKNOWN": 2,
+          "SPEAKER_00": 4,
+          "SPEAKER_01": 4
+        },
+        "A": {
+          "SPEAKER_01": 14,
+          "UNKNOWN": 1,
+          "SPEAKER_02": 14
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "C": "SPEAKER_02",
+        "User": "SPEAKER_02",
+        "A": "SPEAKER_01"
+      },
+      "conflicts": {
+        "SPEAKER_02": [
+          "C",
+          "User"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_2_03292026_glasses_1322"
+  },
+  "transcript": [
+    {
+      "start": 3.422,
+      "end": 3.782,
+      "person": "C",
+      "text": "D1.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 79.583,
+      "end": 80.123,
+      "person": "C",
+      "text": "This one is D1, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 80.143,
+      "end": 80.364,
+      "person": "C",
+      "text": "So 2D1.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 80.384,
+      "end": 86.609,
+      "person": "C",
+      "text": "There is another one here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 111.295,
+      "end": 111.875,
+      "person": "C",
+      "text": "Maybe this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 115.697,
+      "end": 116.397,
+      "person": "C",
+      "text": "This one is two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 119.039,
+      "end": 119.779,
+      "person": "C",
+      "text": "This one is two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 119.799,
+      "end": 120.0,
+      "person": "C",
+      "text": "One.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 120.0,
+      "end": 122.48,
+      "person": "User",
+      "text": "One.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 122.5,
+      "end": 124.701,
+      "person": "User",
+      "text": "So one, two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 124.741,
+      "end": 125.062,
+      "person": "User",
+      "text": "One, two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 133.0,
+      "end": 150.0,
+      "person": null,
+      "text": "[Rhythmic clicking of wooden pieces]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 150.0,
+      "end": 183.0,
+      "person": null,
+      "text": "[Faint background noise]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 195.2,
+      "end": 195.801,
+      "person": "User",
+      "text": "Gjerrfug.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 206.333,
+      "end": 207.314,
+      "person": "User",
+      "text": "Dette var en eller to.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 207.335,
+      "end": 207.415,
+      "person": "User",
+      "text": "To.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 223.0,
+      "end": 240.0,
+      "person": null,
+      "text": "[Sounds of wood clicking together]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 259.899,
+      "end": 264.626,
+      "person": "C",
+      "text": "D3, D4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 264.646,
+      "end": 265.507,
+      "person": "C",
+      "text": "We still have D3 and D4 left.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 268.0,
+      "end": 285.5,
+      "person": null,
+      "text": "[Tapping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 285.5,
+      "end": 303.0,
+      "person": null,
+      "text": "[Rustling of paper]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 303.136,
+      "end": 305.918,
+      "person": "C",
+      "text": "Give me one d4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 305.918,
+      "end": 360.0,
+      "person": null,
+      "text": "[Clicking sounds of wood pieces]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 368.433,
+      "end": 369.393,
+      "person": "User",
+      "text": "Ok, this one is coming loose.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 369.433,
+      "end": 369.633,
+      "person": "User",
+      "text": "Ok. Ok.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 425.442,
+      "end": 425.662,
+      "person": "C",
+      "text": "Topp.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 453.766,
+      "end": 454.634,
+      "person": "User",
+      "text": "11, 18, 17, 16",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 489.342,
+      "end": 490.183,
+      "person": "C",
+      "text": "First be sixteen. Sixteen.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 497.867,
+      "end": 499.868,
+      "person": "C",
+      "text": "Sixteen, seventeen, eighteen. Seventeen, eighteen. Seventeen. Eighteen. Eighteen.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 538.167,
+      "end": 538.647,
+      "person": "C",
+      "text": "11. 11.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 598.243,
+      "end": 600.0,
+      "person": "C",
+      "text": "Hold it like that. 17, 18. This one, this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 600.0,
+      "end": 601.467,
+      "person": "C",
+      "text": "This one, this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 601.487,
+      "end": 601.607,
+      "person": "User",
+      "text": "11.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 672.667,
+      "end": 672.908,
+      "person": "C",
+      "text": "Vi er 19.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 720.0,
+      "end": 728.322,
+      "person": null,
+      "text": "[Clicking of wooden pieces]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 728.322,
+      "end": 728.522,
+      "person": "C",
+      "text": "B7.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 794.315,
+      "end": 808.242,
+      "person": "User",
+      "text": "B1, B2, B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 808.262,
+      "end": 808.402,
+      "person": "C",
+      "text": "B1, B2.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 808.422,
+      "end": 808.482,
+      "person": "C",
+      "text": "B1.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 808.482,
+      "end": 824.061,
+      "person": null,
+      "text": "Vi tu.",
+      "kind": "sound",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 824.061,
+      "end": 824.281,
+      "person": "C",
+      "text": "Vi tu.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 824.862,
+      "end": 825.102,
+      "person": "C",
+      "text": "Vi tu.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 840.0,
+      "end": 881.0,
+      "person": null,
+      "text": "[Clicking sounds of wooden pieces joining]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 881.893,
+      "end": 885.636,
+      "person": "User",
+      "text": "It's not going all the way in.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 885.676,
+      "end": 896.723,
+      "person": "A",
+      "text": "What are you supposed to put in here?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 896.743,
+      "end": 897.684,
+      "person": "User",
+      "text": "B1 in front of B16.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 897.724,
+      "end": 899.745,
+      "person": "User",
+      "text": "Are you supposed to use B4 or B2?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 899.765,
+      "end": 899.825,
+      "person": "User",
+      "text": "B2.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 899.865,
+      "end": 901.406,
+      "person": "A",
+      "text": "I think this is B2.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 901.426,
+      "end": 902.287,
+      "person": "User",
+      "text": "Oh, these are B4?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 902.307,
+      "end": 909.952,
+      "person": "A",
+      "text": "These are B... No, these are...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 915.014,
+      "end": 915.694,
+      "person": "User",
+      "text": "Ok, this way.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 915.714,
+      "end": 924.701,
+      "person": "C",
+      "text": "Do you put any other B2 somewhere else?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 924.721,
+      "end": 925.041,
+      "person": "User",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 925.061,
+      "end": 926.302,
+      "person": "User",
+      "text": "So there's a B3 at the back.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 927.563,
+      "end": 933.547,
+      "person": "C",
+      "text": "Maybe replace the B14 with the B2.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 933.747,
+      "end": 935.648,
+      "person": "C",
+      "text": "These are the B2.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 935.728,
+      "end": 942.593,
+      "person": "C",
+      "text": "And the longer one is the B14.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 942.713,
+      "end": 943.694,
+      "person": "User",
+      "text": "Yep, so there should be a B2 here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 949.591,
+      "end": 960.0,
+      "person": "C",
+      "text": "I think you missed another b2, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 960.0,
+      "end": 965.08,
+      "person": "A",
+      "text": "I think you missed another b2, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 965.1,
+      "end": 965.44,
+      "person": "User",
+      "text": "How many b2?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 965.54,
+      "end": 972.124,
+      "person": "User",
+      "text": "Two b2 for now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 972.144,
+      "end": 973.385,
+      "person": "User",
+      "text": "So there will be force here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 985.568,
+      "end": 989.39,
+      "person": "User",
+      "text": "So, there was one B2 in the front, and the other in the back.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 989.41,
+      "end": 996.353,
+      "person": "C",
+      "text": "Both attached to B1 and B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 996.393,
+      "end": 996.493,
+      "person": "User",
+      "text": "B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 996.533,
+      "end": 1000.034,
+      "person": "User",
+      "text": "This one's B2, this one's B2.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1000.074,
+      "end": 1008.478,
+      "person": "User",
+      "text": "This is in front of B1, and this one's in front of, I mean behind B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1008.498,
+      "end": 1009.278,
+      "person": "User",
+      "text": "So this part is done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1040.625,
+      "end": 1042.187,
+      "person": "User",
+      "text": "This one was B13.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1042.207,
+      "end": 1042.627,
+      "person": "User",
+      "text": "This one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1042.687,
+      "end": 1047.071,
+      "person": "User",
+      "text": "This one is way back.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1047.492,
+      "end": 1050.995,
+      "person": "User",
+      "text": "Where?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1051.015,
+      "end": 1052.356,
+      "person": "User",
+      "text": "I think this was B13.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1052.376,
+      "end": 1052.676,
+      "person": "User",
+      "text": "No, no.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1067.705,
+      "end": 1069.466,
+      "person": "User",
+      "text": "Ok, B14 was here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1069.486,
+      "end": 1072.828,
+      "person": "User",
+      "text": "That's an extra, I guess.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1072.868,
+      "end": 1077.49,
+      "person": "A",
+      "text": "You already put B14 somewhere.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1077.61,
+      "end": 1080.0,
+      "person": "User",
+      "text": "Yep, this right here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1080.0,
+      "end": 1084.634,
+      "person": "C",
+      "text": "Yep, this right here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1084.674,
+      "end": 1088.336,
+      "person": "C",
+      "text": "B2 in front of B1 and between behind B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1096.575,
+      "end": 1097.216,
+      "person": "C",
+      "text": "Ok, next strip.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1097.236,
+      "end": 1098.597,
+      "person": "C",
+      "text": "C25 and A10.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1098.637,
+      "end": 1101.179,
+      "person": "C",
+      "text": "This one is A10.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1101.259,
+      "end": 1101.379,
+      "person": "C",
+      "text": "C25.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1101.399,
+      "end": 1104.242,
+      "person": "C",
+      "text": "Should I open up the C?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1104.282,
+      "end": 1104.382,
+      "person": "C",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1104.402,
+      "end": 1104.482,
+      "person": "C",
+      "text": "Ok.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1135.531,
+      "end": 1148.824,
+      "person": "A",
+      "text": "These look very similar to one another.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1148.844,
+      "end": 1151.767,
+      "person": "A",
+      "text": "Best if I give it to you once you need it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1152.267,
+      "end": 1153.429,
+      "person": "A",
+      "text": "These are all C1.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1165.034,
+      "end": 1165.174,
+      "person": "User",
+      "text": "Yup.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1223.624,
+      "end": 1224.13,
+      "person": "User",
+      "text": "Godgå.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1262.139,
+      "end": 1271.184,
+      "person": "User",
+      "text": "We are done with the foundation.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1273.466,
+      "end": 1279.369,
+      "person": "User",
+      "text": "This one looks sturdy enough.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1279.409,
+      "end": 1279.989,
+      "person": "User",
+      "text": "P1, C16.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1280.009,
+      "end": 1284.092,
+      "person": "User",
+      "text": "C16 here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1292.094,
+      "end": 1293.335,
+      "person": "A",
+      "text": "You need one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1293.355,
+      "end": 1293.896,
+      "person": "User",
+      "text": "Yep, one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1293.936,
+      "end": 1295.117,
+      "person": "User",
+      "text": "I need three.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1298.581,
+      "end": 1304.948,
+      "person": "A",
+      "text": "You can have another one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1304.968,
+      "end": 1306.289,
+      "person": "User",
+      "text": "How many do we need exactly?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1306.309,
+      "end": 1306.709,
+      "person": "User",
+      "text": "Parpetal.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1306.749,
+      "end": 1307.41,
+      "person": "User",
+      "text": "One parpetal.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1307.43,
+      "end": 1308.271,
+      "person": "C",
+      "text": "We need three.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1308.291,
+      "end": 1310.193,
+      "person": "A",
+      "text": "I gave you three.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1324.206,
+      "end": 1324.773,
+      "person": "C",
+      "text": "Karpet over.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1356.822,
+      "end": 1357.823,
+      "person": "C",
+      "text": "B4, C16. Is this B4?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1358.644,
+      "end": 1360.0,
+      "person": "A",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1360.0,
+      "end": 1360.0,
+      "person": "C",
+      "text": "So 2B1 and 1B4. So.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1395.817,
+      "end": 1396.698,
+      "person": "C",
+      "text": "We have the first three petals.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1396.718,
+      "end": 1400.68,
+      "person": "User",
+      "text": "They should be going down here. Two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1400.7,
+      "end": 1401.561,
+      "person": "C",
+      "text": "Do you want to do this?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1427.474,
+      "end": 1427.812,
+      "person": "C",
+      "text": "Jep.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1461.93,
+      "end": 1463.951,
+      "person": "C",
+      "text": "B3, C4, B1, B2.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1463.991,
+      "end": 1468.173,
+      "person": "User",
+      "text": "Need how many C4?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1468.213,
+      "end": 1469.494,
+      "person": "C",
+      "text": "One C4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1469.574,
+      "end": 1470.635,
+      "person": "C",
+      "text": "One C4 and one C8.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1470.675,
+      "end": 1483.341,
+      "person": "User",
+      "text": "Are you sure only one C4?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1483.361,
+      "end": 1484.382,
+      "person": "C",
+      "text": "For this one, one C4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1484.402,
+      "end": 1489.364,
+      "person": "C",
+      "text": "For the next step, another C4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1489.384,
+      "end": 1490.705,
+      "person": "C",
+      "text": "So two C4, I guess.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1499.606,
+      "end": 1501.468,
+      "person": "C",
+      "text": "2B1 and 1B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1502.909,
+      "end": 1506.072,
+      "person": "C",
+      "text": "This one's B1.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1506.272,
+      "end": 1506.773,
+      "person": "C",
+      "text": "This one's B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1524.191,
+      "end": 1548.65,
+      "person": "C",
+      "text": "2p1 and 1p3 c8 this one is c8 you can do this one so there should be 2p3 this one is 2p3 and this one is",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1555.086,
+      "end": 1557.09,
+      "person": "C",
+      "text": "C4, and this C4 would go for 1, 2, 3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1557.15,
+      "end": 1557.431,
+      "person": "C",
+      "text": "Ok, 3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1560.0,
+      "end": 1599.0,
+      "person": null,
+      "text": "[Plastic pieces clicking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1599.105,
+      "end": 1601.869,
+      "person": "C",
+      "text": "Så vi har dette, og vi har C11.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1601.889,
+      "end": 1612.143,
+      "person": "C",
+      "text": "C11.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1612.243,
+      "end": 1612.563,
+      "person": "C",
+      "text": "Og 2B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1638.185,
+      "end": 1644.268,
+      "person": "C",
+      "text": "Så denne er denne.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1644.288,
+      "end": 1645.949,
+      "person": "C",
+      "text": "Denne er denne.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1645.989,
+      "end": 1649.692,
+      "person": "C",
+      "text": "C8, denne, og C8.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1649.892,
+      "end": 1652.833,
+      "person": "C",
+      "text": "Vi trenger B6 og B9.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1652.873,
+      "end": 1654.294,
+      "person": "C",
+      "text": "For denne, ja.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1654.314,
+      "end": 1656.856,
+      "person": "C",
+      "text": "Her er B6.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1656.876,
+      "end": 1657.276,
+      "person": "C",
+      "text": "Her er B9.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1657.296,
+      "end": 1657.796,
+      "person": "C",
+      "text": "Så B6 går her.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1657.816,
+      "end": 1657.896,
+      "person": "C",
+      "text": "Her.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1673.665,
+      "end": 1674.186,
+      "person": "C",
+      "text": "And B9 goes right here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1674.206,
+      "end": 1674.606,
+      "person": "C",
+      "text": "Short one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1674.626,
+      "end": 1675.247,
+      "person": "C",
+      "text": "This one's...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1706.169,
+      "end": 1708.032,
+      "person": "A",
+      "text": "Is this C5?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1709.575,
+      "end": 1710.136,
+      "person": "A",
+      "text": "C5 and C23?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1710.156,
+      "end": 1712.219,
+      "person": "User",
+      "text": "Let's just follow this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1800.0,
+      "end": 1837.0,
+      "person": null,
+      "text": "[Rustling of plastic and wooden pieces]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1837.0,
+      "end": 1872.0,
+      "person": null,
+      "text": "[Clicking sounds of wooden pieces being joined]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1886.926,
+      "end": 1892.448,
+      "person": "A",
+      "text": "So here's the B, and here's the C. Let's do this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1917.44,
+      "end": 1918.3,
+      "person": "User",
+      "text": "I'm a bit confused about the B.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1950.068,
+      "end": 1952.43,
+      "person": "A",
+      "text": "P is this one, I think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1952.45,
+      "end": 1965.14,
+      "person": "C",
+      "text": "This, this... One, two, three, like five petals.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1965.16,
+      "end": 1970.063,
+      "person": "A",
+      "text": "This one has five petals.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1970.103,
+      "end": 1970.204,
+      "person": "User",
+      "text": "Ok.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1970.624,
+      "end": 1974.026,
+      "person": "A",
+      "text": "This one also has five petals.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1974.046,
+      "end": 1975.848,
+      "person": "A",
+      "text": "So this one's... This one's the B3. This one's B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1976.82,
+      "end": 1980.303,
+      "person": "A",
+      "text": "And this is the B4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1981.123,
+      "end": 1981.704,
+      "person": "A",
+      "text": "And this one is C11.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1981.744,
+      "end": 1984.306,
+      "person": "A",
+      "text": "First let me fix this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1984.326,
+      "end": 1985.527,
+      "person": "A",
+      "text": "So B and C. This goes...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2039.01,
+      "end": 2040.0,
+      "person": "A",
+      "text": "Ok, and this one is C, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2040.0,
+      "end": 2042.011,
+      "person": "User",
+      "text": "Ok, and this one is C, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2042.031,
+      "end": 2042.851,
+      "person": "User",
+      "text": "It should go around here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2042.871,
+      "end": 2043.652,
+      "person": "User",
+      "text": "I think I made a mistake.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2043.652,
+      "end": 2060.0,
+      "person": null,
+      "text": "[Ruffling of plastic packaging]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2060.0,
+      "end": 2118.0,
+      "person": null,
+      "text": "[Light clicking of plastic pieces being joined]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2118.389,
+      "end": 2125.594,
+      "person": "User",
+      "text": "How about this one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2125.614,
+      "end": 2126.515,
+      "person": "User",
+      "text": "Did you complete this one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2126.735,
+      "end": 2134.361,
+      "person": "C",
+      "text": "Yeah, you just put that over here, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2134.421,
+      "end": 2134.761,
+      "person": "User",
+      "text": "And over here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2134.821,
+      "end": 2135.582,
+      "person": "User",
+      "text": "Oh, yep, just put that here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2138.358,
+      "end": 2142.909,
+      "person": "User",
+      "text": "C26 We need a C26 to lock this here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2146.0,
+      "end": 2160.0,
+      "person": null,
+      "text": "[Sound of plastic pieces being sorted]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2204.956,
+      "end": 2209.557,
+      "person": "A",
+      "text": "This one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2209.577,
+      "end": 2210.498,
+      "person": "User",
+      "text": "We will put this one here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2210.538,
+      "end": 2212.838,
+      "person": "User",
+      "text": "You can take this apart.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2212.858,
+      "end": 2217.64,
+      "person": "C",
+      "text": "Just take this apart and see.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2217.7,
+      "end": 2221.641,
+      "person": "User",
+      "text": "So this one is C4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2221.681,
+      "end": 2222.602,
+      "person": "User",
+      "text": "And this one is C5, yep.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2250.0,
+      "end": 2256.0,
+      "person": "User",
+      "text": "Just put it here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2256.0,
+      "end": 2262.0,
+      "person": "User",
+      "text": "Ok, we need a B15.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2262.0,
+      "end": 2268.0,
+      "person": "User",
+      "text": "So we have B15.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2268.0,
+      "end": 2274.0,
+      "person": "User",
+      "text": "Direction.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2274.0,
+      "end": 2280.0,
+      "person": "A",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2288.51,
+      "end": 2296.962,
+      "person": "C",
+      "text": "I mean, this one and this one is the same.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2296.982,
+      "end": 2297.663,
+      "person": "C",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2297.683,
+      "end": 2298.0,
+      "person": "C",
+      "text": "This one is C2.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2298.0,
+      "end": 2298.0,
+      "person": "C",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2298.0,
+      "end": 2298.0,
+      "person": "C",
+      "text": "Sorry.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2298.0,
+      "end": 2298.0,
+      "person": "C",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2298.0,
+      "end": 2343.0,
+      "person": null,
+      "text": "[Rhythmic clicking of wooden pieces being joined]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2343.83,
+      "end": 2344.67,
+      "person": "User",
+      "text": "This one goes here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2344.71,
+      "end": 2345.43,
+      "person": "User",
+      "text": "So, here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2345.49,
+      "end": 2347.471,
+      "person": "User",
+      "text": "And this one is this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2347.491,
+      "end": 2348.0,
+      "person": "User",
+      "text": "So you put it down like this.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2348.0,
+      "end": 2348.0,
+      "person": "User",
+      "text": "I can fix that.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2348.0,
+      "end": 2388.0,
+      "person": null,
+      "text": "[Sound of plastic pieces clicking together]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2388.11,
+      "end": 2389.691,
+      "person": "User",
+      "text": "And this one goes...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2429.705,
+      "end": 2430.605,
+      "person": "User",
+      "text": "This one goes in, so.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2430.625,
+      "end": 2431.146,
+      "person": "User",
+      "text": "Nope, this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2431.146,
+      "end": 2460.0,
+      "person": null,
+      "text": "[Clicking sound of wooden pieces joining]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2460.0,
+      "end": 2492.0,
+      "person": null,
+      "text": "[Rustling of plastic bags and wooden sheets]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2492.017,
+      "end": 2493.017,
+      "person": "User",
+      "text": "Ok, her.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2493.077,
+      "end": 2493.478,
+      "person": "User",
+      "text": "Ja.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2493.498,
+      "end": 2493.638,
+      "person": "C",
+      "text": "C3, C5.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2493.638,
+      "end": 2520.0,
+      "person": null,
+      "text": "[Soft ambient room noise]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2523.643,
+      "end": 2528.387,
+      "person": "C",
+      "text": "We also need one C6 and C7.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2528.467,
+      "end": 2529.288,
+      "person": "C",
+      "text": "Is it C6 and C7?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2532.21,
+      "end": 2532.41,
+      "person": "C",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2532.47,
+      "end": 2532.81,
+      "person": "C",
+      "text": "Oh, sorry.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2532.81,
+      "end": 2576.0,
+      "person": null,
+      "text": "[Rustling sounds]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2578.96,
+      "end": 2583.684,
+      "person": "C",
+      "text": "So this one is C7, so 2B1, and C6, 3B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2583.764,
+      "end": 2584.004,
+      "person": "C",
+      "text": "2B1.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2584.004,
+      "end": 2640.0,
+      "person": null,
+      "text": "[Plastic rustling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2640.0,
+      "end": 2657.0,
+      "person": null,
+      "text": "[Ambient sounds of rustling paper and plastic]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2657.8,
+      "end": 2658.801,
+      "person": "User",
+      "text": "We need a B4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2659.181,
+      "end": 2659.702,
+      "person": "User",
+      "text": "Give me a B4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2659.742,
+      "end": 2662.765,
+      "person": "A",
+      "text": "B4 or B4?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2662.825,
+      "end": 2664.146,
+      "person": "User",
+      "text": "B, B, yep, there's the one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2664.226,
+      "end": 2664.747,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2692.0,
+      "end": 2722.0,
+      "person": null,
+      "text": "[Sound of wooden pieces clicking together]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2723.501,
+      "end": 2723.721,
+      "person": "User",
+      "text": "B4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2723.841,
+      "end": 2731.585,
+      "person": "User",
+      "text": "Ok. We need a c2 and c4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2731.605,
+      "end": 2731.685,
+      "person": "User",
+      "text": "5b3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2745.243,
+      "end": 2745.884,
+      "person": "User",
+      "text": "And you can place them.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2745.904,
+      "end": 2749.227,
+      "person": "User",
+      "text": "We need another c4.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2749.407,
+      "end": 2749.648,
+      "person": "User",
+      "text": "And c1.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2749.668,
+      "end": 2750.048,
+      "person": "User",
+      "text": "Again, 5b3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2810.067,
+      "end": 2811.213,
+      "person": "User",
+      "text": "So this one goes in front",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2862.595,
+      "end": 2863.636,
+      "person": "User",
+      "text": "This one came off wrong.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2907.651,
+      "end": 2907.971,
+      "person": "User",
+      "text": "Next page.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2907.991,
+      "end": 2919.118,
+      "person": "User",
+      "text": "Can I check the time?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2943.587,
+      "end": 2947.633,
+      "person": "A",
+      "text": "Ok, så kan du gjøre det?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2947.693,
+      "end": 2949.435,
+      "person": "User",
+      "text": "Ja, jeg har bare gjort det.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2949.455,
+      "end": 2949.615,
+      "person": "User",
+      "text": "B3, 1.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2949.635,
+      "end": 2954.0,
+      "person": "User",
+      "text": "Så vi gjorde denne, ikke denne.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

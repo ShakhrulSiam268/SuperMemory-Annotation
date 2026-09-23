@@ -1,0 +1,26 @@
+[
+  {
+    "start": 807.2439999999988,
+    "end": 807.9890000000014,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1132.875,
+    "end": 1135.9370000000017,
+    "text": "Ok, has it started?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1135.9969999999994,
+    "end": 1144.4439999999995,
+    "text": "Alright, so here is the fridge, so we should look at what we have here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1144.464,
+    "end": 1149.107,
+    "text": "So, we have onions over here, green milk.",
+    "speaker": "SPEAKER_01"
+  }
+]

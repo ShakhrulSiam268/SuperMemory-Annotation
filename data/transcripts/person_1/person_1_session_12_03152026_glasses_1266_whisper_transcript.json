@@ -1,0 +1,56 @@
+[
+  {
+    "start": 1.6660000000010768,
+    "end": 5.748999999999796,
+    "text": "I'll go outside and take a walk.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 42.465000000000146,
+    "end": 46.42699999999968,
+    "text": "Okay, so the garbage still has a long way to go.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 46.447000000000116,
+    "end": 52.29000000000087,
+    "text": "I won't be emptying it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 52.31000000000131,
+    "end": 53.991000000001804,
+    "text": "Let me check what I have on the fridge.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 403.1519999999982,
+    "end": 403.59000000000015,
+    "text": "Takk for at du s\u00e5 med.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 584.6419999999998,
+    "end": 585.0809999999983,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 656.5970000000016,
+    "end": 657.0190000000002,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 829.768,
+    "end": 830.1569999999992,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1051.8770000000004,
+    "end": 1052.5989999999983,
+    "text": "Thank you for watching",
+    "speaker": "UNKNOWN"
+  }
+]

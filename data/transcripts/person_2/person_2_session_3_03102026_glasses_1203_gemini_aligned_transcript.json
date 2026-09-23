@@ -1,0 +1,1372 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 147,
+    "timing_counts": {
+      "whisper_exact_match": 100,
+      "whisper_partial_match": 1,
+      "interpolated_between_anchors": 1,
+      "inferred_before_first_anchor": 4,
+      "inferred_after_last_anchor": 9,
+      "caption_segment_evenly_distributed": 12,
+      "caption_segment_inferred": 20
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "User": {
+          "SPEAKER_06": 74,
+          "SPEAKER_02": 1,
+          "SPEAKER_04": 1,
+          "SPEAKER_03": 1
+        },
+        "A": {
+          "SPEAKER_02": 11,
+          "SPEAKER_03": 1
+        },
+        "B": {
+          "SPEAKER_02": 6,
+          "SPEAKER_06": 7
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "User": "SPEAKER_06",
+        "A": "SPEAKER_02",
+        "B": "SPEAKER_06"
+      },
+      "conflicts": {
+        "SPEAKER_06": [
+          "B",
+          "User"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_3_03102026_glasses_1203"
+  },
+  "transcript": [
+    {
+      "start": 11.442,
+      "end": 11.762,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 12.542,
+      "end": 13.103,
+      "person": "User",
+      "text": "Is it fresh?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 14.523,
+      "end": 16.004,
+      "person": "A",
+      "text": "It's gonna be fresh.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 16.024,
+      "end": 16.664,
+      "person": "A",
+      "text": "The taste is fresh.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 16.784,
+      "end": 22.086,
+      "person": "A",
+      "text": "That's why I store it like that.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 22.146,
+      "end": 22.406,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 23.186,
+      "end": 26.848,
+      "person": "A",
+      "text": "I'm a single person, I cannot finish it on time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 26.908,
+      "end": 27.208,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 44.21,
+      "end": 44.412,
+      "person": "User",
+      "text": "Mm-hmm.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 44.816,
+      "end": 45.078,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 48.0,
+      "end": 100.0,
+      "person": null,
+      "text": "[Sizzling sound of oil]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 101.396,
+      "end": 115.228,
+      "person": "User",
+      "text": "Let me check the iftar time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 115.308,
+      "end": 117.99,
+      "person": "User",
+      "text": "It's 7.34, so still 3 minutes left.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 120.752,
+      "end": 124.315,
+      "person": "User",
+      "text": "What time is it now?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 124.335,
+      "end": 127.418,
+      "person": "User",
+      "text": "7.31, 2 and a half minutes remaining.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 160.0,
+      "end": 188.0,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 188.0,
+      "end": 216.0,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 226.115,
+      "end": 227.056,
+      "person": "User",
+      "text": "Do you need another plate?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 229.777,
+      "end": 238.962,
+      "person": "B",
+      "text": "Can you take those towels?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 268.04,
+      "end": 268.801,
+      "person": "User",
+      "text": "You need it right now?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 269.702,
+      "end": 270.102,
+      "person": "User",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 270.162,
+      "end": 270.242,
+      "person": "User",
+      "text": "OK.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 270.743,
+      "end": 271.243,
+      "person": "User",
+      "text": "I'll put it here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 271.323,
+      "end": 271.944,
+      "person": "A",
+      "text": "Put the towel here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 272.044,
+      "end": 272.244,
+      "person": "A",
+      "text": "Where?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 273.545,
+      "end": 273.605,
+      "person": "User",
+      "text": "OK.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 277.0,
+      "end": 280.552,
+      "person": "User",
+      "text": "I think it's the time almost.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 281.433,
+      "end": 281.713,
+      "person": "User",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 281.773,
+      "end": 282.194,
+      "person": "User",
+      "text": "Check the time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 291.262,
+      "end": 291.903,
+      "person": "User",
+      "text": "Yeah, it's the time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 315.0,
+      "end": 360.0,
+      "person": null,
+      "text": "[Drinking sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 379.945,
+      "end": 383.093,
+      "person": "User",
+      "text": "I'm not hungry so I can wait it's fine",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 423.084,
+      "end": 439.468,
+      "person": "User",
+      "text": "Do you need anything?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 443.0,
+      "end": 450.85,
+      "person": "A",
+      "text": "How much time did you...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 454.438,
+      "end": 455.679,
+      "person": "User",
+      "text": "Yeah, I have already done.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 455.999,
+      "end": 459.341,
+      "person": "User",
+      "text": "So, this round it's almost 8 minutes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 460.842,
+      "end": 462.863,
+      "person": "User",
+      "text": "8 minutes so far for this round.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 462.883,
+      "end": 465.865,
+      "person": "User",
+      "text": "What time is Maghrib?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 468.887,
+      "end": 469.747,
+      "person": "User",
+      "text": "Like, you mean Isha?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 472.349,
+      "end": 472.609,
+      "person": "User",
+      "text": "Maghrib?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 472.629,
+      "end": 474.57,
+      "person": "User",
+      "text": "Maghrib is just like the Iftar time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 475.19,
+      "end": 480.0,
+      "person": "A",
+      "text": "Do you need to like, do you need grammar?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 480.0,
+      "end": 480.633,
+      "person": "User",
+      "text": "Do you need to like, do you need to pray?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 480.673,
+      "end": 481.574,
+      "person": "B",
+      "text": "No, I can pray later.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 481.574,
+      "end": 524.0,
+      "person": null,
+      "text": "[Sizzling sound from the stove]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 524.0,
+      "end": 553.0,
+      "person": null,
+      "text": "[Cabinet door opens and closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 553.0,
+      "end": 571.0,
+      "person": null,
+      "text": "[Sound of metal spoon against the pot]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 571.0,
+      "end": 590.0,
+      "person": null,
+      "text": "[Footsteps on wood floor]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 590.0,
+      "end": 590.05,
+      "person": "User",
+      "text": "Will you fry all of them?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 590.05,
+      "end": 591.083,
+      "person": "B",
+      "text": "Yeah, I think so.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 591.123,
+      "end": 591.243,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 591.264,
+      "end": 591.364,
+      "person": "B",
+      "text": "Why?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 592.865,
+      "end": 593.666,
+      "person": "User",
+      "text": "Oh, no. I'm just asking.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 593.686,
+      "end": 598.45,
+      "person": "B",
+      "text": "Have a bite.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 620.0,
+      "end": 623.5,
+      "person": "User",
+      "text": "Yeah, sure.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 623.5,
+      "end": 627.0,
+      "person": "User",
+      "text": "It's hot.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 627.0,
+      "end": 630.5,
+      "person": "B",
+      "text": "Yeah, I think it's good.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 630.5,
+      "end": 634.0,
+      "person": null,
+      "text": "[Sizzling sound from the pan]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 634.0,
+      "end": 665.0,
+      "person": null,
+      "text": "[Chewing sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 665.0,
+      "end": 675.0,
+      "person": null,
+      "text": "[Chewing sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 675.0,
+      "end": 710.0,
+      "person": null,
+      "text": "[Sizzling sound]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 720.0,
+      "end": 749.0,
+      "person": null,
+      "text": "[Chewing sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 749.0,
+      "end": 778.0,
+      "person": null,
+      "text": "[Sizzling sounds from the stove]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 778.492,
+      "end": 786.979,
+      "person": "User",
+      "text": "no not this time no it's it takes too much time to prepare",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 790.648,
+      "end": 813.367,
+      "person": "User",
+      "text": "So I often eat something lightweight like mac and cheese or something which takes only 4-5 minutes in microwave.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 813.367,
+      "end": 815.0,
+      "person": null,
+      "text": "[Water running in the sink]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 815.489,
+      "end": 815.729,
+      "person": "User",
+      "text": "Where?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 817.151,
+      "end": 817.511,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 819.265,
+      "end": 823.146,
+      "person": "User",
+      "text": "I haven't heard about something like that in Ohio.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 825.027,
+      "end": 828.928,
+      "person": "User",
+      "text": "But we have like iftar program in campus.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 830.809,
+      "end": 833.53,
+      "person": "User",
+      "text": "It's every Monday through Friday.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 840.0,
+      "end": 884.5,
+      "person": null,
+      "text": "[Chewing sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 884.5,
+      "end": 929.0,
+      "person": null,
+      "text": "[Sizzling sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 929.0,
+      "end": 946.237,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 946.237,
+      "end": 948.546,
+      "person": "B",
+      "text": "Later, not now I'll drink some water",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 960.0,
+      "end": 971.0,
+      "person": null,
+      "text": "[Swallowing sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 971.0,
+      "end": 982.0,
+      "person": null,
+      "text": "[Mug clinks on counter]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 982.0,
+      "end": 1004.0,
+      "person": null,
+      "text": "[Footsteps on wood floor]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1004.0,
+      "end": 1014.5,
+      "person": null,
+      "text": "[Zipping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1014.5,
+      "end": 1025.0,
+      "person": null,
+      "text": "[Cases rustling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1025.0,
+      "end": 1025.05,
+      "person": "User",
+      "text": "How much time did it pass?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1025.05,
+      "end": 1025.1,
+      "person": "B",
+      "text": "17 minute.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1025.1,
+      "end": 1043.158,
+      "person": "User",
+      "text": "17-minute so what's the next plan okay you can finish the game it will take around 20 minutes maybe",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1043.158,
+      "end": 1052.369,
+      "person": "B",
+      "text": "I'm gonna finish the game. But I'm not so sure now.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1052.369,
+      "end": 1061.579,
+      "person": "User",
+      "text": "Hmm?",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1061.579,
+      "end": 1070.79,
+      "person": "B",
+      "text": "I'm not so sure now.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1070.79,
+      "end": 1080.0,
+      "person": "User",
+      "text": "Okay. Yeah.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1080.0,
+      "end": 1107.0,
+      "person": null,
+      "text": "[Sizzling sounds from frying]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1107.327,
+      "end": 1110.009,
+      "person": "User",
+      "text": "Do you usually cook every day for iftar?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1110.029,
+      "end": 1113.472,
+      "person": "B",
+      "text": "No, once a week I just...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1114.793,
+      "end": 1118.356,
+      "person": "B",
+      "text": "So if I didn't make this today, then I'll take the baked chicken that I...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1118.956,
+      "end": 1119.236,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1120.097,
+      "end": 1125.781,
+      "person": "B",
+      "text": "And I eat that up and I'll eat it with like a rooty.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1126.322,
+      "end": 1126.602,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1128.143,
+      "end": 1128.704,
+      "person": "User",
+      "text": "And what about sehri?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1128.724,
+      "end": 1134.168,
+      "person": "User",
+      "text": "I usually eat some fruits and that's it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1134.188,
+      "end": 1134.328,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1134.328,
+      "end": 1142.067,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1142.067,
+      "end": 1145.089,
+      "person": "User",
+      "text": "I usually eat my iftar outside in the campus area.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1146.89,
+      "end": 1158.836,
+      "person": "User",
+      "text": "As I mentioned that the iftar program or if I stay home then I cook something light and then I eat.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1158.856,
+      "end": 1161.398,
+      "person": "User",
+      "text": "I think you can go tomorrow.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1161.418,
+      "end": 1161.518,
+      "person": "B",
+      "text": "Sure.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1161.558,
+      "end": 1167.0,
+      "person": "B",
+      "text": "When you come in the new classes, you can get iftar there.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1167.0,
+      "end": 1167.0,
+      "person": "User",
+      "text": "Yeah, okay.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1167.0,
+      "end": 1167.591,
+      "person": "User",
+      "text": "You know what, I think we can end the session today here and we can collect some more data tomorrow.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1167.591,
+      "end": 1167.721,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1200.0,
+      "end": 1222.667,
+      "person": "User",
+      "text": "They have those iftar programs at the mosque on campus.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1222.667,
+      "end": 1245.333,
+      "person": "B",
+      "text": "Oh, that's good. Do you go often?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1245.333,
+      "end": 1268.0,
+      "person": "User",
+      "text": "Sometimes, when I don't feel like cooking something complicated like this.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1268.0,
+      "end": 1281.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1281.0,
+      "end": 1302.0,
+      "person": null,
+      "text": "[Gulping sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1302.0,
+      "end": 1308.0,
+      "person": "User",
+      "text": "So let's stop here for today.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1308.0,
+      "end": 1314.0,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1314.0,
+      "end": 1320.0,
+      "person": "User",
+      "text": "We'll continue tomorrow.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1367.725,
+      "end": 1371.326,
+      "person": "User",
+      "text": "Have you rolled double three times in a row in today's game?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1373.727,
+      "end": 1379.209,
+      "person": "User",
+      "text": "Yeah, so the rule states that if you roll doubles three times in a row, you must immediately go to jail.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1380.129,
+      "end": 1381.71,
+      "person": "User",
+      "text": "Do not complete your third turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1389.833,
+      "end": 1390.093,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1518.43,
+      "end": 1519.81,
+      "person": "User",
+      "text": "Yeah, I also found another rule.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1520.07,
+      "end": 1525.832,
+      "person": "User",
+      "text": "Like when you are in jail, there is another option to get out of the jail easily.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1525.932,
+      "end": 1529.793,
+      "person": "User",
+      "text": "And that is you have to pay $50 and you can get out of jail.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1529.813,
+      "end": 1545.0,
+      "person": "User",
+      "text": "26 minutes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1561.8,
+      "end": 1572.01,
+      "person": "User",
+      "text": "I'm not sure which it's my turn or yours so okay so three",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1612.822,
+      "end": 1614.523,
+      "person": "User",
+      "text": "No, I don't have this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1617.406,
+      "end": 1617.866,
+      "person": "User",
+      "text": "Will you buy?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1618.627,
+      "end": 1618.767,
+      "person": "User",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1629.498,
+      "end": 1630.389,
+      "person": "User",
+      "text": "I'll bite once again.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1660.599,
+      "end": 1660.825,
+      "person": "A",
+      "text": "for you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1696.178,
+      "end": 1696.479,
+      "person": "User",
+      "text": "Where?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1696.859,
+      "end": 1697.7,
+      "person": "A",
+      "text": "You go ahead.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1738.838,
+      "end": 1740.861,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1768.405,
+      "end": 1769.186,
+      "person": "A",
+      "text": "How much is Rhode Island?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1770.028,
+      "end": 1771.009,
+      "person": "A",
+      "text": "I'll buy it for you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1771.029,
+      "end": 1771.309,
+      "person": "User",
+      "text": "Okay, 100.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1779.342,
+      "end": 1781.064,
+      "person": "User",
+      "text": "Is it already mortgage?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1781.885,
+      "end": 1782.767,
+      "person": "User",
+      "text": "No, it's not mine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1783.348,
+      "end": 1783.588,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1798.687,
+      "end": 1800.0,
+      "person": "User",
+      "text": "collect 150 no 5, 1, 2, 3 so I will collect 200",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1800.0,
+      "end": 1826.836,
+      "person": "User",
+      "text": "collect 150 no 5, 1, 2, 3 so I will collect 200",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1835.578,
+      "end": 1836.139,
+      "person": "User",
+      "text": "That's yours.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1845.733,
+      "end": 1848.577,
+      "person": "User",
+      "text": "Oh, no, I have it for.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1848.597,
+      "end": 1850.44,
+      "person": "User",
+      "text": "So, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1865.547,
+      "end": 1885.651,
+      "person": "User",
+      "text": "I already have this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1887.311,
+      "end": 1888.351,
+      "person": "User",
+      "text": "Now we need to collect.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1888.351,
+      "end": 1908.0,
+      "person": null,
+      "text": "[User sneezes]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1909.774,
+      "end": 1910.734,
+      "person": "User",
+      "text": "Should we pause the video?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1910.734,
+      "end": 1940.0,
+      "person": null,
+      "text": "[Sound of running water]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,1460 @@
+[
+  {
+    "start": 23.441999999999098,
+    "end": 24.602999999999156,
+    "text": "So, we will first...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 61.75799999999981,
+    "end": 62.87199999999939,
+    "text": "Takk for i dag.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 141.98199999999997,
+    "end": 142.8760000000002,
+    "text": "We played men and played together.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 175.7440000000006,
+    "end": 186.01699999999983,
+    "text": "So you basically use the money to buy the streets.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 186.45800000000054,
+    "end": 189.82200000000012,
+    "text": "And when someone lands on that, they pay rent to you.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 241.72500000000036,
+    "end": 255.37099999999919,
+    "text": "So you roll the dice when you move here.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 255.39099999999962,
+    "end": 260.01300000000083,
+    "text": "So we will have two dice here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 260.21299999999974,
+    "end": 262.9339999999993,
+    "text": "And each turn you will roll the dice.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 263.03399999999965,
+    "end": 265.7559999999994,
+    "text": "And you will count the sum of the two dice.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 265.83599999999933,
+    "end": 267.4359999999997,
+    "text": "Like six plus two, eight.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 267.47600000000057,
+    "end": 271.2579999999998,
+    "text": "So you will move eight steps ahead.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 274.8889999999992,
+    "end": 277.1900000000005,
+    "text": "So we will start from here, the go.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 277.22999999999956,
+    "end": 280.6309999999994,
+    "text": "And each of you will receive one character.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 280.6710000000003,
+    "end": 288.4339999999993,
+    "text": "So you can choose which character you want to pick.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 288.47400000000016,
+    "end": 290.97500000000036,
+    "text": "And these reds are the hotel.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 290.9950000000008,
+    "end": 294.53600000000006,
+    "text": "So you have to build hotels throughout the board.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 294.5759999999991,
+    "end": 298.1769999999997,
+    "text": "And the green one are the houses.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 305.47299999999996,
+    "end": 318.76800000000003,
+    "text": "And so if you have some house in a particular area, and if anyone step in your home, then he will have to pay rent to you.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 318.8089999999993,
+    "end": 320.1299999999992,
+    "text": "And how much rent?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 320.22999999999956,
+    "end": 321.8119999999999,
+    "text": "It's written in here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 321.8719999999994,
+    "end": 324.53499999999985,
+    "text": "If you own this apartment,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 331.6859999999997,
+    "end": 333.5529999999999,
+    "text": "Ok, so this is the basic rule",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 355.76800000000003,
+    "end": 362.1319999999996,
+    "text": "So if you somehow go to this, then you have to stay in jail.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 362.1720000000005,
+    "end": 364.6129999999994,
+    "text": "So there are three rules.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 384.1129999999994,
+    "end": 384.97899999999936,
+    "text": "Start the flow.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 384.9989999999998,
+    "end": 387.1919999999991,
+    "text": "First I will distribute the money.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 450.27599999999984,
+    "end": 452.1370000000006,
+    "text": "So one of five.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 452.15699999999924,
+    "end": 453.9989999999998,
+    "text": "So you will receive five one dollar each.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 454.01900000000023,
+    "end": 454.7389999999996,
+    "text": "Five of five.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 454.759,
+    "end": 455.2600000000002,
+    "text": "Five of five.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 607.3400000000001,
+    "end": 607.8259999999991,
+    "text": "Thank you.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 699.5480000000007,
+    "end": 700.7800000000007,
+    "text": "You can pick one character.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 736.7199999999993,
+    "end": 738.7209999999995,
+    "text": "So you can start first.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 738.7610000000004,
+    "end": 746.1270000000004,
+    "text": "So in context you need to pay 100 to the bank.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 746.3870000000006,
+    "end": 746.9670000000006,
+    "text": "What's my turn?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 766.3649999999998,
+    "end": 767.8269999999993,
+    "text": "So, I will buy this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 767.8670000000002,
+    "end": 768.1669999999995,
+    "text": "So, let's see.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 768.1869999999999,
+    "end": 768.4480000000003,
+    "text": "Railroad.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 768.4680000000008,
+    "end": 770.2299999999996,
+    "text": "No, it's the reading railroad.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 770.25,
+    "end": 770.6100000000006,
+    "text": "Not this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 794.8649999999998,
+    "end": 798.7880000000005,
+    "text": "So, he will roll again because the same... 10 is visiting 10, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 798.8279999999995,
+    "end": 799.268,
+    "text": "Okay, so, yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 799.2880000000005,
+    "end": 799.5280000000002,
+    "text": "This one?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 799.5679999999993,
+    "end": 799.6280000000006,
+    "text": "11.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 799.6479999999992,
+    "end": 799.7090000000007,
+    "text": "11.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 799.7289999999994,
+    "end": 801.4899999999998,
+    "text": "I'm gonna buy this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 801.5300000000007,
+    "end": 801.9300000000003,
+    "text": "Give me 300.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 802.2900000000009,
+    "end": 802.4099999999999,
+    "text": "Okay.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 844.3220000000001,
+    "end": 856.0920000000006,
+    "text": "So you have to pick a chance card and see what's in there.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 862.3369999999995,
+    "end": 864.1790000000001,
+    "text": "Go back three spaces.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 864.5789999999997,
+    "end": 865.9200000000001,
+    "text": "Go back?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 865.9799999999996,
+    "end": 868.0020000000004,
+    "text": "You have to pay $200.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 876.6270000000004,
+    "end": 877.9480000000003,
+    "text": "What about this card?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 877.9680000000008,
+    "end": 878.3680000000004,
+    "text": "Four.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 878.7479999999996,
+    "end": 887.0730000000003,
+    "text": "One, two, three, four.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 887.1530000000002,
+    "end": 893.3760000000002,
+    "text": "Yeah, so you can decide if you want to buy this or not.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 893.3960000000006,
+    "end": 894.2970000000005,
+    "text": "Okay, I'll buy this one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 895.2170000000006,
+    "end": 896.0380000000005,
+    "text": "Maybe 250.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 896.0779999999995,
+    "end": 896.3379999999997,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 902.9650000000001,
+    "end": 908.7510000000002,
+    "text": "7 1, 2, 3, 4, 5, 6, 7",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 939.6540000000005,
+    "end": 939.7340000000004,
+    "text": "Yes.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1012.0969999999998,
+    "end": 1018.4410000000007,
+    "text": "One, two, three, four, five, six, seven, eight.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1018.5210000000006,
+    "end": 1019.4220000000005,
+    "text": "Electric company.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1019.482,
+    "end": 1020.3220000000001,
+    "text": "Okay, so you can buy it also.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1020.3420000000006,
+    "end": 1021.0229999999992,
+    "text": "Do you want to buy it?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1021.0830000000005,
+    "end": 1022.384,
+    "text": "Okay, so it's 150.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1022.4639999999999,
+    "end": 1022.6239999999998,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1024.045,
+    "end": 1024.9449999999997,
+    "text": "So electric company, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1044.0769999999993,
+    "end": 1049.0409999999993,
+    "text": "No, it's your money.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1049.1409999999996,
+    "end": 1051.482,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1051.5020000000004,
+    "end": 1051.6419999999998,
+    "text": "Seven.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1051.683000000001,
+    "end": 1052.063,
+    "text": "It's my money.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1052.0830000000005,
+    "end": 1060.2690000000002,
+    "text": "It's one chance, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1060.2890000000007,
+    "end": 1062.4709999999995,
+    "text": "Okay, bank pays you a dividend of 50.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1062.491,
+    "end": 1064.3520000000008,
+    "text": "Oh, so you get 50.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1085.1859999999997,
+    "end": 1085.9860000000008,
+    "text": "Get out of jail for free.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1086.0059999999994,
+    "end": 1087.1859999999997,
+    "text": "So I can hold this card.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1087.2459999999992,
+    "end": 1087.8860000000004,
+    "text": "I can use it later.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1087.946,
+    "end": 1091.5869999999995,
+    "text": "And I will roll again because I have the same number.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1091.687,
+    "end": 1091.9269999999997,
+    "text": "Eleven.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1091.9470000000001,
+    "end": 1092.2469999999994,
+    "text": "Eleven.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1092.2669999999998,
+    "end": 1095.7080000000005,
+    "text": "Okay, so I will buy this one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1100.4490000000005,
+    "end": 1101.5100000000002,
+    "text": "So it's 150.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1101.5300000000007,
+    "end": 1102.2099999999991,
+    "text": "So I will get 350.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1117.450999999999,
+    "end": 1117.5910000000003,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1150.7690000000002,
+    "end": 1151.9699999999993,
+    "text": "You're turning in.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1151.9899999999998,
+    "end": 1152.4500000000007,
+    "text": "He's stuck in jail.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1152.4699999999993,
+    "end": 1152.6910000000007,
+    "text": "Eleven.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1158.7360000000008,
+    "end": 1159.0159999999996,
+    "text": "Which one?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1159.036,
+    "end": 1159.4159999999993,
+    "text": "Pink.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1159.6370000000006,
+    "end": 1160.2369999999992,
+    "text": "Eleven.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1160.357,
+    "end": 1166.402,
+    "text": "Do you want to buy it or steal it?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1166.4220000000005,
+    "end": 1167.7440000000006,
+    "text": "You'll get two eight.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1167.7639999999992,
+    "end": 1169.1049999999996,
+    "text": "You'll get two hundred, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1169.125,
+    "end": 1169.3050000000003,
+    "text": "Yeah.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1213.6029999999992,
+    "end": 1223.295,
+    "text": "I will be buying that.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1223.3150000000005,
+    "end": 1224.4959999999992,
+    "text": "I will be buying that.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1241.558000000001,
+    "end": 1255.7710000000006,
+    "text": "I'm saving money.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1255.8310000000001,
+    "end": 1257.4719999999998,
+    "text": "I'm saving money.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1257.6329999999998,
+    "end": 1258.5529999999999,
+    "text": "I'm saving money.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1277.9249999999993,
+    "end": 1278.5660000000007,
+    "text": "How much is 350?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1278.5859999999993,
+    "end": 1278.7459999999992,
+    "text": "320.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1319.357,
+    "end": 1322.2579999999998,
+    "text": "One, two, three, four, five, six, seven, eight.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1322.5779999999995,
+    "end": 1323.9979999999996,
+    "text": "Okay, I'll buy the railroad.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1326.0779999999995,
+    "end": 1327.5789999999997,
+    "text": "Two hundred.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1330.179,
+    "end": 1332.1800000000003,
+    "text": "Okay.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1333.2399999999998,
+    "end": 1333.5599999999995,
+    "text": "Seven.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1333.6000000000004,
+    "end": 1339.8809999999994,
+    "text": "Do I have to build a house first?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1341.2420000000002,
+    "end": 1341.8220000000001,
+    "text": "No.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1341.8420000000006,
+    "end": 1341.9619999999995,
+    "text": "No.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1341.982,
+    "end": 1344.941999999999,
+    "text": "Seven, okay, so I have to pay income tax.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1344.9619999999995,
+    "end": 1347.4429999999993,
+    "text": "Also, as I pass the goal, so... Yep.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1347.4830000000002,
+    "end": 1348.223,
+    "text": "I will do nothing.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1364.2309999999998,
+    "end": 1364.5920000000006,
+    "text": "No one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1405.063,
+    "end": 1413.6290000000008,
+    "text": "You have to pay me 25.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1414.2700000000004,
+    "end": 1417.1720000000005,
+    "text": "And you'll get $200.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1418.7929999999997,
+    "end": 1419.1939999999995,
+    "text": "How much?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1419.2739999999994,
+    "end": 1420.0939999999991,
+    "text": "25 rent.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1420.1139999999996,
+    "end": 1420.174000000001,
+    "text": "25?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1420.214,
+    "end": 1420.3549999999996,
+    "text": "Yes.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1439.691999999999,
+    "end": 1440.6929999999993,
+    "text": "Eight.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1440.7330000000002,
+    "end": 1442.8140000000003,
+    "text": "One, two, three, four, five, six, seven, eight.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1442.8539999999994,
+    "end": 1445.7150000000001,
+    "text": "I guess I'll buy this one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1445.7350000000006,
+    "end": 1446.1949999999997,
+    "text": "Baltic Avenue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1446.2150000000001,
+    "end": 1446.536,
+    "text": "Baltic Avenue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1446.5560000000005,
+    "end": 1448.777,
+    "text": "And I'll get 200 from the bank by passing this.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1448.7970000000005,
+    "end": 1448.9570000000003,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1476.8310000000001,
+    "end": 1477.4920000000002,
+    "text": "Is this our fourth record?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1512.5849999999991,
+    "end": 1513.5069999999996,
+    "text": "I think.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1546.6329999999998,
+    "end": 1547.714,
+    "text": "5, 6, and charge plus.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1547.7939999999999,
+    "end": 1548.3549999999996,
+    "text": "This is mine.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1548.8150000000005,
+    "end": 1559.4830000000002,
+    "text": "So you have to pay me $10.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1559.5030000000006,
+    "end": 1559.5429999999997,
+    "text": "4.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1559.563,
+    "end": 1561.1039999999994,
+    "text": "1, 2, 3, 4.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1561.1640000000007,
+    "end": 1567.009,
+    "text": "Chance.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1567.0290000000005,
+    "end": 1567.8889999999992,
+    "text": "Collect $150.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1567.9490000000005,
+    "end": 1570.1309999999994,
+    "text": "Your billing loan matches yours.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1570.812,
+    "end": 1570.9519999999993,
+    "text": "$150.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1571.0319999999992,
+    "end": 1571.1119999999992,
+    "text": "Yep.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1586.1730000000007,
+    "end": 1586.3330000000005,
+    "text": "12.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1653.2900000000009,
+    "end": 1653.5699999999997,
+    "text": "Oh, sorry.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1653.5900000000001,
+    "end": 1655.8310000000001,
+    "text": "You want to buy it?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1655.8909999999996,
+    "end": 1656.0110000000004,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1656.0509999999995,
+    "end": 1656.3310000000001,
+    "text": "How much?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1656.3510000000006,
+    "end": 1656.450999999999,
+    "text": "180.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1656.4709999999995,
+    "end": 1657.0920000000006,
+    "text": "You'll get 20, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1686.1679999999997,
+    "end": 1701.8729999999996,
+    "text": "It's your birthday, collect $10 from each player.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1722.1479999999992,
+    "end": 1722.5679999999993,
+    "text": "You have the Indiana.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1820.7559999999994,
+    "end": 1820.8760000000002,
+    "text": "7.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1820.9159999999993,
+    "end": 1821.0159999999996,
+    "text": "6.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1821.0560000000005,
+    "end": 1821.1360000000004,
+    "text": "Yep.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1821.1560000000009,
+    "end": 1822.777,
+    "text": "How much?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1822.9770000000008,
+    "end": 1823.0370000000003,
+    "text": "18.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1880.0699999999997,
+    "end": 1881.3310000000001,
+    "text": "Ok, I will buy this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1881.3709999999992,
+    "end": 1881.7510000000002,
+    "text": "How much is it?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1881.7710000000006,
+    "end": 1881.8510000000006,
+    "text": "300.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1881.8709999999992,
+    "end": 1882.152,
+    "text": "Ok. That's ok.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1906.8880000000008,
+    "end": 1909.1100000000006,
+    "text": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1909.1299999999992,
+    "end": 1909.2099999999991,
+    "text": "10.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1953.3220000000001,
+    "end": 1955.6640000000007,
+    "text": "Takk for at du s\u00e5 p\u00e5.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1980.2720000000008,
+    "end": 1983.0939999999991,
+    "text": "Ok, so for each house pay 25, for each hotel pay 100.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1983.1139999999996,
+    "end": 1991.1599999999999,
+    "text": "But I don't have any house or hotel, so...",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2013.4390000000003,
+    "end": 2014.0190000000002,
+    "text": "So collect 200.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2014.0390000000007,
+    "end": 2014.4989999999998,
+    "text": "Now it's my turn again.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2014.5190000000002,
+    "end": 2014.8799999999992,
+    "text": "Oh, I'm sorry.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2014.8999999999996,
+    "end": 2014.9599999999991,
+    "text": "6x.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2014.9799999999996,
+    "end": 2015.4799999999996,
+    "text": "Okay, we'll buy this one.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2015.5,
+    "end": 2015.6800000000003,
+    "text": "It's 400.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2015.7000000000007,
+    "end": 2016.3600000000006,
+    "text": "Oh, we already have park place.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2016.3799999999992,
+    "end": 2016.4599999999991,
+    "text": "Yes.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2056.365,
+    "end": 2056.8050000000003,
+    "text": "... ... ... ...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2085.9940000000006,
+    "end": 2086.615,
+    "text": "Takk for ating med.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2141.2299999999996,
+    "end": 2141.290000000001,
+    "text": "7.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2141.3099999999995,
+    "end": 2144.7520000000004,
+    "text": "1, 2, 3, 4, 5, 6, 7.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2144.8520000000008,
+    "end": 2149.7749999999996,
+    "text": "Ok, I already have this.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2150.215,
+    "end": 2154.517,
+    "text": "So to build a house I need to have the same colors?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2154.5370000000003,
+    "end": 2155.558000000001,
+    "text": "Same colors, yes.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2155.5779999999995,
+    "end": 2155.6579999999994,
+    "text": "Ok.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2163.6100000000006,
+    "end": 2164.4519999999993,
+    "text": "can you give me 200 as well",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2191.929,
+    "end": 2192.5689999999995,
+    "text": "1, 2, 3, 4, 5, 6, 7.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2192.6090000000004,
+    "end": 2192.790000000001,
+    "text": "Indiana.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2192.8099999999995,
+    "end": 2193.129999999999,
+    "text": "Your turn.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2224.8770000000004,
+    "end": 2230.1000000000004,
+    "text": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2230.120000000001,
+    "end": 2235.2819999999992,
+    "text": "Anyone bought this one?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2235.361999999999,
+    "end": 2237.1229999999996,
+    "text": "I'll buy that one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2237.143,
+    "end": 2240.0640000000003,
+    "text": "150, I mean 140, so here's, can you give me $10 back?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2265.071,
+    "end": 2265.450999999999,
+    "text": "How much?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2265.4709999999995,
+    "end": 2266.191999999999,
+    "text": "18?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2266.2119999999995,
+    "end": 2266.5920000000006,
+    "text": "A bit A bit",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2309.941999999999,
+    "end": 2311.4230000000007,
+    "text": "I can build house at any time, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2313.5030000000006,
+    "end": 2322.3070000000007,
+    "text": "Yeah, once you have all the... Yeah, so I have two of... You can build house when it's your turn.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2322.3269999999993,
+    "end": 2325.4480000000003,
+    "text": "No, like I was asking if I can build house at any time of the game.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2325.508,
+    "end": 2329.4699999999993,
+    "text": "When it's your turn.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2333.151,
+    "end": 2334.0319999999992,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2334.0519999999997,
+    "end": 2337.433000000001,
+    "text": "But it says you don't have to wait for your turn to build.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2342.7379999999994,
+    "end": 2346.6839999999993,
+    "text": "I think I can build a house, so I will build a house for...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2347.1440000000002,
+    "end": 2347.7250000000004,
+    "text": "This one?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2347.745000000001,
+    "end": 2348.1460000000006,
+    "text": "I will...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2409.7430000000004,
+    "end": 2410.263000000001,
+    "text": "So 8 times 4, 32.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2410.303,
+    "end": 2426.6679999999997,
+    "text": "You have to roll again, I think.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2426.688,
+    "end": 2426.8680000000004,
+    "text": "6.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2427.7880000000005,
+    "end": 2434.59,
+    "text": "There's your own property.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2434.6100000000006,
+    "end": 2434.67,
+    "text": "11.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2445.1749999999993,
+    "end": 2445.4349999999995,
+    "text": "How much?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2445.455,
+    "end": 2446.075999999999,
+    "text": "How much?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2486.1839999999993,
+    "end": 2487.4040000000005,
+    "text": "1, 2, 3, 4, 5, 6, 7.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2487.424000000001,
+    "end": 2488.4249999999993,
+    "text": "Luxury.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2490.4850000000006,
+    "end": 2491.0249999999996,
+    "text": "Your turn.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2491.045,
+    "end": 2493.126,
+    "text": "You get 200 from the bank.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2512.8860000000004,
+    "end": 2516.888999999999,
+    "text": "These are the cheapest.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2543.607,
+    "end": 2543.647000000001,
+    "text": "9.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2543.6669999999995,
+    "end": 2544.4670000000006,
+    "text": "1, 2, 3, 4, 5, 6, 7, 8, 9.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2544.608,
+    "end": 2545.3279999999995,
+    "text": "Okay, that's fine.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2545.348,
+    "end": 2546.5280000000002,
+    "text": "You have this one?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2546.6280000000006,
+    "end": 2546.8690000000006,
+    "text": "Yep.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2546.968999999999,
+    "end": 2547.8089999999993,
+    "text": "You will get 200.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2547.849,
+    "end": 2549.01,
+    "text": "200, yep.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2549.0699999999997,
+    "end": 2550.1499999999996,
+    "text": "So collect 20.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2589.303,
+    "end": 2590.483,
+    "text": "1, 2, 3, 4, 5, 6, 7, 8.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2590.5429999999997,
+    "end": 2591.724,
+    "text": "1, 2, 3, 4, 5, 6, 7.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2618.861999999999,
+    "end": 2619.2019999999993,
+    "text": "Ten dollars.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2619.2219999999998,
+    "end": 2619.441999999999,
+    "text": "Eight.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2619.822,
+    "end": 2620.6630000000005,
+    "text": "It's eight dollars.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2620.683000000001,
+    "end": 2620.9629999999997,
+    "text": "Oh, no, no.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2620.983,
+    "end": 2621.0429999999997,
+    "text": "Ah.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2644.92,
+    "end": 2646.821,
+    "text": "I think I have a color set, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2646.8410000000003,
+    "end": 2651.0030000000006,
+    "text": "So red would be 16.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2651.0229999999992,
+    "end": 2651.2430000000004,
+    "text": "16, not 8.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2651.263000000001,
+    "end": 2652.6229999999996,
+    "text": "I mean, do you need to have all the 3?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2653.2440000000006,
+    "end": 2655.125,
+    "text": "What does the color set need?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2655.1849999999995,
+    "end": 2656.1049999999996,
+    "text": "All 3?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2656.165000000001,
+    "end": 2657.004999999999,
+    "text": "I have one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2657.0249999999996,
+    "end": 2657.0650000000005,
+    "text": "8.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2657.125,
+    "end": 2657.4660000000003,
+    "text": "8.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2657.526,
+    "end": 2659.6659999999993,
+    "text": "Oh, my turn?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2675.9220000000005,
+    "end": 2678.7829999999994,
+    "text": "Indiana.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2678.803,
+    "end": 2679.102999999999,
+    "text": "Indiana.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2765.4030000000002,
+    "end": 2766.803,
+    "text": "Ok, it's your turn again.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2807.8520000000008,
+    "end": 2808.633,
+    "text": "Ok, it is my turn.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2808.6530000000002,
+    "end": 2813.6769999999997,
+    "text": "So, yeah, I want to buy that.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2813.697,
+    "end": 2813.977999999999,
+    "text": "Which one?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2813.9979999999996,
+    "end": 2816.379999999999,
+    "text": "Oh, you are giving it?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2816.3999999999996,
+    "end": 2816.5,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_02"
+  }
+]

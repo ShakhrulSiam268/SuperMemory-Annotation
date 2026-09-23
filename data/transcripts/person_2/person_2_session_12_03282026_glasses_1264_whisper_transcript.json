@@ -1,0 +1,26 @@
+[
+  {
+    "start": 20.738000000001193,
+    "end": 21.218000000000757,
+    "text": "Oh, my.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 100.79699999999866,
+    "end": 101.38200000000143,
+    "text": "Taking the card.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 151.48199999999997,
+    "end": 171.64700000000084,
+    "text": "So let's see what's there.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 171.66700000000128,
+    "end": 173.60800000000017,
+    "text": "Yeah, go ahead.",
+    "speaker": "SPEAKER_06"
+  }
+]

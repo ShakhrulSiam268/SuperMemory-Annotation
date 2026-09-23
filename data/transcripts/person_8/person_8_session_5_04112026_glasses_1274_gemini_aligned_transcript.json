@@ -1,0 +1,1931 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 208,
+    "timing_counts": {
+      "whisper_exact_match": 185,
+      "whisper_partial_match": 3,
+      "interpolated_between_anchors": 1,
+      "inferred_before_first_anchor": 5,
+      "inferred_after_last_anchor": 13,
+      "caption_segment_evenly_distributed": 0,
+      "caption_segment_inferred": 1
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "C": {
+          "SPEAKER_03": 2,
+          "SPEAKER_02": 5,
+          "SPEAKER_01": 127
+        },
+        "B": {
+          "SPEAKER_01": 28,
+          "SPEAKER_03": 5,
+          "SPEAKER_02": 12,
+          "UNKNOWN": 2
+        },
+        "D": {
+          "SPEAKER_02": 1,
+          "SPEAKER_03": 7
+        },
+        "A": {
+          "UNKNOWN": 1
+        },
+        "User": {
+          "SPEAKER_01": 1,
+          "SPEAKER_02": 4
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "C": "SPEAKER_01",
+        "B": "SPEAKER_01",
+        "D": "SPEAKER_03",
+        "A": "UNKNOWN",
+        "User": "SPEAKER_02"
+      },
+      "conflicts": {
+        "SPEAKER_01": [
+          "B",
+          "C"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_5_04112026_glasses_1274"
+  },
+  "transcript": [
+    {
+      "start": 27.54,
+      "end": 31.564,
+      "person": "C",
+      "text": "But he can always go for all-in.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 57.207,
+      "end": 59.568,
+      "person": "B",
+      "text": "for yeah it's my turn",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 104.342,
+      "end": 113.607,
+      "person": "C",
+      "text": "Yeah, let's replace [some of the chips with 500s...]",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 134.311,
+      "end": 140.074,
+      "person": "C",
+      "text": "have 500 maybe they give me one I have five you know",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 183.795,
+      "end": 185.936,
+      "person": "C",
+      "text": "Get rid of all your whites.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 193.2,
+      "end": 194.38,
+      "person": "C",
+      "text": "Do you have any black ones?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 197.001,
+      "end": 198.382,
+      "person": "C",
+      "text": "No more black, so you cannot.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 205.446,
+      "end": 207.231,
+      "person": "B",
+      "text": "I think let's just play.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 207.471,
+      "end": 209.818,
+      "person": "D",
+      "text": "Just play, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 209.838,
+      "end": 212.445,
+      "person": "C",
+      "text": "No, no, no, just give me a second.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 244.044,
+      "end": 264.738,
+      "person": "C",
+      "text": "May Allah bless you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 264.738,
+      "end": 291.0,
+      "person": null,
+      "text": "[Sound of chips clicking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 292.735,
+      "end": 293.236,
+      "person": "B",
+      "text": "Not good.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 293.236,
+      "end": 335.0,
+      "person": null,
+      "text": "[Sound of cards being shuffled and dealt]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 344.55,
+      "end": 350.517,
+      "person": "B",
+      "text": "can you please reveal one my call check",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 350.517,
+      "end": 360.0,
+      "person": null,
+      "text": "[Sound of tapping on the floor]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 377.185,
+      "end": 381.649,
+      "person": "C",
+      "text": "I'm also, but let me help you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 381.689,
+      "end": 384.793,
+      "person": "C",
+      "text": "I'm full.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 390.538,
+      "end": 392.861,
+      "person": "C",
+      "text": "I wanted to like help you by folding.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 402.108,
+      "end": 403.748,
+      "person": "C",
+      "text": "Man, you are so rich.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 434.626,
+      "end": 459.729,
+      "person": "C",
+      "text": "yes easier to move yeah you later if you need i don't think yeah if your black thing is black chips yeah",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 468.901,
+      "end": 471.382,
+      "person": "B",
+      "text": "Thank God.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 506.973,
+      "end": 508.012,
+      "person": "D",
+      "text": "So you're talking about",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 508.012,
+      "end": 518.0,
+      "person": null,
+      "text": "[Laughter]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 518.0,
+      "end": 563.0,
+      "person": null,
+      "text": "[Person C explains the IRB and auditing process]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 563.405,
+      "end": 582.181,
+      "person": "B",
+      "text": "match so check check check 1000",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 594.118,
+      "end": 596.085,
+      "person": "B",
+      "text": "I'm going 1,400",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 611.422,
+      "end": 611.942,
+      "person": "B",
+      "text": "1,400.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 612.143,
+      "end": 616.766,
+      "person": "B",
+      "text": "Okay. Let's play. So, let's make it 1,500. Okay. 1,500. Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 620.249,
+      "end": 621.93,
+      "person": "C",
+      "text": "You are agreeing to all it, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 624.332,
+      "end": 628.015,
+      "person": "B",
+      "text": "Yeah. So, 1,400. Yeah. I have jack. I have two pairs. Jack and five.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 629.356,
+      "end": 630.017,
+      "person": "C",
+      "text": "Okay. You won.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 631.238,
+      "end": 633.219,
+      "person": "B",
+      "text": "Okay. Give me all this and 1,420. Yeah. 1,420. Give me 100. That will be fine. Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 654.053,
+      "end": 655.062,
+      "person": "C",
+      "text": "Hey, I'm Dylan Lowe.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 698.522,
+      "end": 698.824,
+      "person": "B",
+      "text": "Fold.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 740.102,
+      "end": 747.084,
+      "person": "C",
+      "text": "It's getting intense in my head.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 760.667,
+      "end": 761.707,
+      "person": "C",
+      "text": "Of course, man.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 762.088,
+      "end": 762.448,
+      "person": "C",
+      "text": "I know.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 762.928,
+      "end": 763.248,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 768.205,
+      "end": 768.826,
+      "person": "C",
+      "text": "Let's do it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 769.426,
+      "end": 770.327,
+      "person": "C",
+      "text": "Let's win it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 774.77,
+      "end": 777.192,
+      "person": "C",
+      "text": "For the sake of the community.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 778.653,
+      "end": 779.494,
+      "person": "B",
+      "text": "Scientific community.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 779.554,
+      "end": 779.874,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 785.759,
+      "end": 787.54,
+      "person": "C",
+      "text": "I will have a straight flush this time.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 787.981,
+      "end": 791.444,
+      "person": "B",
+      "text": "I will have royal flush.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 791.864,
+      "end": 792.0,
+      "person": "C",
+      "text": "Yeah, I told you guys.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 792.0,
+      "end": 792.0,
+      "person": "C",
+      "text": "You should listen to me.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 792.0,
+      "end": 792.0,
+      "person": "C",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 792.0,
+      "end": 792.0,
+      "person": "C",
+      "text": "I'm winning this round.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 792.0,
+      "end": 807.028,
+      "person": "C",
+      "text": "[Cards sliding on sheet]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 807.028,
+      "end": 807.428,
+      "person": "C",
+      "text": "What?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 808.808,
+      "end": 811.309,
+      "person": "C",
+      "text": "I will be gone in few rounds.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 816.91,
+      "end": 817.43,
+      "person": "C",
+      "text": "Don't think.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 817.79,
+      "end": 819.23,
+      "person": "C",
+      "text": "If you think, you will lose.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 819.25,
+      "end": 822.131,
+      "person": "C",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 822.131,
+      "end": 835.013,
+      "person": "C",
+      "text": "[Chips clinking]",
+      "kind": "sound",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 835.013,
+      "end": 835.253,
+      "person": "C",
+      "text": "Check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 853.726,
+      "end": 855.407,
+      "person": "B",
+      "text": "same thing like 200 okay 300 350 1350",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 869.421,
+      "end": 897.136,
+      "person": "B",
+      "text": "not fifty forty three hundred forty so thousand three hundred okay it's your so i also have nine",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 900.0,
+      "end": 920.31,
+      "person": "B",
+      "text": "you you you are fast 10 i own yes no no no it was no no no no no no no no no no so 300 please 300. no no one thousand i took i got",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 928.638,
+      "end": 929.078,
+      "person": "B",
+      "text": "Oh, no, no, no.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 929.098,
+      "end": 929.359,
+      "person": "B",
+      "text": "Yeah, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 929.379,
+      "end": 929.619,
+      "person": "B",
+      "text": "Sorry.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 929.659,
+      "end": 930.0,
+      "person": "B",
+      "text": "No, I did not.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 931.781,
+      "end": 932.281,
+      "person": "B",
+      "text": "Yeah, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 932.401,
+      "end": 932.902,
+      "person": "B",
+      "text": "You are right.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 933.943,
+      "end": 934.163,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 935.564,
+      "end": 936.405,
+      "person": "B",
+      "text": "Man, I'm rich now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 938.827,
+      "end": 943.131,
+      "person": "B",
+      "text": "So at that round, I gave all my chips to you.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 943.351,
+      "end": 944.332,
+      "person": "B",
+      "text": "Now I regain it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 944.352,
+      "end": 948.575,
+      "person": "B",
+      "text": "Oh, man.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 951.978,
+      "end": 953.86,
+      "person": "B",
+      "text": "I will play most of the rounds.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 961.079,
+      "end": 975.871,
+      "person": "C",
+      "text": "yes true is yes nice my call right for",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 975.871,
+      "end": 990.0,
+      "person": null,
+      "text": "[Sound of cards shuffling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 990.694,
+      "end": 1019.821,
+      "person": "C",
+      "text": "same card wow wow show",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1019.821,
+      "end": 1022.0,
+      "person": null,
+      "text": "[Laughter]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1022.905,
+      "end": 1046.654,
+      "person": "C",
+      "text": "straight with k no you need jack oh straight you have kq is two two two two two kq is oh four okay yeah yeah four four you have four cards not five",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1048.755,
+      "end": 1071.862,
+      "person": "C",
+      "text": "four you need one more let's say you need jack or you can't take three three you can't take he is making straight like this but you can do this you can take only ace or two and and that said you can take only yes",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1079.489,
+      "end": 1079.929,
+      "person": "C",
+      "text": "Oh, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1080.409,
+      "end": 1085.311,
+      "person": "C",
+      "text": "You got it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1087.692,
+      "end": 1091.254,
+      "person": "C",
+      "text": "And they're recharging, recharging day by day.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1092.134,
+      "end": 1093.034,
+      "person": "D",
+      "text": "Yeah, maybe.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1093.074,
+      "end": 1103.278,
+      "person": "B",
+      "text": "I mean, you can only take eight or two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1103.718,
+      "end": 1106.519,
+      "person": "B",
+      "text": "Two, eight, or two.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1107.06,
+      "end": 1107.94,
+      "person": "B",
+      "text": "Or it can be.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1110.145,
+      "end": 1112.527,
+      "person": "C",
+      "text": "H2345.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1122.754,
+      "end": 1124.035,
+      "person": "C",
+      "text": "It will give you some hope.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1124.155,
+      "end": 1125.656,
+      "person": "C",
+      "text": "Eventually you will not get it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1135.58,
+      "end": 1140.042,
+      "person": "C",
+      "text": "That's why it is in lower rank because the probability is higher.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1145.585,
+      "end": 1147.766,
+      "person": "C",
+      "text": "Have the straight, yeah, true.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1152.229,
+      "end": 1153.55,
+      "person": "C",
+      "text": "Yeah, they missed it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1154.53,
+      "end": 1156.171,
+      "person": "D",
+      "text": "When I started playing, I used to miss it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1157.02,
+      "end": 1159.681,
+      "person": "C",
+      "text": "And initially, we had a weird rule.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1159.941,
+      "end": 1163.162,
+      "person": "C",
+      "text": "You guys remember for a straight, you have to replace something.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1164.023,
+      "end": 1165.683,
+      "person": "C",
+      "text": "That was too tricky.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1171.685,
+      "end": 1171.906,
+      "person": "C",
+      "text": "500.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1173.066,
+      "end": 1173.386,
+      "person": "C",
+      "text": "Small?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1174.086,
+      "end": 1174.466,
+      "person": "C",
+      "text": "Small.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1179.388,
+      "end": 1181.329,
+      "person": "C",
+      "text": "I can see when we will play.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1183.265,
+      "end": 1192.252,
+      "person": "C",
+      "text": "yeah match okay thank you oh",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1224.566,
+      "end": 1237.091,
+      "person": "C",
+      "text": "okay ten minutes it's time to",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1246.773,
+      "end": 1248.915,
+      "person": "D",
+      "text": "Straight.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1252.358,
+      "end": 1256.002,
+      "person": "C",
+      "text": "That's why you have to drink some caffeine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1277.907,
+      "end": 1278.467,
+      "person": "C",
+      "text": "Who is playing?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1279.788,
+      "end": 1280.328,
+      "person": "C",
+      "text": "With whom?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1285.491,
+      "end": 1287.712,
+      "person": "C",
+      "text": "Can I know your, like, full name?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1296.156,
+      "end": 1305.18,
+      "person": "C",
+      "text": "Because, like, as far as I know, most of the girls' names start with A. Yeah, that is a fact.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1325.674,
+      "end": 1338.324,
+      "person": "C",
+      "text": "so match you and me be check check check to pair",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1341.504,
+      "end": 1357.378,
+      "person": "C",
+      "text": "pair of two not pair of two wow I own strange with a pair of two how strange life is",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1364.0,
+      "end": 1369.404,
+      "person": null,
+      "text": "[Shuffling sounds]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1369.404,
+      "end": 1369.727,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1406.626,
+      "end": 1407.487,
+      "person": "C",
+      "text": "I will also play.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1414.113,
+      "end": 1414.673,
+      "person": "C",
+      "text": "Not check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1417.416,
+      "end": 1418.417,
+      "person": "C",
+      "text": "I'm here to win.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1424.222,
+      "end": 1424.382,
+      "person": "A",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1425.243,
+      "end": 1426.684,
+      "person": "C",
+      "text": "A.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1429.226,
+      "end": 1430.107,
+      "person": "C",
+      "text": "Your turn, A.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1431.008,
+      "end": 1431.228,
+      "person": "C",
+      "text": "Do it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1439.709,
+      "end": 1440.0,
+      "person": "C",
+      "text": "Let's skip this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1440.0,
+      "end": 1441.891,
+      "person": "C",
+      "text": "Let's skip this one.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1442.251,
+      "end": 1442.972,
+      "person": "C",
+      "text": "Skip, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1445.454,
+      "end": 1445.874,
+      "person": "C",
+      "text": "Your call.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1445.894,
+      "end": 1446.014,
+      "person": "C",
+      "text": "Check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1448.496,
+      "end": 1449.677,
+      "person": "C",
+      "text": "Check your show.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1450.979,
+      "end": 1451.399,
+      "person": "B",
+      "text": "I got it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1452.019,
+      "end": 1454.421,
+      "person": "C",
+      "text": "No, Jack, I got it.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1456.703,
+      "end": 1457.664,
+      "person": "C",
+      "text": "I am rich now.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1458.825,
+      "end": 1459.686,
+      "person": "B",
+      "text": "You're a dealer.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1462.528,
+      "end": 1463.149,
+      "person": "C",
+      "text": "You're a dealer.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1463.149,
+      "end": 1470.0,
+      "person": null,
+      "text": "[Sound of poker chips clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1470.0,
+      "end": 1497.578,
+      "person": null,
+      "text": "[Sound of cards shuffling]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1497.578,
+      "end": 1518.325,
+      "person": "C",
+      "text": "doing a lot of blunders these two guys can you give me one two no no in the board",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1518.325,
+      "end": 1530.0,
+      "person": null,
+      "text": "[Sound of chips being stacked]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1534.589,
+      "end": 1535.189,
+      "person": "C",
+      "text": "I will play.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1543.991,
+      "end": 1544.231,
+      "person": "C",
+      "text": "Call.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1545.471,
+      "end": 1545.791,
+      "person": "C",
+      "text": "Check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1548.811,
+      "end": 1549.291,
+      "person": "C",
+      "text": "Your call.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1551.012,
+      "end": 1551.312,
+      "person": "C",
+      "text": "Check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1551.812,
+      "end": 1555.152,
+      "person": "C",
+      "text": "Your show.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1557.773,
+      "end": 1560.0,
+      "person": "C",
+      "text": "I will play every round.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1560.0,
+      "end": 1562.714,
+      "person": "C",
+      "text": "I will play every round.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1562.894,
+      "end": 1563.994,
+      "person": "C",
+      "text": "You should play every round.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1563.994,
+      "end": 1613.0,
+      "person": null,
+      "text": "[Sound of chips clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1613.857,
+      "end": 1621.283,
+      "person": "B",
+      "text": "Okay, I will play.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1621.363,
+      "end": 1622.084,
+      "person": "C",
+      "text": "You are small.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1622.104,
+      "end": 1624.365,
+      "person": "C",
+      "text": "500, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1628.248,
+      "end": 1634.233,
+      "person": "C",
+      "text": "Matching, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1634.934,
+      "end": 1635.234,
+      "person": "C",
+      "text": "Check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1636.655,
+      "end": 1637.135,
+      "person": "C",
+      "text": "Your call.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1638.076,
+      "end": 1638.877,
+      "person": "C",
+      "text": "He is fooled.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1645.955,
+      "end": 1668.316,
+      "person": "C",
+      "text": "then reveal check sorry 15 okay 15 my show eight",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1671.57,
+      "end": 1677.804,
+      "person": "C",
+      "text": "oh lady okay he has high card yes i could yeah",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1677.804,
+      "end": 1680.0,
+      "person": null,
+      "text": "[Sound of cards being collected]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1701.814,
+      "end": 1702.334,
+      "person": "B",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1714.02,
+      "end": 1714.26,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1743.583,
+      "end": 1767.167,
+      "person": "B",
+      "text": "by your call review my call",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1790.642,
+      "end": 1791.343,
+      "person": "B",
+      "text": "OK, I'm forward.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1814.719,
+      "end": 1815.059,
+      "person": "C",
+      "text": "Flash.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1815.6,
+      "end": 1816.04,
+      "person": "B",
+      "text": "Flash.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1827.325,
+      "end": 1828.866,
+      "person": "C",
+      "text": "You fell into a trap.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1832.567,
+      "end": 1834.828,
+      "person": "B",
+      "text": "How much should I pay?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1834.968,
+      "end": 1836.309,
+      "person": "C",
+      "text": "2000 BDT only.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1840.278,
+      "end": 1849.225,
+      "person": "C",
+      "text": "Man, how come this guy played two pair?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1853.809,
+      "end": 1858.152,
+      "person": "C",
+      "text": "I had good pair, K.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1874.685,
+      "end": 1894.818,
+      "person": "C",
+      "text": "yeah he's smart small useless useless chips",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1914.594,
+      "end": 1920.0,
+      "person": "C",
+      "text": "so we can one more round yeah okay final round we can like all in do the all in stuff",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1920.0,
+      "end": 1920.0,
+      "person": "User",
+      "text": "no no no play it normally",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1920.0,
+      "end": 1920.0,
+      "person": "C",
+      "text": "play it normally let's do it okay your turn my turn yeah",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1920.0,
+      "end": 1944.0,
+      "person": "C",
+      "text": "so we can one more round yeah okay final round we can like all in do the all in stuff no no no play it normally play it normally let's do it okay your turn my turn yeah",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1945.641,
+      "end": 1947.002,
+      "person": "C",
+      "text": "You can go all in if you want.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1952.124,
+      "end": 1953.164,
+      "person": "C",
+      "text": "Okay, you are all in.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1954.145,
+      "end": 1956.245,
+      "person": "C",
+      "text": "So, who matched?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1956.446,
+      "end": 1957.846,
+      "person": "C",
+      "text": "You matched?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1961.408,
+      "end": 1962.268,
+      "person": "C",
+      "text": "Okay, I matched.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1964.369,
+      "end": 1964.989,
+      "person": "C",
+      "text": "You are all in?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1965.829,
+      "end": 1967.83,
+      "person": "C",
+      "text": "So, Michael, check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1971.672,
+      "end": 1971.812,
+      "person": "User",
+      "text": "Check.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1975.337,
+      "end": 1975.758,
+      "person": "D",
+      "text": "Oh, wow.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1976.859,
+      "end": 1977.279,
+      "person": "C",
+      "text": "2,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1977.339,
+      "end": 1979.361,
+      "person": "D",
+      "text": "I actually have more than 2,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1979.441,
+      "end": 1982.824,
+      "person": "C",
+      "text": "Okay, 2,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1982.844,
+      "end": 1983.565,
+      "person": "C",
+      "text": "2,000, okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1986.027,
+      "end": 1988.59,
+      "person": "D",
+      "text": "I actually have more than 2,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1988.61,
+      "end": 1989.771,
+      "person": "C",
+      "text": "Okay, 2,000 more.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1989.791,
+      "end": 1992.513,
+      "person": "C",
+      "text": "I mean, I call it all in.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1993.935,
+      "end": 1995.837,
+      "person": "C",
+      "text": "So you are all in here, 2,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1997.238,
+      "end": 1999.46,
+      "person": "C",
+      "text": "So my show is flash, flash.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2001.416,
+      "end": 2002.877,
+      "person": "C",
+      "text": "You have higher flash, so you won.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2003.558,
+      "end": 2004.719,
+      "person": "C",
+      "text": "And all your money he won.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2004.739,
+      "end": 2007.101,
+      "person": "C",
+      "text": "Yeah, of course.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2007.401,
+      "end": 2009.363,
+      "person": "User",
+      "text": "No, you should also give like $1,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2009.463,
+      "end": 2011.084,
+      "person": "User",
+      "text": "He had $2,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2011.745,
+      "end": 2012.005,
+      "person": "C",
+      "text": "$1,000 more.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2012.065,
+      "end": 2013.486,
+      "person": "C",
+      "text": "No, I gave him $1,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2013.526,
+      "end": 2014.667,
+      "person": "C",
+      "text": "No, no, no.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2015.688,
+      "end": 2016.949,
+      "person": "User",
+      "text": "He had like $2,000 here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2017.67,
+      "end": 2018.59,
+      "person": "C",
+      "text": "Yeah, yeah, that's fine.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2019.371,
+      "end": 2020.212,
+      "person": "C",
+      "text": "He is all in.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2020.912,
+      "end": 2023.034,
+      "person": "C",
+      "text": "At that round, we had raised $2,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2023.054,
+      "end": 2024.555,
+      "person": "C",
+      "text": "No, you gave like $1,000.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2024.595,
+      "end": 2026.217,
+      "person": "C",
+      "text": "No, no, no, no.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2026.237,
+      "end": 2026.477,
+      "person": "C",
+      "text": "Oh, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2050.0,
+      "end": 2050.847,
+      "person": "C",
+      "text": "Winner is I. I is the winner.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2050.847,
+      "end": 2051.695,
+      "person": "C",
+      "text": "So let's not take the winner stuff from him.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2051.695,
+      "end": 2052.476,
+      "person": "C",
+      "text": "We can stop.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2054.124,
+      "end": 2054.465,
+      "person": "C",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2055.749,
+      "end": 2058.539,
+      "person": "C",
+      "text": "Thank you so much.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    }
+  ]
+}

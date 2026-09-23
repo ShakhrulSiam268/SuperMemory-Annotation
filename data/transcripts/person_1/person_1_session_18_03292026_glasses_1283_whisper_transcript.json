@@ -1,0 +1,794 @@
+[
+  {
+    "start": 17.722999999998137,
+    "end": 18.122999999999593,
+    "text": "So, 4b3, b4, 3b4.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 134.44700000000012,
+    "end": 134.7699999999968,
+    "text": "Be fine.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 181.21100000000297,
+    "end": 182.53600000000006,
+    "text": "Undertekster av Ai-Media",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 255.24599999999919,
+    "end": 255.88100000000122,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 325.08000000000175,
+    "end": 325.3600000000006,
+    "text": "C3 C5 C6",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 412.02900000000227,
+    "end": 412.24900000000343,
+    "text": "1, 2, 3, 4",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 439.21399999999994,
+    "end": 439.4959999999992,
+    "text": "C1, C4.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 439.5169999999998,
+    "end": 439.73799999999756,
+    "text": "C3, C5.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 474.91300000000047,
+    "end": 475.3139999999985,
+    "text": "Godspeed.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 475.33400000000256,
+    "end": 475.51400000000285,
+    "text": "Godspeed.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 475.53399999999965,
+    "end": 475.7149999999965,
+    "text": "Godspeed.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 561.6860000000015,
+    "end": 561.9309999999969,
+    "text": "321.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 603.1330000000016,
+    "end": 604.1739999999991,
+    "text": "How long has it been recording?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 604.5939999999973,
+    "end": 604.8340000000026,
+    "text": "One minute.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 604.8539999999994,
+    "end": 605.2949999999983,
+    "text": "One minute before.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 605.3150000000023,
+    "end": 605.6949999999997,
+    "text": "One minute before.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 660.711000000003,
+    "end": 661.0570000000007,
+    "text": "C2, C4.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 726.0729999999967,
+    "end": 728.1429999999964,
+    "text": "Thank you for watching!",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 775.5959999999977,
+    "end": 776.336000000003,
+    "text": "Start with this one.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 818.9820000000036,
+    "end": 820.724000000002,
+    "text": "I think you can fill in the petals for this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 829.7160000000003,
+    "end": 831.9190000000017,
+    "text": "Give me five P3s as well, I can fill up this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 903.6970000000001,
+    "end": 905.1869999999981,
+    "text": "Four more of this P3.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1017.2359999999971,
+    "end": 1018.0899999999965,
+    "text": "This is this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1090.6449999999968,
+    "end": 1091.5670000000027,
+    "text": "Can you give me 7p4?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1239.6140000000014,
+    "end": 1241.114999999998,
+    "text": "Si kaj, si tru, si pali.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1295.3539999999994,
+    "end": 1296.9959999999992,
+    "text": "Oh, C13, you need C13.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1297.0160000000033,
+    "end": 1297.0959999999977,
+    "text": "C13.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1327.5670000000027,
+    "end": 1329.0959999999977,
+    "text": "And this is this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1493.6169999999984,
+    "end": 1496.3790000000008,
+    "text": "What is this?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1496.4190000000017,
+    "end": 1509.326000000001,
+    "text": "Which part is this?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1509.565999999999,
+    "end": 1512.466999999997,
+    "text": "That's... No, no, not B14.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1512.487000000001,
+    "end": 1512.9069999999992,
+    "text": "The green.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1512.9680000000008,
+    "end": 1514.387999999999,
+    "text": "It's from green.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1514.4680000000008,
+    "end": 1514.9689999999973,
+    "text": "It's not B.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1514.9890000000014,
+    "end": 1521.0120000000024,
+    "text": "It's from C. Never mind.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1532.362000000001,
+    "end": 1534.3439999999973,
+    "text": "Okay, it's fine.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1534.3640000000014,
+    "end": 1534.9440000000031,
+    "text": "Okay, awesome.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1534.964,
+    "end": 1535.224000000002,
+    "text": "It's done.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1535.2450000000026,
+    "end": 1535.6050000000032,
+    "text": "Looks kinda nice.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1572.8609999999971,
+    "end": 1577.6630000000005,
+    "text": "How much battery do we have?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1577.6829999999973,
+    "end": 1578.5239999999976,
+    "text": "49?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1578.6039999999994,
+    "end": 1579.8839999999982,
+    "text": "I think enough.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1579.923999999999,
+    "end": 1587.3470000000016,
+    "text": "So let's wrap this up.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1587.4069999999992,
+    "end": 1588.887999999999,
+    "text": "Put everything where they were, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1604.826000000001,
+    "end": 1608.7119999999995,
+    "text": "Were these underneath?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1608.8929999999964,
+    "end": 1618.0869999999995,
+    "text": "Just put them exactly the way they were, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1710.3020000000033,
+    "end": 1714.8240000000005,
+    "text": "Okay, I think we can go on to cook.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1714.864999999998,
+    "end": 1719.4470000000001,
+    "text": "So I think the marination should be done.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1719.466999999997,
+    "end": 1730.3929999999964,
+    "text": "And all we need to do is...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1730.4329999999973,
+    "end": 1732.0539999999964,
+    "text": "So we need to like...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1733.4729999999981,
+    "end": 1740.2149999999965,
+    "text": "Heat 1 1\u20444 cup and 2 tbsp of oil in a large pot over medium heat.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1740.2350000000006,
+    "end": 1742.7560000000012,
+    "text": "And then add sliced onion and saute until light brown.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1742.836000000003,
+    "end": 1746.8380000000034,
+    "text": "I think we can use this one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1746.877999999997,
+    "end": 1756.7609999999986,
+    "text": "And add some oil.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1756.8009999999995,
+    "end": 1758.362000000001,
+    "text": "Saute until light brown.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1801.9689999999973,
+    "end": 1818.0970000000016,
+    "text": "so um how much recording do we have approximately like for 50 50 and then another 50 this time right and when this ends it will be like two hour 30 minutes okay can we go 20 minutes",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1832.0420000000013,
+    "end": 1837.964,
+    "text": "Ok. And then another recording, another two recordings we'll have to do.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1838.423999999999,
+    "end": 1853.5299999999988,
+    "text": "Yeah, so they said a quarter cup of heat quarter cup plus two tablespoons.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1860.714,
+    "end": 1867.5009999999966,
+    "text": "Also we need to add the jeera and stuff.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1867.5409999999974,
+    "end": 1870.0239999999976,
+    "text": "I'll do the jeera so you can saute the onion.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1916.4630000000034,
+    "end": 1940.6600000000035,
+    "text": "Yeah, why did you put it now?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1940.699999999997,
+    "end": 1941.6010000000024,
+    "text": "It needs to heat up first.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1941.6410000000033,
+    "end": 1942.461000000003,
+    "text": "I thought it was set.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1942.5809999999983,
+    "end": 1943.3220000000001,
+    "text": "No.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1943.341999999997,
+    "end": 1943.5820000000022,
+    "text": "No.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1989.7920000000013,
+    "end": 1991.7779999999984,
+    "text": "Did you add nutmeg into the marinade?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1992.661,
+    "end": 1993.8439999999973,
+    "text": "No.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1994.7869999999966,
+    "end": 1995.349000000002,
+    "text": "Okay.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1995.3689999999988,
+    "end": 1995.8099999999977,
+    "text": "That's good.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2040.2070000000022,
+    "end": 2053.5740000000005,
+    "text": "Did you add pepper?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2053.6140000000014,
+    "end": 2059.777000000002,
+    "text": "No, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2059.7969999999987,
+    "end": 2062.0780000000013,
+    "text": "Did you add like salt?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2067.4199999999983,
+    "end": 2067.921000000002,
+    "text": "I can sign out.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2067.961000000003,
+    "end": 2068.8020000000033,
+    "text": "I do not make here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2075.1900000000023,
+    "end": 2081.398000000001,
+    "text": "Bayleaf.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2081.438000000002,
+    "end": 2082.139000000003,
+    "text": "Shahi Jira.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2099.540000000001,
+    "end": 2122.847999999998,
+    "text": "let me know when it's brown so this is for the rice okay yeah but what we can do is we can actually cook both the chicken and the rice together",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2143.0780000000013,
+    "end": 2145.3589999999967,
+    "text": "I think it will take some more time.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2145.3989999999976,
+    "end": 2159.824999999997,
+    "text": "But before adding the rice, we need to put the tomatoes and everything.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2163.1670000000013,
+    "end": 2164.3870000000024,
+    "text": "I think that should be possible.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2164.4069999999992,
+    "end": 2165.908000000003,
+    "text": "I'm not sure if it will overflow.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2165.9479999999967,
+    "end": 2166.387999999999,
+    "text": "Probably not.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2205.9490000000005,
+    "end": 2208.0310000000027,
+    "text": "It doesn't say where to add the chicken.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2208.4709999999977,
+    "end": 2210.1529999999984,
+    "text": "Yes, it doesn't.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2210.292999999998,
+    "end": 2215.3770000000004,
+    "text": "Probably asking you to do the chicken separately.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2215.396999999997,
+    "end": 2216.877999999997,
+    "text": "Better to do it together.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2223.002999999997,
+    "end": 2224.7450000000026,
+    "text": "Let me know when it's brown.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2224.7850000000035,
+    "end": 2225.364999999998,
+    "text": "Is it brown?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2226.1059999999998,
+    "end": 2227.1270000000004,
+    "text": "Almost.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2227.146999999997,
+    "end": 2227.3669999999984,
+    "text": "Not yet.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2227.3870000000024,
+    "end": 2227.707000000002,
+    "text": "Not yet.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2251.222999999998,
+    "end": 2257.8470000000016,
+    "text": "I wonder if we should do the chicken first or the rice first?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2257.8669999999984,
+    "end": 2262.449999999997,
+    "text": "The rice will be cooked very quickly so it's the chicken that needs to be timbered.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2262.470000000001,
+    "end": 2262.5899999999965,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2263.5509999999995,
+    "end": 2263.7909999999974,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2288.053,
+    "end": 2291.6589999999997,
+    "text": "This one's first, I think.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2291.6789999999964,
+    "end": 2297.226999999999,
+    "text": "We're supposed to stir until it's fragrant.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2297.267,
+    "end": 2301.4329999999973,
+    "text": "We'll modify the recipe to the chicken first.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2327.809000000001,
+    "end": 2334.536,
+    "text": "Ok, I think you can bring in the chicken.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2336.7980000000025,
+    "end": 2337.4389999999985,
+    "text": "First tomato.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2337.4590000000026,
+    "end": 2341.3430000000008,
+    "text": "You need to take that off first.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2366.519999999997,
+    "end": 2367.1500000000015,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2395.101999999999,
+    "end": 2399.6100000000006,
+    "text": "No, the recipe said one, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2399.6299999999974,
+    "end": 2403.898000000001,
+    "text": "I just wanted to know, like, I bought four, so how many are left?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2436.548999999999,
+    "end": 2446.296000000002,
+    "text": "It should be a little more tender.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2446.315999999999,
+    "end": 2450.819000000003,
+    "text": "Did we use yogurt?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2450.8589999999967,
+    "end": 2450.9389999999985,
+    "text": "No.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2450.9590000000026,
+    "end": 2455.9630000000034,
+    "text": "Was there no yogurt in the recipe?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2455.983,
+    "end": 2458.7649999999994,
+    "text": "No, in the marination put there was no yogurt.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2458.8050000000003,
+    "end": 2459.4850000000006,
+    "text": "Oh, okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2469.947,
+    "end": 2472.709999999999,
+    "text": "Is there any in the yogurt here?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2472.730000000003,
+    "end": 2475.792999999998,
+    "text": "I don't think any yogurt.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2475.853000000003,
+    "end": 2476.673999999999,
+    "text": "I don't know.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2550.5179999999964,
+    "end": 2556.328999999998,
+    "text": "And I think we need to let it rest for the chicken to cook.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2556.349000000002,
+    "end": 2559.394999999997,
+    "text": "We need to wait.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2559.415000000001,
+    "end": 2559.756000000001,
+    "text": "Right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2587.9879999999976,
+    "end": 2591.989999999998,
+    "text": "Okay, so let's wait a bit more.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2592.0899999999965,
+    "end": 2594.9720000000016,
+    "text": "Let's play another game.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2594.9919999999984,
+    "end": 2596.6330000000016,
+    "text": "Siam.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2596.6529999999984,
+    "end": 2598.8740000000034,
+    "text": "10 GB of space.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2598.8940000000002,
+    "end": 2599.4749999999985,
+    "text": "10 GB, okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2599.4950000000026,
+    "end": 2601.2160000000003,
+    "text": "I think you can complete the recording now.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2601.775999999998,
+    "end": 2605.597999999998,
+    "text": "Stop recording.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2605.618000000002,
+    "end": 2606.9990000000034,
+    "text": "How long is it?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2607.038999999997,
+    "end": 2613.103000000003,
+    "text": "You will take out the monopoly and set it up.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2615.461000000003,
+    "end": 2620.4429999999993,
+    "text": "And just explain the protocol to them, like they have to read the instructions.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2620.5829999999987,
+    "end": 2624.743999999999,
+    "text": "And I'll attend to the chicken until it's cooked.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2624.8240000000005,
+    "end": 2628.7660000000033,
+    "text": "And when you're ready to start the game, I'll come and start playing.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2628.786,
+    "end": 2630.006000000001,
+    "text": "Okay, so you play Monopoly today.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2630.025999999998,
+    "end": 2631.2059999999983,
+    "text": "So I can do this game?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2631.2260000000024,
+    "end": 2631.326000000001,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2631.3459999999977,
+    "end": 2642.1900000000023,
+    "text": "Okay, we'll play, right?",
+    "speaker": "SPEAKER_00"
+  }
+]

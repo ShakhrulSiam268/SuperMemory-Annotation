@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 26,
+    "timing_counts": {
+      "whisper_exact_match": 0,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 0,
+      "inferred_before_first_anchor": 0,
+      "inferred_after_last_anchor": 0,
+      "caption_segment_evenly_distributed": 0,
+      "caption_segment_inferred": 26
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {},
+      "primary_whisper_speaker_by_person": {},
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "caption_metadata": {
+      "video_id": "session_14_03152026_glasses_1266",
+      "video_path": "/local/scratch_2/supermemory_dataset/samiul/loc_0/session_14_03152026_glasses_1266.mp4",
+      "duration": 1157.0,
+      "start_time": 1773616766.0
+    }
+  },
+  "transcript": [
+    {
+      "start": 120.0,
+      "end": 132.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 132.0,
+      "end": 152.0,
+      "person": null,
+      "text": "[Paper towel tearing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 152.0,
+      "end": 191.0,
+      "person": null,
+      "text": "[Paper towel tearing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 191.0,
+      "end": 208.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 208.0,
+      "end": 221.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 221.0,
+      "end": 241.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 360.0,
+      "end": 371.0,
+      "person": null,
+      "text": "[Oil sizzling in pan]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 390.0,
+      "end": 430.0,
+      "person": null,
+      "text": "[Oil sizzling in pan]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 436.0,
+      "end": 458.0,
+      "person": null,
+      "text": "[Oil sizzling in pan]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 458.0,
+      "end": 481.0,
+      "person": null,
+      "text": "[Oil sizzling in pan]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 481.0,
+      "end": 515.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 515.0,
+      "end": 525.0,
+      "person": null,
+      "text": "[Utensils scraping against plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 525.0,
+      "end": 560.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 560.0,
+      "end": 601.0,
+      "person": null,
+      "text": "[Utensils scraping against plate]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 601.0,
+      "end": 652.0,
+      "person": null,
+      "text": "[Sizzling sound]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 652.0,
+      "end": 682.0,
+      "person": null,
+      "text": "[Scraping sound]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 682.0,
+      "end": 693.0,
+      "person": null,
+      "text": "[Sizzling sound]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 693.0,
+      "end": 720.0,
+      "person": null,
+      "text": "[Scraping sound]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 720.0,
+      "end": 799.0,
+      "person": null,
+      "text": "[Sizzling sound of frying oil]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 799.0,
+      "end": 805.5,
+      "person": null,
+      "text": "[Sizzling sound of frying oil]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 805.5,
+      "end": 812.0,
+      "person": null,
+      "text": "[Tearing paper towel]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 812.0,
+      "end": 841.0,
+      "person": null,
+      "text": "[Sizzling sound of frying oil]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 841.0,
+      "end": 854.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 854.0,
+      "end": 884.0,
+      "person": null,
+      "text": "[Water running from faucet]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 884.0,
+      "end": 908.0,
+      "person": null,
+      "text": "[Water dispensing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 935.0,
+      "end": 961.0,
+      "person": null,
+      "text": "[Oil sizzling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    }
+  ]
+}

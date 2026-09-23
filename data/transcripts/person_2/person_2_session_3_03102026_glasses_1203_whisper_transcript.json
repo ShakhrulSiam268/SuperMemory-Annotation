@@ -1,0 +1,632 @@
+[
+  {
+    "start": 11.442000000000007,
+    "end": 11.761999999999716,
+    "text": "Okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 12.542000000000371,
+    "end": 13.103000000000065,
+    "text": "Is it fresh?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 14.523000000000138,
+    "end": 16.003999999999905,
+    "text": "It's gonna be fresh.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 16.024000000000342,
+    "end": 16.66399999999976,
+    "text": "The taste is fresh.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 16.78399999999965,
+    "end": 22.08600000000024,
+    "text": "That's why I store it like that.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 22.14599999999973,
+    "end": 22.40599999999995,
+    "text": "Okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 23.185999999999694,
+    "end": 26.847999999999956,
+    "text": "I'm a single person, I cannot finish it on time.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 26.908000000000357,
+    "end": 27.20799999999963,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 44.210000000000036,
+    "end": 44.41200000000026,
+    "text": "Mm-hmm.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 44.8159999999998,
+    "end": 45.07800000000043,
+    "text": "Okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 101.39599999999973,
+    "end": 115.22800000000007,
+    "text": "Let me check the iftar time.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 115.30799999999999,
+    "end": 117.98999999999978,
+    "text": "It's 7.34, so still 3 minutes left.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 120.75200000000041,
+    "end": 124.3149999999996,
+    "text": "What time is it now?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 124.33500000000004,
+    "end": 127.41799999999967,
+    "text": "7.31, 2 and a half minutes remaining.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 154.64800000000014,
+    "end": 155.02900000000045,
+    "text": "Okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 155.22900000000027,
+    "end": 155.6300000000001,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 226.11499999999978,
+    "end": 227.05599999999959,
+    "text": "Do you need another plate?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 229.77700000000004,
+    "end": 238.96200000000044,
+    "text": "Can you take those towels?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 268.03999999999996,
+    "end": 268.8010000000004,
+    "text": "You need it right now?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 269.7020000000002,
+    "end": 270.10199999999986,
+    "text": "No.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 270.16200000000026,
+    "end": 270.2420000000002,
+    "text": "OK.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 270.7430000000004,
+    "end": 271.2430000000004,
+    "text": "I'll put it here.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 271.3230000000003,
+    "end": 271.9440000000004,
+    "text": "Put the towel here.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 272.04399999999987,
+    "end": 272.2439999999997,
+    "text": "Where?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 273.5450000000001,
+    "end": 273.60499999999956,
+    "text": "OK.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 273.625,
+    "end": 280.5519999999997,
+    "text": "I think it's the time almost.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 281.433,
+    "end": 281.71299999999974,
+    "text": "Yes.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 281.77300000000014,
+    "end": 282.1940000000004,
+    "text": "Check the time.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 291.2619999999997,
+    "end": 291.90300000000025,
+    "text": "Yeah, it's the time.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 379.9449999999997,
+    "end": 383.09299999999985,
+    "text": "I'm not hungry so I can wait it's fine",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 423.08399999999983,
+    "end": 439.46799999999985,
+    "text": "Do you need anything?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 442.52800000000025,
+    "end": 450.85000000000036,
+    "text": "How much time did you...",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 454.4380000000001,
+    "end": 455.6790000000001,
+    "text": "Yeah, I have already done.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 455.9989999999998,
+    "end": 459.34100000000035,
+    "text": "So, this round it's almost 8 minutes.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 460.84199999999964,
+    "end": 462.8630000000003,
+    "text": "8 minutes so far for this round.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 462.8829999999998,
+    "end": 465.8649999999998,
+    "text": "What time is Maghrib?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 468.8869999999997,
+    "end": 469.7470000000003,
+    "text": "Like, you mean Isha?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 472.34900000000016,
+    "end": 472.6090000000004,
+    "text": "Maghrib?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 472.6289999999999,
+    "end": 474.5699999999997,
+    "text": "Maghrib is just like the Iftar time.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 475.1899999999996,
+    "end": 480.6329999999998,
+    "text": "Do you need to like, do you need grammar?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 480.6729999999998,
+    "end": 481.5739999999996,
+    "text": "No, I can pray later.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 588.3410000000003,
+    "end": 589.0619999999999,
+    "text": "Will you fry all of them?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 589.0820000000003,
+    "end": 591.0829999999996,
+    "text": "Yeah, I think so.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 591.1229999999996,
+    "end": 591.2430000000004,
+    "text": "Okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 591.2640000000001,
+    "end": 591.3639999999996,
+    "text": "Why?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 592.8649999999998,
+    "end": 593.1850000000004,
+    "text": "Oh, no.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 593.2049999999999,
+    "end": 593.6660000000002,
+    "text": "I'm just asking.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 593.6859999999997,
+    "end": 598.4499999999998,
+    "text": "Have a bite.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 600.9520000000002,
+    "end": 601.2920000000004,
+    "text": "Yeah, sure.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 604.9549999999999,
+    "end": 605.4960000000001,
+    "text": "It's hot.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 613.4620000000004,
+    "end": 614.0630000000001,
+    "text": "Yeah, I think it's good.",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 778.4920000000002,
+    "end": 786.9790000000003,
+    "text": "no not this time no it's it takes too much time to prepare",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 790.6480000000001,
+    "end": 813.3670000000002,
+    "text": "So I often eat something lightweight like mac and cheese or something which takes only 4-5 minutes in microwave.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 815.4889999999996,
+    "end": 815.7290000000003,
+    "text": "Where?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 817.1509999999998,
+    "end": 817.5110000000004,
+    "text": "Okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 819.2650000000003,
+    "end": 823.1459999999997,
+    "text": "I haven't heard about something like that in Ohio.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 825.027,
+    "end": 828.9279999999999,
+    "text": "But we have like iftar program in campus.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 830.8090000000002,
+    "end": 833.5299999999997,
+    "text": "It's every Monday through Friday.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 946.2370000000001,
+    "end": 948.5460000000003,
+    "text": "Later, not now I'll drink some water",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1016.2250000000004,
+    "end": 1043.1580000000004,
+    "text": "17-minute so what's the next plan okay you can finish the game it will take around 20 minutes maybe",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1107.3270000000002,
+    "end": 1110.009,
+    "text": "Do you usually cook every day for iftar?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1110.0290000000005,
+    "end": 1113.4719999999998,
+    "text": "No, once a week I just...",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1114.7929999999997,
+    "end": 1118.3559999999998,
+    "text": "So if I didn't make this today, then I'll take the baked chicken that I...",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1118.9560000000001,
+    "end": 1119.2359999999999,
+    "text": "Okay.",
+    "speaker": "SPEAKER_04"
+  },
+  {
+    "start": 1120.0969999999998,
+    "end": 1125.781,
+    "text": "And I eat that up and I'll eat it with like a rooty.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1126.3220000000001,
+    "end": 1126.6019999999999,
+    "text": "Okay.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1128.143,
+    "end": 1128.7039999999997,
+    "text": "And what about sehri?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1128.7240000000002,
+    "end": 1134.1679999999997,
+    "text": "I usually eat some fruits and that's it.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1134.188,
+    "end": 1134.3280000000004,
+    "text": "Okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1142.067,
+    "end": 1145.089,
+    "text": "I usually eat my iftar outside in the campus area.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1146.8900000000003,
+    "end": 1158.8360000000002,
+    "text": "As I mentioned that the iftar program or if I stay home then I cook something light and then I eat.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1158.8559999999998,
+    "end": 1161.3980000000001,
+    "text": "I think you can go tomorrow.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1161.4179999999997,
+    "end": 1161.518,
+    "text": "Sure.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1161.558,
+    "end": 1167.2209999999995,
+    "text": "When you come in the new classes, you can get iftar there.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1167.4610000000002,
+    "end": 1167.7209999999995,
+    "text": "Yeah, okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1367.7250000000004,
+    "end": 1371.326,
+    "text": "Have you rolled double three times in a row in today's game?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1373.7269999999999,
+    "end": 1379.2089999999998,
+    "text": "Yeah, so the rule states that if you roll doubles three times in a row, you must immediately go to jail.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1380.129,
+    "end": 1381.71,
+    "text": "Do not complete your third turn.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1389.8329999999996,
+    "end": 1390.0929999999998,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1518.4300000000003,
+    "end": 1519.8100000000004,
+    "text": "Yeah, I also found another rule.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1520.0699999999997,
+    "end": 1525.8320000000003,
+    "text": "Like when you are in jail, there is another option to get out of the jail easily.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1525.9319999999998,
+    "end": 1529.7929999999997,
+    "text": "And that is you have to pay $50 and you can get out of jail.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1529.813,
+    "end": 1545.978,
+    "text": "26 minutes.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1561.8000000000002,
+    "end": 1572.0100000000002,
+    "text": "I'm not sure which it's my turn or yours so okay so three",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1612.8220000000001,
+    "end": 1614.5230000000001,
+    "text": "No, I don't have this one.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1617.406,
+    "end": 1617.866,
+    "text": "Will you buy?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1618.6270000000004,
+    "end": 1618.7669999999998,
+    "text": "No.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1629.4979999999996,
+    "end": 1630.3890000000001,
+    "text": "I'll bite once again.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1660.5990000000002,
+    "end": 1660.8249999999998,
+    "text": "for you.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1696.1779999999999,
+    "end": 1696.4790000000003,
+    "text": "Where?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1696.8590000000004,
+    "end": 1697.6999999999998,
+    "text": "You go ahead.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1738.8379999999997,
+    "end": 1740.8609999999999,
+    "text": "Okay.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1768.4049999999997,
+    "end": 1769.1859999999997,
+    "text": "How much is Rhode Island?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1770.0280000000002,
+    "end": 1771.009,
+    "text": "I'll buy it for you.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1771.0290000000005,
+    "end": 1771.3090000000002,
+    "text": "Okay, 100.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1779.3419999999996,
+    "end": 1781.0640000000003,
+    "text": "Is it already mortgage?",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1781.8850000000002,
+    "end": 1782.7669999999998,
+    "text": "No, it's not mine.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1783.348,
+    "end": 1783.5879999999997,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1798.687,
+    "end": 1826.8360000000002,
+    "text": "collect 150 no 5, 1, 2, 3 so I will collect 200",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1835.5780000000004,
+    "end": 1836.1390000000001,
+    "text": "That's yours.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1845.7330000000002,
+    "end": 1848.5770000000002,
+    "text": "Oh, no, I have it for.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1848.5969999999998,
+    "end": 1850.4399999999996,
+    "text": "So, yeah.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1865.5469999999996,
+    "end": 1885.6509999999998,
+    "text": "I already have this one.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1887.3109999999997,
+    "end": 1888.3509999999997,
+    "text": "Now we need to collect.",
+    "speaker": "SPEAKER_06"
+  },
+  {
+    "start": 1909.7740000000003,
+    "end": 1910.7340000000004,
+    "text": "Should we pause the video?",
+    "speaker": "SPEAKER_06"
+  }
+]

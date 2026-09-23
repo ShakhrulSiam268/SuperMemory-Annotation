@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 36,
+    "timing_counts": {
+      "whisper_exact_match": 16,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 0,
+      "inferred_before_first_anchor": 1,
+      "inferred_after_last_anchor": 7,
+      "caption_segment_evenly_distributed": 8,
+      "caption_segment_inferred": 4
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "B": {
+          "SPEAKER_01": 2,
+          "SPEAKER_02": 1
+        },
+        "User": {
+          "SPEAKER_00": 6,
+          "SPEAKER_01": 3
+        },
+        "A": {
+          "SPEAKER_02": 1,
+          "SPEAKER_01": 1,
+          "SPEAKER_00": 2
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "B": "SPEAKER_01",
+        "User": "SPEAKER_00",
+        "A": "SPEAKER_00"
+      },
+      "conflicts": {
+        "SPEAKER_00": [
+          "A",
+          "User"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_6_03282026_glasses_1274"
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "person": "B",
+      "text": "Just have a look for maybe three to five seconds.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 14.353,
+      "end": 24.0,
+      "person": "B",
+      "text": "while placing the points you should put in such a way the sequence goes on the back because when it when you make a sequence on the",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 24.0,
+      "end": 24.0,
+      "person": null,
+      "text": "[Sound of chips being placed on the board]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 48.025,
+      "end": 71.301,
+      "person": "User",
+      "text": "uh... uh...",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 71.301,
+      "end": 81.0,
+      "person": null,
+      "text": "[Soft rustling of cards]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 92.351,
+      "end": 92.716,
+      "person": "User",
+      "text": "My turn?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 92.716,
+      "end": 120.0,
+      "person": null,
+      "text": "[Sound of a chip clicking onto the board]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 171.242,
+      "end": 172.829,
+      "person": "A",
+      "text": "Your card?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 172.829,
+      "end": 209.0,
+      "person": null,
+      "text": "[Chips clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 210.557,
+      "end": 211.338,
+      "person": "User",
+      "text": "How many cards do you have?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 211.358,
+      "end": 211.458,
+      "person": "User",
+      "text": "Five?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 211.478,
+      "end": 211.698,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 211.718,
+      "end": 231.135,
+      "person": "User",
+      "text": "Did it make her?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 231.135,
+      "end": 240.0,
+      "person": null,
+      "text": "[Chips clinking]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 240.0,
+      "end": 259.0,
+      "person": null,
+      "text": "[Clinking of game chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 259.0,
+      "end": 278.0,
+      "person": null,
+      "text": "[Rustling of playing cards]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 278.0,
+      "end": 314.0,
+      "person": null,
+      "text": "[Laughter from the group]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 314.0,
+      "end": 320.268,
+      "person": null,
+      "text": "[Sound of person standing up]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 320.268,
+      "end": 320.914,
+      "person": "A",
+      "text": "It's too late.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 320.914,
+      "end": 360.0,
+      "person": null,
+      "text": "[Discussion about recording a full game]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 364.241,
+      "end": 366.422,
+      "person": "User",
+      "text": "So we have actually divided our task.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 366.782,
+      "end": 369.844,
+      "person": "User",
+      "text": "My task is to align, his task is to block.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 370.724,
+      "end": 372.025,
+      "person": "User",
+      "text": "He literally blocks everything.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 372.085,
+      "end": 386.752,
+      "person": "A",
+      "text": "I think we're recording in town as well.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 412.38,
+      "end": 413.076,
+      "person": "A",
+      "text": "You're welcome.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 413.076,
+      "end": 423.0,
+      "person": null,
+      "text": "[Sound of cards shuffling]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 423.0,
+      "end": 460.0,
+      "person": null,
+      "text": "[Clinking sound of game chips]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 470.978,
+      "end": 471.561,
+      "person": "B",
+      "text": "Let's continue.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 480.0,
+      "end": 503.0,
+      "person": "User",
+      "text": "Who's turn now?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 503.0,
+      "end": 526.0,
+      "person": "C",
+      "text": "Me.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 526.0,
+      "end": 549.0,
+      "person": null,
+      "text": "[Chips clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 549.0,
+      "end": 574.5,
+      "person": "B",
+      "text": "S Q.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 574.5,
+      "end": 600.0,
+      "person": null,
+      "text": "[Card shuffling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 600.0,
+      "end": 604.667,
+      "person": "B",
+      "text": "Finish your turn and then we can go to eat, okay?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 604.667,
+      "end": 609.333,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 609.333,
+      "end": 614.0,
+      "person": "B",
+      "text": "Okay, so we're done?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    }
+  ]
+}

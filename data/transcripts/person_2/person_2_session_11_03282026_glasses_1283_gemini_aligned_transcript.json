@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 8,
+    "timing_counts": {
+      "whisper_exact_match": 5,
+      "whisper_partial_match": 0,
+      "interpolated_between_anchors": 0,
+      "inferred_before_first_anchor": 0,
+      "inferred_after_last_anchor": 1,
+      "caption_segment_evenly_distributed": 0,
+      "caption_segment_inferred": 2
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "E": {
+          "SPEAKER_03": 1
+        },
+        "User": {
+          "SPEAKER_06": 3,
+          "SPEAKER_01": 1
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "E": "SPEAKER_03",
+        "User": "SPEAKER_06"
+      },
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "video_id": "session_11_03282026_glasses_1283"
+  },
+  "transcript": [
+    {
+      "start": 13.904,
+      "end": 14.47,
+      "person": "E",
+      "text": "Is it your turn?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 15.622,
+      "end": 15.845,
+      "person": "User",
+      "text": "OK.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 50.921,
+      "end": 70.0,
+      "person": "User",
+      "text": "your turn is it my turn?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 77.24,
+      "end": 78.802,
+      "person": "User",
+      "text": "sorry i go first",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 120.0,
+      "end": 190.0,
+      "person": null,
+      "text": "[Sound of cards shuffling and chips being placed on the board]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 197.763,
+      "end": 204.845,
+      "person": "User",
+      "text": "I think it's my turn.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 204.845,
+      "end": 218.0,
+      "person": null,
+      "text": "[Sound of a card being drawn from the deck]",
+      "kind": "sound",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 218.0,
+      "end": 270.0,
+      "person": null,
+      "text": "[Quiet sounds of chips being placed and cards moving]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    }
+  ]
+}

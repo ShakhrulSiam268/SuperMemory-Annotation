@@ -1,0 +1,74 @@
+[
+  {
+    "start": 620.0380000000005,
+    "end": 630.8100000000013,
+    "text": "Ok, I'm done, more or less, with shaping the house.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 630.8499999999985,
+    "end": 635.6949999999997,
+    "text": "Done more or less shaping the house, still some dirt left.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 673.7649999999994,
+    "end": 674.2059999999983,
+    "text": "How's it been?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 674.2459999999992,
+    "end": 681.9490000000005,
+    "text": "Eleven minutes, okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 713.8090000000011,
+    "end": 714.7700000000004,
+    "text": "Ok, I'm done.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 714.9900000000016,
+    "end": 716.0900000000001,
+    "text": "More or less it's sleeping.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 734.2200000000012,
+    "end": 737.5020000000004,
+    "text": "Next I'll fold the clothes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 746.1209999999992,
+    "end": 747.880000000001,
+    "text": "Ok, folding the clothes right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 894.1690000000017,
+    "end": 894.9569999999985,
+    "text": "Teksting av Nicolai Winther",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1251.1680000000015,
+    "end": 1251.2949999999983,
+    "text": "He?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1778.6990000000005,
+    "end": 1779.0269999999982,
+    "text": "Hei!",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2055.9619999999995,
+    "end": 2062.6460000000006,
+    "text": "Ok, I'm done with folding the clothes.",
+    "speaker": "SPEAKER_00"
+  }
+]

@@ -1,0 +1,2760 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 302,
+    "timing_counts": {
+      "whisper_exact_match": 4,
+      "whisper_partial_match": 6,
+      "interpolated_between_anchors": 2,
+      "inferred_before_first_anchor": 27,
+      "inferred_after_last_anchor": 7,
+      "caption_segment_evenly_distributed": 238,
+      "caption_segment_inferred": 18
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "User": {
+          "SPEAKER_03": 2,
+          "SPEAKER_00": 4
+        },
+        "B": {
+          "SPEAKER_03": 3,
+          "SPEAKER_00": 1
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "User": "SPEAKER_00",
+        "B": "SPEAKER_03"
+      },
+      "conflicts": {},
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "caption_metadata": {
+      "video_id": "",
+      "video_path": "",
+      "duration": null,
+      "start_time": null
+    }
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "person": "User",
+      "text": "You will take out the Monopoly and set it up.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 6.5,
+      "end": 13.0,
+      "person": "User",
+      "text": "And just explain the protocol to them like they have to read the instructions.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 13.0,
+      "end": 19.5,
+      "person": "User",
+      "text": "And I'll attend to the chicken until it's cooked.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 19.5,
+      "end": 26.0,
+      "person": "User",
+      "text": "And when you're ready to start the game I'll come and start playing.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 133.0,
+      "end": 165.0,
+      "person": null,
+      "text": "[Sizzling of cooking food]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 192.0,
+      "end": 230.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 230.0,
+      "end": 240.0,
+      "person": null,
+      "text": "[Sizzling of cooking food]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 253.0,
+      "end": 268.0,
+      "person": "B",
+      "text": "And these reds are the hotel. So you have to build hotel from the board. And the green one are the houses.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 300.0,
+      "end": 313.0,
+      "person": "B",
+      "text": "So there are little rules regarding how we can buy hotel and houses.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 313.0,
+      "end": 346.0,
+      "person": "B",
+      "text": "And you have to have some houses in that particular area. If anyone steps into that property he has to pay you this rent.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 346.0,
+      "end": 360.0,
+      "person": "B",
+      "text": "So this is the basic rule. And initially you all will be given uh 1500 dollar money. And you have to spend the money like you have to pay...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 360.0,
+      "end": 365.667,
+      "person": "B",
+      "text": "...other. And if you can pass the GO, you will receive two hundred, actual money.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 365.667,
+      "end": 371.333,
+      "person": "B",
+      "text": "And there are a few more things, like jail.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 371.333,
+      "end": 377.0,
+      "person": "B",
+      "text": "If you somehow go to this, then you have to stay in jail.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 377.0,
+      "end": 380.5,
+      "person": "B",
+      "text": "So there are three rules... or three ways to get out of the jail.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 380.5,
+      "end": 384.0,
+      "person": "B",
+      "text": "You can find the rules in the handbook.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 384.0,
+      "end": 395.0,
+      "person": "B",
+      "text": "Yeah, so this is roughly the rules.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 395.0,
+      "end": 406.0,
+      "person": "B",
+      "text": "So we can start the game. First I will distribute the money.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 444.0,
+      "end": 456.0,
+      "person": "B",
+      "text": "So one of five...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 456.0,
+      "end": 468.0,
+      "person": "B",
+      "text": "...so you receive five hundred.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 468.0,
+      "end": 480.0,
+      "person": "B",
+      "text": "One of five...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 488.0,
+      "end": 500.5,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 500.5,
+      "end": 513.0,
+      "person": null,
+      "text": "[Dishes clanking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 513.0,
+      "end": 530.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 530.0,
+      "end": 569.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 600.0,
+      "end": 610.0,
+      "person": "User",
+      "text": "Okay, I put in the rice. It should be done in 20 minutes.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 652.0,
+      "end": 678.0,
+      "person": "User",
+      "text": "Oh, I should like reduce the heat.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 703.0,
+      "end": 721.0,
+      "person": "B",
+      "text": "Okay, you can pick one character.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 721.0,
+      "end": 731.28,
+      "person": "User",
+      "text": "Can you put that... take 100",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 731.28,
+      "end": 742.559,
+      "person": "User",
+      "text": "Take 100?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 742.559,
+      "end": 743.213,
+      "person": "User",
+      "text": "This one?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 750.0,
+      "end": 753.667,
+      "person": "B",
+      "text": "So you can start.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 753.667,
+      "end": 757.333,
+      "person": "B",
+      "text": "8",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 757.333,
+      "end": 761.0,
+      "person": "B",
+      "text": "So income tax, you need to pay 100 to the bank.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 761.0,
+      "end": 764.667,
+      "person": "G",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 764.667,
+      "end": 768.333,
+      "person": "B",
+      "text": "I will put it here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 768.333,
+      "end": 772.0,
+      "person": "User",
+      "text": "I think better if we just put it like this.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 772.0,
+      "end": 776.429,
+      "person": "B",
+      "text": "Oh, it's my turn.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 776.429,
+      "end": 780.857,
+      "person": "B",
+      "text": "5",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 780.857,
+      "end": 785.286,
+      "person": "B",
+      "text": "5. So I will buy this one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 785.286,
+      "end": 789.714,
+      "person": "B",
+      "text": "What is it?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 789.714,
+      "end": 794.143,
+      "person": "B",
+      "text": "It's a railroad.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 794.143,
+      "end": 798.571,
+      "person": "B",
+      "text": "Reading Railroad.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 798.571,
+      "end": 803.0,
+      "person": "B",
+      "text": "No, it's the Reading Railroad.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 803.0,
+      "end": 809.333,
+      "person": "B",
+      "text": "10",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 809.333,
+      "end": 815.667,
+      "person": "B",
+      "text": "So I will roll again because the same.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 815.667,
+      "end": 822.0,
+      "person": "User",
+      "text": "10 is visiting jail, right?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 822.0,
+      "end": 828.333,
+      "person": "User",
+      "text": "11",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 828.333,
+      "end": 834.667,
+      "person": "User",
+      "text": "I will buy this one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 834.667,
+      "end": 841.0,
+      "person": "User",
+      "text": "500. So give me 300.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 960.0,
+      "end": 960.05,
+      "person": "User",
+      "text": "St. Charles Place?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 960.05,
+      "end": 960.1,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 960.1,
+      "end": 960.15,
+      "person": "User",
+      "text": "Do you already have another one of these?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 960.15,
+      "end": 960.2,
+      "person": "B",
+      "text": "Uh, no.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 960.2,
+      "end": 960.37,
+      "person": "User",
+      "text": "So where is the one, the other one?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 960.37,
+      "end": 960.391,
+      "person": "User",
+      "text": "There's only one left over here. So...",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 960.391,
+      "end": 965.494,
+      "person": "User",
+      "text": "Well, yeah, figure it out later.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 965.494,
+      "end": 1004.0,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1004.0,
+      "end": 1008.0,
+      "person": "User",
+      "text": "My turn.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1008.0,
+      "end": 1012.0,
+      "person": "User",
+      "text": "Nine.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1012.0,
+      "end": 1016.0,
+      "person": "User",
+      "text": "One, two, three, four, five, six, seven, eight, nine.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1016.0,
+      "end": 1019.5,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1019.5,
+      "end": 1023.0,
+      "person": "User",
+      "text": "Let me just check on the rice.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1023.0,
+      "end": 1051.5,
+      "person": null,
+      "text": "[Sizzling sounds from the pot]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1051.5,
+      "end": 1080.0,
+      "person": null,
+      "text": "[Scraping sounds of a wooden spoon against a pot]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1080.0,
+      "end": 1089.75,
+      "person": "User",
+      "text": "[User stirs the food in the pot]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1089.75,
+      "end": 1099.5,
+      "person": "A",
+      "text": "Get out of jail for free, so I can hold this card, I can use it later.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1099.5,
+      "end": 1109.25,
+      "person": "A",
+      "text": "And I will go again because I rolled the same number.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1109.25,
+      "end": 1119.0,
+      "person": "A",
+      "text": "I think I'll buy this one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1119.0,
+      "end": 1132.0,
+      "person": "User",
+      "text": "Oh, it's my turn?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1132.0,
+      "end": 1145.0,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1145.0,
+      "end": 1147.857,
+      "person": "User",
+      "text": "So I have to throw three times, right?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1147.857,
+      "end": 1150.714,
+      "person": "B",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1150.714,
+      "end": 1153.571,
+      "person": "User",
+      "text": "Eleven.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1153.571,
+      "end": 1156.429,
+      "person": "User",
+      "text": "Another Turn.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1156.429,
+      "end": 1159.286,
+      "person": "User",
+      "text": "Nope.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1159.286,
+      "end": 1162.143,
+      "person": "B",
+      "text": "So it's your turn again.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1162.143,
+      "end": 1165.0,
+      "person": "B",
+      "text": "He starts from jail.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1165.0,
+      "end": 1174.0,
+      "person": null,
+      "text": "[User stirs the food in the pot]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1174.0,
+      "end": 1183.0,
+      "person": "B",
+      "text": "Do you want to buy it?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1183.0,
+      "end": 1192.0,
+      "person": "G",
+      "text": "Wait.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1192.0,
+      "end": 1201.0,
+      "person": "B",
+      "text": "Two and three.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1201.0,
+      "end": 1223.0,
+      "person": null,
+      "text": "[Stirring sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1223.0,
+      "end": 1246.0,
+      "person": null,
+      "text": "[Faint background conversation]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1246.0,
+      "end": 1263.0,
+      "person": null,
+      "text": "[Handling objects]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1263.0,
+      "end": 1275.0,
+      "person": "B",
+      "text": "It's your turn.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1275.0,
+      "end": 1287.0,
+      "person": null,
+      "text": "[Dice rolling sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1287.0,
+      "end": 1292.947,
+      "person": "H",
+      "text": "Is it this one?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1292.947,
+      "end": 1298.894,
+      "person": "B",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1298.894,
+      "end": 1304.842,
+      "person": "H",
+      "text": "How much is it?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1304.842,
+      "end": 1310.789,
+      "person": "B",
+      "text": "350.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1310.789,
+      "end": 1316.736,
+      "person": "H",
+      "text": "320.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1316.736,
+      "end": 1317.737,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1317.737,
+      "end": 1321.0,
+      "person": "User",
+      "text": "We'll wait like five minutes.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1321.0,
+      "end": 1326.5,
+      "person": "User",
+      "text": "The chicken might be undercooked.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1326.5,
+      "end": 1333.0,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1333.0,
+      "end": 1339.5,
+      "person": "G",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1339.5,
+      "end": 1346.0,
+      "person": "B",
+      "text": "Oh, by the way, rent.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1346.0,
+      "end": 1349.4,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1349.4,
+      "end": 1352.8,
+      "person": "B",
+      "text": "7.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1352.8,
+      "end": 1356.2,
+      "person": "H",
+      "text": "Can I build house here?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1356.2,
+      "end": 1359.6,
+      "person": "H",
+      "text": "No, You have to match set.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1359.6,
+      "end": 1363.0,
+      "person": "B",
+      "text": "I have to pay income tax. Also, as I pass go, so... I'll do nothing.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1363.0,
+      "end": 1373.75,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1373.75,
+      "end": 1384.5,
+      "person": "User",
+      "text": "Okay, 8.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1384.5,
+      "end": 1395.25,
+      "person": "User",
+      "text": "Whose is this?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1395.25,
+      "end": 1406.0,
+      "person": "B",
+      "text": "No one's.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1406.0,
+      "end": 1410.375,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1410.375,
+      "end": 1414.75,
+      "person": "H",
+      "text": "11.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1414.75,
+      "end": 1419.125,
+      "person": "A",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11. This one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1419.125,
+      "end": 1423.5,
+      "person": "H",
+      "text": "Ah, St. Charles.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1423.5,
+      "end": 1427.875,
+      "person": "A",
+      "text": "You have to pay me 25.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1427.875,
+      "end": 1432.25,
+      "person": "H",
+      "text": "Here's rent.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1432.25,
+      "end": 1436.625,
+      "person": "A",
+      "text": "And you get 200.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1436.625,
+      "end": 1441.0,
+      "person": "A",
+      "text": "Yeah, you'll get 200 as well.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1441.0,
+      "end": 1443.46,
+      "person": "B",
+      "text": "I think it should be here.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1443.46,
+      "end": 1446.92,
+      "person": "User",
+      "text": "Really?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1446.92,
+      "end": 1450.38,
+      "person": "User",
+      "text": "Yeah, this should be easier.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1450.38,
+      "end": 1453.84,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1453.84,
+      "end": 1457.299,
+      "person": "G",
+      "text": "Eight.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1457.299,
+      "end": 1460.759,
+      "person": "G",
+      "text": "One, two, three, four, five, six, seven, eight.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1460.759,
+      "end": 1464.219,
+      "person": "G",
+      "text": "I'll buy this one.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1464.219,
+      "end": 1467.679,
+      "person": "B",
+      "text": "Which one is it?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1467.679,
+      "end": 1471.139,
+      "person": "G",
+      "text": "I'll get 200 from the bank.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1471.139,
+      "end": 1474.9,
+      "person": "User",
+      "text": "It's yours right?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1491.746,
+      "end": 1493.762,
+      "person": "B",
+      "text": "Five.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1493.762,
+      "end": 1498.381,
+      "person": "B",
+      "text": "I'll buy this one.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1498.381,
+      "end": 1503.0,
+      "person": "B",
+      "text": "It's 120.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1503.0,
+      "end": 1505.5,
+      "person": "User",
+      "text": "Is this our fourth recording? Or fifth?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1505.5,
+      "end": 1508.0,
+      "person": "B",
+      "text": "Fourth.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1508.0,
+      "end": 1510.5,
+      "person": "User",
+      "text": "Fourth, okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1510.5,
+      "end": 1513.0,
+      "person": "B",
+      "text": "Alright, it's your turn.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1513.0,
+      "end": 1518.0,
+      "person": "User",
+      "text": "Five.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1518.0,
+      "end": 1523.0,
+      "person": "User",
+      "text": "One, two, three, four, five.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1523.0,
+      "end": 1528.0,
+      "person": "User",
+      "text": "Indiana.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1528.0,
+      "end": 1533.0,
+      "person": "B",
+      "text": "Do you have Indiana?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1533.0,
+      "end": 1538.0,
+      "person": "B",
+      "text": "H has Indiana Avenue. You need to pay rent.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1538.0,
+      "end": 1543.0,
+      "person": "H",
+      "text": "Ten.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1543.0,
+      "end": 1547.25,
+      "person": "User",
+      "text": "How much battery do you have left?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1547.25,
+      "end": 1551.5,
+      "person": "B",
+      "text": "55.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1551.5,
+      "end": 1555.75,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1555.75,
+      "end": 1560.0,
+      "person": "User",
+      "text": "BRB, Just gonna check on the rice.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1560.0,
+      "end": 1570.167,
+      "person": "B",
+      "text": "Just 50 minus 9.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1570.167,
+      "end": 1580.333,
+      "person": "G",
+      "text": "41 dollars.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1580.333,
+      "end": 1590.5,
+      "person": "B",
+      "text": "Just 41.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1590.5,
+      "end": 1600.667,
+      "person": "G",
+      "text": "What's the rent?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1600.667,
+      "end": 1610.833,
+      "person": "B",
+      "text": "Oh let's see. The other side.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1610.833,
+      "end": 1621.0,
+      "person": "G",
+      "text": "If 1 is 50. 2 is 100.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1621.0,
+      "end": 1628.5,
+      "person": "B",
+      "text": "So I have 50. So 50 times 4. 200.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1628.5,
+      "end": 1636.0,
+      "person": "G",
+      "text": "3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1636.0,
+      "end": 1643.5,
+      "person": "G",
+      "text": "1, 2, 3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1643.5,
+      "end": 1651.0,
+      "person": "G",
+      "text": "I think I'll buy this.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1651.0,
+      "end": 1654.222,
+      "person": "B",
+      "text": "5.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1654.222,
+      "end": 1657.444,
+      "person": "B",
+      "text": "Wait.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1657.444,
+      "end": 1660.667,
+      "person": "G",
+      "text": "Wait?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1660.667,
+      "end": 1663.889,
+      "person": "B",
+      "text": "Wait, St. James Place. Anyone has this one?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1663.889,
+      "end": 1667.111,
+      "person": "User",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1667.111,
+      "end": 1670.333,
+      "person": "B",
+      "text": "You want to buy it?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1670.333,
+      "end": 1673.556,
+      "person": "H",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1673.556,
+      "end": 1676.778,
+      "person": "B",
+      "text": "Oh 180? 180.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1676.778,
+      "end": 1680.0,
+      "person": "H",
+      "text": "180.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1680.0,
+      "end": 1689.0,
+      "person": "H",
+      "text": "120",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1689.0,
+      "end": 1698.0,
+      "person": "B",
+      "text": "Look at 28",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1698.0,
+      "end": 1710.0,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1710.0,
+      "end": 1717.0,
+      "person": "G",
+      "text": "It's your birthday, collect 10 dollars from each player.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1717.0,
+      "end": 1724.0,
+      "person": "B",
+      "text": "Happy birthday.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1733.0,
+      "end": 1739.25,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1739.25,
+      "end": 1745.5,
+      "person": "B",
+      "text": "Anyone have this?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1745.5,
+      "end": 1751.75,
+      "person": "User",
+      "text": "Yes, rent is 14.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1751.75,
+      "end": 1758.0,
+      "person": "B",
+      "text": "Can you give me one dollar.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1758.0,
+      "end": 1767.333,
+      "person": "B",
+      "text": "Indiana?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1767.333,
+      "end": 1776.667,
+      "person": "G",
+      "text": "You have the Indiana.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1776.667,
+      "end": 1786.0,
+      "person": "H",
+      "text": "18.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1786.0,
+      "end": 1791.0,
+      "person": "User",
+      "text": "8.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1791.0,
+      "end": 1796.0,
+      "person": "User",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1796.0,
+      "end": 1801.0,
+      "person": "User",
+      "text": "28 right?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1801.0,
+      "end": 1808.667,
+      "person": "User",
+      "text": "Twenty eight. Five, twenty five.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1808.667,
+      "end": 1817.333,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1817.333,
+      "end": 1826.0,
+      "person": "B",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1826.0,
+      "end": 1839.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1839.0,
+      "end": 1852.0,
+      "person": null,
+      "text": "[Pot clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1852.0,
+      "end": 1874.0,
+      "person": "User",
+      "text": "I should like probably close it down.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1874.0,
+      "end": 1881.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1881.0,
+      "end": 1888.0,
+      "person": null,
+      "text": "[Pot clinking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1888.0,
+      "end": 1921.0,
+      "person": "User",
+      "text": "Eleven. Can you do eleven?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1921.0,
+      "end": 1928.667,
+      "person": "G",
+      "text": "25.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1928.667,
+      "end": 1937.333,
+      "person": "G",
+      "text": "I also get 200 right?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1937.333,
+      "end": 1946.0,
+      "person": "B",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1946.0,
+      "end": 1956.0,
+      "person": null,
+      "text": "[Dice rolls]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1956.0,
+      "end": 1966.0,
+      "person": "H",
+      "text": "School fees pay 50.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1966.0,
+      "end": 1972.0,
+      "person": "B",
+      "text": "She got double.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1972.0,
+      "end": 1978.0,
+      "person": "User",
+      "text": "So she'll roll again.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1978.0,
+      "end": 1984.0,
+      "person": null,
+      "text": "[Dice rolls]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1984.0,
+      "end": 1990.0,
+      "person": "User",
+      "text": "Seven.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1990.0,
+      "end": 1999.0,
+      "person": null,
+      "text": "[Dice rolls]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1999.0,
+      "end": 2008.0,
+      "person": "G",
+      "text": "Eight.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2008.0,
+      "end": 2017.0,
+      "person": "G",
+      "text": "Okay, so for each house pay 25, for each hotel pay 100. But I don't have any house or hotels, so I don't have to do anything.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2017.0,
+      "end": 2023.0,
+      "person": null,
+      "text": "[Dice rolls]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2023.0,
+      "end": 2029.0,
+      "person": "B",
+      "text": "So collect 200, Community Chest.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2029.0,
+      "end": 2035.0,
+      "person": "B",
+      "text": "Oh it's my turn again.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2035.0,
+      "end": 2041.0,
+      "person": null,
+      "text": "[Dice rolls]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2041.0,
+      "end": 2046.286,
+      "person": "B",
+      "text": "Six.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2046.286,
+      "end": 2052.571,
+      "person": "B",
+      "text": "Okay, I'll buy this one. It's 400.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2052.571,
+      "end": 2058.857,
+      "person": "User",
+      "text": "Oh, you already have Park Place.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2058.857,
+      "end": 2065.143,
+      "person": "B",
+      "text": "Yes.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2065.143,
+      "end": 2071.429,
+      "person": "B",
+      "text": "It's 400.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2071.429,
+      "end": 2077.714,
+      "person": "B",
+      "text": "Seven hundred.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2077.714,
+      "end": 2084.0,
+      "person": "B",
+      "text": "Your turn.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2084.0,
+      "end": 2089.875,
+      "person": "User",
+      "text": "Eleven. Can you do 11 for me?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2089.875,
+      "end": 2095.75,
+      "person": "B",
+      "text": "St. James Place.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2095.75,
+      "end": 2101.625,
+      "person": "User",
+      "text": "Anyone?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2101.625,
+      "end": 2107.5,
+      "person": "H",
+      "text": "14.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2107.5,
+      "end": 2113.375,
+      "person": "User",
+      "text": "I only have 13, man.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2113.375,
+      "end": 2119.25,
+      "person": "User",
+      "text": "So you gave me... okay, so...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2119.25,
+      "end": 2125.125,
+      "person": "H",
+      "text": "Okay, so...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2125.125,
+      "end": 2131.0,
+      "person": "User",
+      "text": "Alright.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2131.0,
+      "end": 2138.0,
+      "person": "G",
+      "text": "Nine.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2138.0,
+      "end": 2145.0,
+      "person": "B",
+      "text": "Pay me 8 dollars.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2145.0,
+      "end": 2152.0,
+      "person": null,
+      "text": "[Sound of paper money rustling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2152.0,
+      "end": 2156.0,
+      "person": "H",
+      "text": "Seven.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2156.0,
+      "end": 2160.0,
+      "person": "H",
+      "text": "One, two, three, four, five, six, seven.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2160.0,
+      "end": 2165.143,
+      "person": "G",
+      "text": "To build a house, I need to have the same colors?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2165.143,
+      "end": 2170.286,
+      "person": "B",
+      "text": "Same color, yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2170.286,
+      "end": 2175.429,
+      "person": "G",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2175.429,
+      "end": 2180.571,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2180.571,
+      "end": 2185.714,
+      "person": "B",
+      "text": "Seven.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2185.714,
+      "end": 2190.857,
+      "person": "B",
+      "text": "I don't have 100. So I'll get 200 from the bank and I'll spend 100 to get the... this one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2190.857,
+      "end": 2196.0,
+      "person": "B",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2196.0,
+      "end": 2198.5,
+      "person": "User",
+      "text": "How much time do you have left?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2198.5,
+      "end": 2201.0,
+      "person": "B",
+      "text": "36 minutes.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2201.0,
+      "end": 2203.5,
+      "person": "User",
+      "text": "And lowest is thirty, what percent of the...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2203.5,
+      "end": 2206.0,
+      "person": "B",
+      "text": "31.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2206.0,
+      "end": 2209.333,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2209.333,
+      "end": 2212.667,
+      "person": "User",
+      "text": "Seven.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2212.667,
+      "end": 2216.0,
+      "person": "User",
+      "text": "One, two, three, four, five, six, seven.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2216.0,
+      "end": 2219.333,
+      "person": "User",
+      "text": "Come on.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2219.333,
+      "end": 2222.667,
+      "person": "User",
+      "text": "Give me two dollars.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2222.667,
+      "end": 2226.0,
+      "person": "User",
+      "text": "Thank you.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2226.0,
+      "end": 2243.0,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2243.0,
+      "end": 2248.4,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2248.4,
+      "end": 2253.8,
+      "person": "B",
+      "text": "150.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2253.8,
+      "end": 2259.2,
+      "person": "B",
+      "text": "Can you give me 10 dollars back?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2259.2,
+      "end": 2264.6,
+      "person": "G",
+      "text": "10 dollars?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2264.6,
+      "end": 2270.0,
+      "person": "B",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2270.0,
+      "end": 2273.667,
+      "person": null,
+      "text": "[Dice roll]",
+      "kind": "sound",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2273.667,
+      "end": 2277.333,
+      "person": "G",
+      "text": "Ten.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2277.333,
+      "end": 2281.0,
+      "person": "H",
+      "text": "How much?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2281.0,
+      "end": 2287.667,
+      "person": "H",
+      "text": "Are you guys feeling hot?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2287.667,
+      "end": 2295.333,
+      "person": "User",
+      "text": "A bit.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2295.333,
+      "end": 2303.0,
+      "person": "User",
+      "text": "Yeah, 'cause the temperature's 79. Should turn on cooling.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2303.0,
+      "end": 2303.05,
+      "person": "G",
+      "text": "I can build house at any time, right?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2303.05,
+      "end": 2303.1,
+      "person": "User",
+      "text": "Yeah. Once you have all the...",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2303.1,
+      "end": 2303.15,
+      "person": "G",
+      "text": "Yeah, so I have two of...",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2303.15,
+      "end": 2303.2,
+      "person": "User",
+      "text": "You can build houses when it's your turn.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2303.2,
+      "end": 2342.876,
+      "person": "G",
+      "text": "Uh, no, like I was asking if I can build house at any time of the game.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2342.876,
+      "end": 2346.0,
+      "person": "User",
+      "text": "When it's your turn.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 2346.0,
+      "end": 2351.545,
+      "person": "B",
+      "text": "But it says you don't have to wait for your turn.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2351.545,
+      "end": 2357.09,
+      "person": "User",
+      "text": "Oh, really?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2357.09,
+      "end": 2358.551,
+      "person": "B",
+      "text": "Oh.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2358.551,
+      "end": 2366.367,
+      "person": "User",
+      "text": "But I waited for my turn yesterday.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2366.367,
+      "end": 2374.184,
+      "person": "B",
+      "text": "So I think I can build a house. So I will build a house for... this one. Look. I will... house cost is 200. So I'll spend 200 to build a house... there.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2374.184,
+      "end": 2382.0,
+      "person": "G",
+      "text": "Yeah, it's your turn I think.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2382.0,
+      "end": 2388.333,
+      "person": "User",
+      "text": "Eight. One, two, three, four, five, six, seven, eight. Pacific Avenue. I'll buy the Pacific Avenue.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2388.333,
+      "end": 2394.667,
+      "person": "B",
+      "text": "Pacific Avenue, 300.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2394.667,
+      "end": 2401.0,
+      "person": "User",
+      "text": "Oh.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2401.0,
+      "end": 2417.0,
+      "person": "H",
+      "text": "Eight.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2417.0,
+      "end": 2434.0,
+      "person": "B",
+      "text": "Yeah, this is mine. So eight times four, thirty-two.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2434.0,
+      "end": 2442.0,
+      "person": "B",
+      "text": "I have a roll again I think.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2442.0,
+      "end": 2450.0,
+      "person": "B",
+      "text": "Six.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2450.0,
+      "end": 2474.0,
+      "person": "User",
+      "text": "How much?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2474.0,
+      "end": 2494.0,
+      "person": "User",
+      "text": "It's mine. Twenty-two.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2494.0,
+      "end": 2508.0,
+      "person": "User",
+      "text": "Seven.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2508.0,
+      "end": 2522.0,
+      "person": "User",
+      "text": "Can you go to seven?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2546.0,
+      "end": 2554.0,
+      "person": "G",
+      "text": "Nine.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2554.0,
+      "end": 2562.0,
+      "person": "G",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8, 9.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2562.0,
+      "end": 2580.0,
+      "person": "User",
+      "text": "I will get 200.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2580.0,
+      "end": 2598.0,
+      "person": "B",
+      "text": "So collect 20.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2598.0,
+      "end": 2603.25,
+      "person": "User",
+      "text": "Eight. Can you do eight?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2603.25,
+      "end": 2608.5,
+      "person": "G",
+      "text": "1, 2, 3, 4, 5, 6, 7, 8.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2608.5,
+      "end": 2613.75,
+      "person": "User",
+      "text": "Can you give me 200?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2613.75,
+      "end": 2619.0,
+      "person": "User",
+      "text": "I'll roll again.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2619.0,
+      "end": 2622.667,
+      "person": "User",
+      "text": "Where's the other dice?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2622.667,
+      "end": 2626.333,
+      "person": "User",
+      "text": "Seven. Can you go seven?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2626.333,
+      "end": 2630.0,
+      "person": "G",
+      "text": "1, 2, 3, 4, 5, 6, 7.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2630.0,
+      "end": 2633.667,
+      "person": "User",
+      "text": "Is it any one's?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2633.667,
+      "end": 2637.333,
+      "person": "G",
+      "text": "Ten dollars.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2637.333,
+      "end": 2641.0,
+      "person": "User",
+      "text": "Your turn.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2641.0,
+      "end": 2645.5,
+      "person": "G",
+      "text": "Is it eight dollars?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2645.5,
+      "end": 2651.0,
+      "person": "B",
+      "text": "I think I have a color set right, so that would be 16.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2651.0,
+      "end": 2656.5,
+      "person": "G",
+      "text": "16.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2656.5,
+      "end": 2662.0,
+      "person": "G",
+      "text": "Do you need to have all the three?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2662.0,
+      "end": 2667.5,
+      "person": "B",
+      "text": "All three you need to have all three.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2667.5,
+      "end": 2673.0,
+      "person": "G",
+      "text": "Okay, so sorry, then eight.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2673.0,
+      "end": 2700.0,
+      "person": "B",
+      "text": "Six.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2700.0,
+      "end": 2717.0,
+      "person": "User",
+      "text": "Ten.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2717.0,
+      "end": 2717.148,
+      "person": "User",
+      "text": "Every time. Give me two.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2717.148,
+      "end": 2717.296,
+      "person": "User",
+      "text": "So let me give the bank 20 and then take 10, 5, 1, 2, 3, 4... are there any ones here? All one are gone.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2717.296,
+      "end": 2720.518,
+      "person": "B",
+      "text": "You can give me five, I can give you one.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 2765.0,
+      "end": 2772.5,
+      "person": "User",
+      "text": "Okay, so you get 18?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2772.5,
+      "end": 2780.0,
+      "person": "H",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2780.0,
+      "end": 2800.0,
+      "person": "H",
+      "text": "Seven.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2800.0,
+      "end": 2819.0,
+      "person": "User",
+      "text": "I think it's time we pause the game.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    }
+  ]
+}

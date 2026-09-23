@@ -1,0 +1,386 @@
+[
+  {
+    "start": 0.02900000000045111,
+    "end": 0.930000000000291,
+    "text": "yeah I want okay",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 35.67199999999957,
+    "end": 47.802999999999884,
+    "text": "Hey, hey, hey, hey, okay, okay, oh man, I burned my leg way before.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 54.89000000000033,
+    "end": 57.972999999999956,
+    "text": "Come on man, come on, hold.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 63.537999999999556,
+    "end": 64.79899999999998,
+    "text": "So should we wait?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 66.42000000000007,
+    "end": 67.15999999999985,
+    "text": "Yeah, just wait.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 67.27999999999975,
+    "end": 69.96200000000044,
+    "text": "Let me just go get the pizza.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 69.98199999999997,
+    "end": 70.34199999999964,
+    "text": "OK.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 72.36300000000028,
+    "end": 73.42299999999977,
+    "text": "Finally.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 73.44300000000021,
+    "end": 75.28399999999965,
+    "text": "Are you hungry?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 76.0649999999996,
+    "end": 77.16499999999996,
+    "text": "Of course, man.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 77.1850000000004,
+    "end": 90.91299999999956,
+    "text": "Please send us the recorded video of it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 93.84199999999964,
+    "end": 104.57999999999993,
+    "text": "no no no you can't do that because this is confidential right you can't share anything no no no it's no man it's private private video",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 105.58500000000004,
+    "end": 106.96600000000035,
+    "text": "So don't share the link.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 107.04600000000028,
+    "end": 109.04699999999957,
+    "text": "Don't share the link.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 110.0069999999996,
+    "end": 110.78700000000026,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 110.82700000000023,
+    "end": 111.72800000000007,
+    "text": "Let's finish this round.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 142.65400000000045,
+    "end": 143.3149999999996,
+    "text": "Oh, man.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 155.04600000000028,
+    "end": 155.32600000000002,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 159.77000000000044,
+    "end": 161.47099999999955,
+    "text": "So only you two guys.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 162.91299999999956,
+    "end": 163.45300000000043,
+    "text": "You took it.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 164.35400000000027,
+    "end": 165.63500000000022,
+    "text": "Oh, no, I took it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 165.67500000000018,
+    "end": 166.53600000000006,
+    "text": "Yeah, four, four.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 166.61599999999999,
+    "end": 167.23700000000008,
+    "text": "Yeah, four.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 167.67699999999968,
+    "end": 168.47800000000007,
+    "text": "Yeah, that's fine.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 172.35199999999986,
+    "end": 174.59400000000005,
+    "text": "Oh man, I will get this one.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 174.61399999999958,
+    "end": 175.45399999999972,
+    "text": "I have two peers.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 178.2560000000003,
+    "end": 178.8760000000002,
+    "text": "Two peers.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 179.6170000000002,
+    "end": 180.09699999999975,
+    "text": "So what?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 180.21699999999964,
+    "end": 180.7579999999998,
+    "text": "Two peers.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 181.79799999999977,
+    "end": 182.25900000000001,
+    "text": "Okay.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 182.27900000000045,
+    "end": 183.23899999999958,
+    "text": "Not just...",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 211.35199999999986,
+    "end": 211.9319999999998,
+    "text": "Thank you.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 224.3180000000002,
+    "end": 234.82200000000012,
+    "text": "Who is here?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 267.59799999999996,
+    "end": 271.22000000000025,
+    "text": "Okay, that's fine.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 271.3599999999997,
+    "end": 272.90099999999984,
+    "text": "We can just wait.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 301.7629999999999,
+    "end": 328.71000000000004,
+    "text": "why chips and not our food let me check out the pizza oh wow it's big man yoga just",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 331.28600000000006,
+    "end": 331.8069999999998,
+    "text": "Roll it.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 332.52700000000004,
+    "end": 337.22999999999956,
+    "text": "We can have some drinks.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 338.65099999999984,
+    "end": 342.09400000000005,
+    "text": "Yeah, we have some Diet Coke.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 357.04399999999987,
+    "end": 357.78499999999985,
+    "text": "You guys want some?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 362.7330000000002,
+    "end": 363.89400000000023,
+    "text": "Let me distribute the drink.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 366.0159999999996,
+    "end": 366.33600000000024,
+    "text": "Shit.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 372.84199999999964,
+    "end": 374.20300000000043,
+    "text": "You can take this out there.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 383.71100000000024,
+    "end": 384.71200000000044,
+    "text": "It's just rolling.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 385.45300000000043,
+    "end": 385.83299999999963,
+    "text": "Yeah, yeah.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 409.29100000000017,
+    "end": 424.3760000000002,
+    "text": "we can start too many toppings but it's good",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 505.8829999999998,
+    "end": 506.9309999999996,
+    "text": "So I don't know.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 549.8149999999996,
+    "end": 551.098,
+    "text": "This is a cool strategy.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 553.0420000000004,
+    "end": 553.2430000000004,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 640.5249999999996,
+    "end": 644.4070000000002,
+    "text": "so many toppings okay sure",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 676.585,
+    "end": 677.7470000000003,
+    "text": "You can't use your phone.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 684.982,
+    "end": 685.643,
+    "text": "No, no, no.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 686.4849999999997,
+    "end": 687.4870000000001,
+    "text": "This is not good.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 703.9449999999997,
+    "end": 707.6080000000002,
+    "text": "No, I can't.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 709.6289999999999,
+    "end": 710.1890000000003,
+    "text": "You do it.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 710.6499999999996,
+    "end": 710.8500000000004,
+    "text": "No.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 753.1930000000002,
+    "end": 753.4340000000002,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 788.3339999999998,
+    "end": 790.299,
+    "text": "Yeah, you said, I'll just say yes, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 790.3400000000001,
+    "end": 793.2669999999998,
+    "text": "Yeah, no, but also they're going to ask for your account number and I'm not going to do anything.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 795.674,
+    "end": 796.656,
+    "text": "I think I'll get back on number one.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 876.7280000000001,
+    "end": 877.6940000000004,
+    "text": "Thank you.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 926.3040000000001,
+    "end": 929.6049999999996,
+    "text": "You can stop the recording now, I guess.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 937.4279999999999,
+    "end": 941.5500000000002,
+    "text": "You will be the dealer.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 941.8100000000004,
+    "end": 943.6710000000003,
+    "text": "Yeah, let's play aggressive.",
+    "speaker": "SPEAKER_01"
+  }
+]

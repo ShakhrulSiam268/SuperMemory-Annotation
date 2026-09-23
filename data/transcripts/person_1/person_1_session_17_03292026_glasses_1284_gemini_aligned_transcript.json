@@ -1,0 +1,2601 @@
+{
+  "metadata": {
+    "source": "gemini_caption_transcript_aligned_to_whisper",
+    "timing_strategy": "Gemini text/order/person labels are authoritative; Whisper provides line-level timing anchors.",
+    "line_count": 283,
+    "timing_counts": {
+      "whisper_exact_match": 9,
+      "whisper_partial_match": 7,
+      "interpolated_between_anchors": 4,
+      "inferred_before_first_anchor": 39,
+      "inferred_after_last_anchor": 14,
+      "caption_segment_evenly_distributed": 180,
+      "caption_segment_inferred": 30
+    },
+    "speaker_mapping": {
+      "speaker_votes_by_person": {
+        "H": {
+          "SPEAKER_00": 2,
+          "SPEAKER_01": 2
+        },
+        "User": {
+          "SPEAKER_00": 8,
+          "SPEAKER_01": 2,
+          "SPEAKER_02": 2
+        },
+        "G": {
+          "SPEAKER_00": 2,
+          "SPEAKER_02": 1
+        }
+      },
+      "primary_whisper_speaker_by_person": {
+        "H": "SPEAKER_00",
+        "User": "SPEAKER_00",
+        "G": "SPEAKER_00"
+      },
+      "conflicts": {
+        "SPEAKER_00": [
+          "G",
+          "H",
+          "User"
+        ]
+      },
+      "note": "Gemini person labels are authoritative and were not overwritten."
+    },
+    "caption_metadata": {
+      "video_id": "",
+      "video_path": "",
+      "duration": null,
+      "start_time": null
+    }
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "person": "User",
+      "text": "I think the flowers are much later.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "person": "User",
+      "text": "Look over there.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "person": "User",
+      "text": "The Bs are here, right?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "person": "User",
+      "text": "The Bs are over here, okay?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "person": "H",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 25.0,
+      "end": 30.0,
+      "person": "User",
+      "text": "I'll go check on the rice.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 30.0,
+      "end": 45.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 45.0,
+      "end": 60.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 60.0,
+      "end": 90.5,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 90.5,
+      "end": 121.0,
+      "person": null,
+      "text": "[Water splashing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 121.0,
+      "end": 143.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 143.0,
+      "end": 166.0,
+      "person": null,
+      "text": "[Water splashing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 166.0,
+      "end": 171.333,
+      "person": null,
+      "text": "[Switch clicks]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 171.333,
+      "end": 176.667,
+      "person": null,
+      "text": "[Garbage disposal runs]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 176.667,
+      "end": 182.0,
+      "person": null,
+      "text": "[Pot clanking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 182.0,
+      "end": 186.0,
+      "person": null,
+      "text": "[Cabinet door opens]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 186.0,
+      "end": 190.0,
+      "person": null,
+      "text": "[Cabinet door closes]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 190.0,
+      "end": 194.0,
+      "person": null,
+      "text": "[Metal clanking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 194.0,
+      "end": 209.333,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 209.333,
+      "end": 224.667,
+      "person": null,
+      "text": "[Water splashing]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 224.667,
+      "end": 240.0,
+      "person": null,
+      "text": "[Metal clanking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 240.0,
+      "end": 266.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 266.0,
+      "end": 294.0,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 294.0,
+      "end": 311.5,
+      "person": null,
+      "text": "[Water running]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 311.5,
+      "end": 329.0,
+      "person": null,
+      "text": "[Strainer shaking]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 348.0,
+      "end": 361.0,
+      "person": null,
+      "text": "[Beep]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 361.0,
+      "end": 376.0,
+      "person": null,
+      "text": "[Footsteps and rustling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 376.0,
+      "end": 405.0,
+      "person": null,
+      "text": "[Drawer opening and objects rustling]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 405.0,
+      "end": 429.0,
+      "person": null,
+      "text": "[Footsteps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 429.0,
+      "end": 463.0,
+      "person": null,
+      "text": "[Peeling sounds]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 480.0,
+      "end": 540.0,
+      "person": null,
+      "text": "[Silence]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 540.0,
+      "end": 600.0,
+      "person": null,
+      "text": "[Silence]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 634.0,
+      "end": 644.0,
+      "person": null,
+      "text": "[Instant Pot beeps]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 646.96,
+      "end": 647.601,
+      "person": "H",
+      "text": "These are B14, yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 647.601,
+      "end": 721.0,
+      "person": "H",
+      "text": "19... 19.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 721.0,
+      "end": 730.0,
+      "person": "H",
+      "text": "Is that B7?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 730.0,
+      "end": 740.0,
+      "person": "G",
+      "text": "No, it's uh...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 740.0,
+      "end": 761.667,
+      "person": "H",
+      "text": "B1",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 761.667,
+      "end": 783.333,
+      "person": "G",
+      "text": "This is... B1",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 783.333,
+      "end": 805.0,
+      "person": "H",
+      "text": "Maybe it comes...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 815.0,
+      "end": 820.2,
+      "person": "G",
+      "text": "One B2, B3",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 820.2,
+      "end": 825.4,
+      "person": "H",
+      "text": "B1",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 825.4,
+      "end": 830.6,
+      "person": "G",
+      "text": "B1, B2",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 830.6,
+      "end": 835.8,
+      "person": "H",
+      "text": "B2",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 835.8,
+      "end": 841.0,
+      "person": "H",
+      "text": "B3",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 841.0,
+      "end": 894.0,
+      "person": "User",
+      "text": "Can I take a look?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 894.0,
+      "end": 896.327,
+      "person": "User",
+      "text": "What are you supposed to put in here?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 896.327,
+      "end": 898.654,
+      "person": "G",
+      "text": "B1 in front of P16.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 898.654,
+      "end": 900.981,
+      "person": "User",
+      "text": "Are you supposed to use B4 or B2?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 900.981,
+      "end": 903.307,
+      "person": "H",
+      "text": "No, B2.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 903.307,
+      "end": 905.634,
+      "person": "User",
+      "text": "I think this is B2.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 905.634,
+      "end": 907.961,
+      "person": "H",
+      "text": "Oh, these are the B4.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 907.961,
+      "end": 911.123,
+      "person": "User",
+      "text": "These are B... no, these are uh B14.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 911.123,
+      "end": 921.0,
+      "person": "H",
+      "text": "Oh.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 921.0,
+      "end": 925.769,
+      "person": "User",
+      "text": "Okay, did you put any other B2 somewhere else?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 925.769,
+      "end": 930.537,
+      "person": "H",
+      "text": "Yep. So there's a B3 at the back.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 930.537,
+      "end": 935.306,
+      "person": "User",
+      "text": "Maybe replace the B14 with the B2 when you're supposed to.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 935.306,
+      "end": 940.075,
+      "person": "User",
+      "text": "So these are the B2s. And the longer ones are the B14s.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 940.075,
+      "end": 946.997,
+      "person": "User",
+      "text": "So there should be a B2 here.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 946.997,
+      "end": 960.0,
+      "person": "H",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 960.0,
+      "end": 967.0,
+      "person": "User",
+      "text": "I think you missed another B2 right.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 967.0,
+      "end": 974.0,
+      "person": "H",
+      "text": "How many B2s...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 974.0,
+      "end": 981.0,
+      "person": "H",
+      "text": "two B2s for now.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 981.0,
+      "end": 988.0,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 988.0,
+      "end": 990.068,
+      "person": "H",
+      "text": "put the another B2.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 990.068,
+      "end": 992.137,
+      "person": "User",
+      "text": "This is B4, you don't need B4 now right.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 992.137,
+      "end": 994.205,
+      "person": "G",
+      "text": "So there was one B2 in the front and the other in the back. Both has to be B1 and B3.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 994.205,
+      "end": 996.274,
+      "person": "H",
+      "text": "Did you put the other B2.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 996.274,
+      "end": 996.476,
+      "person": "G",
+      "text": "B3.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 996.476,
+      "end": 1008.238,
+      "person": "G",
+      "text": "This one's B2, this one's B2. This is in front of B1. And this one's in front of... behind B3.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1008.238,
+      "end": 1020.0,
+      "person": "User",
+      "text": "Wait this one right.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1020.0,
+      "end": 1029.132,
+      "person": "User",
+      "text": "So in front of B3 there's B2 right?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1029.132,
+      "end": 1038.264,
+      "person": "H",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1038.264,
+      "end": 1043.186,
+      "person": "User",
+      "text": "I think you put B14 here right?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1043.186,
+      "end": 1043.226,
+      "person": "H",
+      "text": "Did I put B14?",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1043.226,
+      "end": 1044.466,
+      "person": "G",
+      "text": "Where?",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1045.698,
+      "end": 1045.986,
+      "person": "User",
+      "text": "Here.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1045.986,
+      "end": 1047.0,
+      "person": "H",
+      "text": "Oh.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1047.0,
+      "end": 1047.335,
+      "person": "User",
+      "text": "This one was...",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1047.335,
+      "end": 1047.671,
+      "person": "G",
+      "text": "This is B13.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1047.671,
+      "end": 1048.006,
+      "person": "User",
+      "text": "B13.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1048.006,
+      "end": 1048.341,
+      "person": "G",
+      "text": "B13.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1048.341,
+      "end": 1048.676,
+      "person": "User",
+      "text": "Mhm.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1048.676,
+      "end": 1049.012,
+      "person": "G",
+      "text": "This was way back... where.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1049.012,
+      "end": 1049.347,
+      "person": "H",
+      "text": "I think this was B13.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1049.347,
+      "end": 1051.908,
+      "person": "User",
+      "text": "No this is B14. You put B14 somewhere.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1051.908,
+      "end": 1066.454,
+      "person": "H",
+      "text": "B14 was here.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1066.454,
+      "end": 1081.0,
+      "person": "User",
+      "text": "Oh you put it here.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1081.0,
+      "end": 1081.625,
+      "person": "User",
+      "text": "Okay that's correct.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1081.625,
+      "end": 1083.25,
+      "person": "User",
+      "text": "This next one I guess.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1083.25,
+      "end": 1084.875,
+      "person": "User",
+      "text": "Huh?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1084.875,
+      "end": 1086.5,
+      "person": "User",
+      "text": "You already put B14 somewhere.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1086.5,
+      "end": 1088.125,
+      "person": "User",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1088.125,
+      "end": 1089.75,
+      "person": "User",
+      "text": "Right here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1089.75,
+      "end": 1091.375,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1091.375,
+      "end": 1093.0,
+      "person": "User",
+      "text": "Between B1 and between behind...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1093.0,
+      "end": 1098.0,
+      "person": "User",
+      "text": "...B2.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1098.0,
+      "end": 1102.667,
+      "person": "G",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1102.667,
+      "end": 1107.333,
+      "person": "G",
+      "text": "Next is...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1107.333,
+      "end": 1112.0,
+      "person": "G",
+      "text": "C25 and A10.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1112.0,
+      "end": 1116.667,
+      "person": "G",
+      "text": "C this one says A10.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1116.667,
+      "end": 1121.333,
+      "person": "G",
+      "text": "C25...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1121.333,
+      "end": 1126.0,
+      "person": "G",
+      "text": "Right here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1126.0,
+      "end": 1126.05,
+      "person": "User",
+      "text": "Should I open up the Cs?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1126.05,
+      "end": 1126.1,
+      "person": "G",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1126.1,
+      "end": 1126.15,
+      "person": null,
+      "text": "[Wood popping sound]",
+      "kind": "sound",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1126.15,
+      "end": 1126.2,
+      "person": "User",
+      "text": "The Cs look very similar to one another best if I give it to you once you need it.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1126.2,
+      "end": 1127.997,
+      "person": "User",
+      "text": "These are all C1.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1165.0,
+      "end": 1171.0,
+      "person": "G",
+      "text": "Like A10.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1171.0,
+      "end": 1177.0,
+      "person": "H",
+      "text": "A23.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1177.0,
+      "end": 1183.0,
+      "person": "G",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1186.0,
+      "end": 1201.0,
+      "person": "G",
+      "text": "Should fit.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1201.0,
+      "end": 1230.0,
+      "person": null,
+      "text": "[Rustling of wooden puzzle pieces and paper]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1230.0,
+      "end": 1231.601,
+      "person": "User",
+      "text": "Can I take a look?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1231.601,
+      "end": 1233.201,
+      "person": "G",
+      "text": "Yeah, sure go.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1233.201,
+      "end": 1234.802,
+      "person": "User",
+      "text": "Now you put that here.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1234.802,
+      "end": 1236.402,
+      "person": "User",
+      "text": "Match the direction.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1236.402,
+      "end": 1238.003,
+      "person": "G",
+      "text": "Okay, we're done with the...",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1238.003,
+      "end": 1238.664,
+      "person": "User",
+      "text": "Nice.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1279.0,
+      "end": 1281.0,
+      "person": "User",
+      "text": "How long has it been?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1281.0,
+      "end": 1283.0,
+      "person": "B",
+      "text": "21 minutes.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1283.0,
+      "end": 1285.0,
+      "person": "H",
+      "text": "A16",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1285.0,
+      "end": 1289.5,
+      "person": "G",
+      "text": "P1, C16.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1289.5,
+      "end": 1294.0,
+      "person": "User",
+      "text": "C16 here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1294.0,
+      "end": 1298.5,
+      "person": "G",
+      "text": "You need one C16?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1298.5,
+      "end": 1303.0,
+      "person": "User",
+      "text": "I mean three, get three.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1303.0,
+      "end": 1307.5,
+      "person": "User",
+      "text": "You can have another one. How many do we need exactly?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1307.5,
+      "end": 1312.0,
+      "person": "H",
+      "text": "Per petal... one per petal.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1312.0,
+      "end": 1316.5,
+      "person": "H",
+      "text": "We need three.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1316.5,
+      "end": 1321.0,
+      "person": "User",
+      "text": "So I gave you three.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1354.0,
+      "end": 1359.2,
+      "person": "G",
+      "text": "B4 C16",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1359.2,
+      "end": 1364.4,
+      "person": "G",
+      "text": "Is this B4?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1364.4,
+      "end": 1369.6,
+      "person": "H",
+      "text": "Yeah",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1369.6,
+      "end": 1374.8,
+      "person": "G",
+      "text": "No, this is B1",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1374.8,
+      "end": 1380.0,
+      "person": "G",
+      "text": "2 B1 and 1 B4",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1405.0,
+      "end": 1411.667,
+      "person": "G",
+      "text": "Alright the first three petals",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1411.667,
+      "end": 1418.333,
+      "person": "G",
+      "text": "This should be...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1418.333,
+      "end": 1425.0,
+      "person": "G",
+      "text": "Two",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1425.0,
+      "end": 1430.333,
+      "person": "G",
+      "text": "Do you want to put yours?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1430.333,
+      "end": 1435.667,
+      "person": "H",
+      "text": "Should it go in here?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1435.667,
+      "end": 1441.0,
+      "person": "G",
+      "text": "Yeah",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1455.0,
+      "end": 1470.0,
+      "person": "G",
+      "text": "B3, C4, B1, and 2.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1470.0,
+      "end": 1475.0,
+      "person": "User",
+      "text": "Needs how many C4?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1475.0,
+      "end": 1480.0,
+      "person": "G",
+      "text": "One C4.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1480.0,
+      "end": 1485.0,
+      "person": "G",
+      "text": "One C4 and one C8.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1485.0,
+      "end": 1490.0,
+      "person": "User",
+      "text": "Are you sure only one C4?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1490.0,
+      "end": 1495.0,
+      "person": "G",
+      "text": "No, I mean, for this one, one C4. For the next step, another C4.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1495.0,
+      "end": 1500.0,
+      "person": "User",
+      "text": "Okay. Two C4 I guess.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1500.0,
+      "end": 1504.286,
+      "person": "G",
+      "text": "C4 and another C8 right?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1504.286,
+      "end": 1508.571,
+      "person": "H",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1508.571,
+      "end": 1512.857,
+      "person": "G",
+      "text": "Two B1 and one B3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1512.857,
+      "end": 1517.143,
+      "person": "G",
+      "text": "This one's B1?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1517.143,
+      "end": 1521.429,
+      "person": "H",
+      "text": "B3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1521.429,
+      "end": 1525.714,
+      "person": "G",
+      "text": "This one's B3?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1525.714,
+      "end": 1530.0,
+      "person": "H",
+      "text": "Two B1?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1530.0,
+      "end": 1545.5,
+      "person": "G",
+      "text": "Yep, two B1 and one B3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1545.5,
+      "end": 1561.0,
+      "person": "G",
+      "text": "C8. This one's C8. You can, you can do this one. So there should be two B3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1561.0,
+      "end": 1566.25,
+      "person": "G",
+      "text": "C4.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1566.25,
+      "end": 1572.5,
+      "person": "User",
+      "text": "C4.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1572.5,
+      "end": 1578.75,
+      "person": "G",
+      "text": "And this C4 will go here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1578.75,
+      "end": 1585.0,
+      "person": "G",
+      "text": "This P3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1585.0,
+      "end": 1596.0,
+      "person": "H",
+      "text": "That's 2 P3s.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1596.0,
+      "end": 1607.0,
+      "person": "G",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1607.0,
+      "end": 1614.667,
+      "person": "G",
+      "text": "So we have this um... we need one C11.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1614.667,
+      "end": 1622.333,
+      "person": "User",
+      "text": "C11.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1622.333,
+      "end": 1630.0,
+      "person": "G",
+      "text": "And 2P3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1630.0,
+      "end": 1657.0,
+      "person": "G",
+      "text": "C8. And this. And C4.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1657.0,
+      "end": 1661.6,
+      "person": "G",
+      "text": "Okay, we need B6 and B9.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1661.6,
+      "end": 1666.2,
+      "person": "G",
+      "text": "For this?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1666.2,
+      "end": 1670.8,
+      "person": "G",
+      "text": "Yep. Here's B6.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1670.8,
+      "end": 1675.4,
+      "person": "G",
+      "text": "Here's B9.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1675.4,
+      "end": 1680.0,
+      "person": "G",
+      "text": "B6 goes right here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1680.0,
+      "end": 1687.667,
+      "person": "G",
+      "text": "I'm gonna go right here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1687.667,
+      "end": 1695.333,
+      "person": "H",
+      "text": "Short ones.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1695.333,
+      "end": 1703.0,
+      "person": "User",
+      "text": "You can put the petals on this one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1703.0,
+      "end": 1709.5,
+      "person": "G",
+      "text": "P4, five petals.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1709.5,
+      "end": 1716.0,
+      "person": "H",
+      "text": "Is this C5?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1716.0,
+      "end": 1721.4,
+      "person": "User",
+      "text": "Yeah, yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1721.4,
+      "end": 1726.8,
+      "person": "H",
+      "text": "C5 and C23?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1726.8,
+      "end": 1732.2,
+      "person": "User",
+      "text": "Yeah, I put those together for you.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1732.2,
+      "end": 1737.6,
+      "person": "H",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1737.6,
+      "end": 1743.0,
+      "person": "G",
+      "text": "This one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1743.0,
+      "end": 1755.5,
+      "person": "H",
+      "text": "I need a tissue, can I go?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1755.5,
+      "end": 1768.0,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1768.0,
+      "end": 1801.0,
+      "person": "User",
+      "text": "Let's put this here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1879.0,
+      "end": 1894.0,
+      "person": "User",
+      "text": "Take B and put it on B and C.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1894.0,
+      "end": 1896.281,
+      "person": "G",
+      "text": "So here's the B, here's the C.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1896.281,
+      "end": 1898.561,
+      "person": "User",
+      "text": "This one right?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1898.561,
+      "end": 1901.422,
+      "person": "H",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 1901.422,
+      "end": 1920.0,
+      "person": "User",
+      "text": "Okay I think... I don't know.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1920.0,
+      "end": 1924.667,
+      "person": "User",
+      "text": "Is this C5?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1924.667,
+      "end": 1929.333,
+      "person": "User",
+      "text": "What? C17?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1929.333,
+      "end": 1934.0,
+      "person": "User",
+      "text": "No, that's not C17.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1934.0,
+      "end": 1938.667,
+      "person": "H",
+      "text": "It's similar to this.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1938.667,
+      "end": 1943.333,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1943.333,
+      "end": 1948.0,
+      "person": "User",
+      "text": "Then this one must be this one over here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1948.0,
+      "end": 1948.46,
+      "person": "G",
+      "text": "I'm a bit confused about the B.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1948.46,
+      "end": 1949.04,
+      "person": "User",
+      "text": "B is this one I think.",
+      "kind": "speech",
+      "timing_source": "whisper_partial_match",
+      "alignment_confidence": "medium"
+    },
+    {
+      "start": 1949.04,
+      "end": 1953.232,
+      "person": "G",
+      "text": "It's this, uh...",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1953.232,
+      "end": 1957.424,
+      "person": "User",
+      "text": "One, two, three... like five petals. This one has five petals.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1957.424,
+      "end": 1961.616,
+      "person": "G",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1961.616,
+      "end": 1965.808,
+      "person": "G",
+      "text": "Also this one also has five petals.",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1965.808,
+      "end": 1970.0,
+      "person": "G",
+      "text": "So this one's...",
+      "kind": "speech",
+      "timing_source": "inferred_after_last_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1970.0,
+      "end": 1974.5,
+      "person": "H",
+      "text": "These are the petals of B3? No.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1974.5,
+      "end": 1979.0,
+      "person": "G",
+      "text": "This one's the B3. This one's... this one's B.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1979.0,
+      "end": 1983.5,
+      "person": "User",
+      "text": "Then...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1983.5,
+      "end": 1988.0,
+      "person": "H",
+      "text": "This is the B4.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1988.0,
+      "end": 1992.5,
+      "person": "User",
+      "text": "Okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1992.5,
+      "end": 1997.0,
+      "person": "G",
+      "text": "And this one's C11. And so... okay.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 1997.0,
+      "end": 2011.0,
+      "person": "G",
+      "text": "So B, B and C.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2011.0,
+      "end": 2025.0,
+      "person": "G",
+      "text": "This goes...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2040.0,
+      "end": 2105.0,
+      "person": "G",
+      "text": "Okay, and this one's C, right? Should go here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2105.0,
+      "end": 2105.05,
+      "person": "G",
+      "text": "How about this one? Did you complete this one?",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2105.05,
+      "end": 2105.1,
+      "person": "H",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2105.1,
+      "end": 2105.15,
+      "person": "G",
+      "text": "Ah, just put, put it...",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2105.15,
+      "end": 2105.28,
+      "person": "User",
+      "text": "Yeah, you just put that over here, right?",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2105.28,
+      "end": 2105.7,
+      "person": "G",
+      "text": "No, sorry, here.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2105.7,
+      "end": 2106.12,
+      "person": "H",
+      "text": "Oh, yep. Just put it there.",
+      "kind": "speech",
+      "timing_source": "interpolated_between_anchors",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2106.12,
+      "end": 2106.28,
+      "person": "G",
+      "text": "C26.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2148.0,
+      "end": 2160.0,
+      "person": "G",
+      "text": "We need the C26 to lock this here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2180.0,
+      "end": 2212.0,
+      "person": "H",
+      "text": "I'm looking for this.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2212.0,
+      "end": 2213.875,
+      "person": "G",
+      "text": "This one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2213.875,
+      "end": 2215.75,
+      "person": "User",
+      "text": "I think this is this one right like",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2215.75,
+      "end": 2217.625,
+      "person": "H",
+      "text": "No.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2217.625,
+      "end": 2219.5,
+      "person": "User",
+      "text": "That one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2219.5,
+      "end": 2221.375,
+      "person": "User",
+      "text": "Yeah wait wait let me put this one here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2221.375,
+      "end": 2223.25,
+      "person": "User",
+      "text": "Oh so this is this one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2223.25,
+      "end": 2225.125,
+      "person": "User",
+      "text": "Then which one is that?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2225.125,
+      "end": 2227.0,
+      "person": "H",
+      "text": "I couldn't find it.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2227.0,
+      "end": 2228.875,
+      "person": "User",
+      "text": "Is this?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2228.875,
+      "end": 2230.75,
+      "person": "H",
+      "text": "I think that.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2230.75,
+      "end": 2232.625,
+      "person": "G",
+      "text": "You can take this apart.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2232.625,
+      "end": 2234.5,
+      "person": "H",
+      "text": "C2.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2234.5,
+      "end": 2236.375,
+      "person": "G",
+      "text": "Let's take this apart and see.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2236.375,
+      "end": 2238.25,
+      "person": "G",
+      "text": "Okay so this one's C4.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2238.25,
+      "end": 2240.125,
+      "person": "G",
+      "text": "And this one's C5.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2240.125,
+      "end": 2242.0,
+      "person": "H",
+      "text": "Yep.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2242.0,
+      "end": 2248.0,
+      "person": "G",
+      "text": "Look at the B15.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2248.0,
+      "end": 2254.0,
+      "person": "User",
+      "text": "B15.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2254.0,
+      "end": 2260.0,
+      "person": "G",
+      "text": "The direction...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2280.0,
+      "end": 2290.0,
+      "person": "H",
+      "text": "I think this one and this one is the same.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2290.0,
+      "end": 2300.0,
+      "person": "H",
+      "text": "No. This one's C2.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2300.0,
+      "end": 2310.0,
+      "person": "G",
+      "text": "No. Sorry.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2325.0,
+      "end": 2350.0,
+      "person": null,
+      "text": "[Person G coughs]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2370.0,
+      "end": 2385.5,
+      "person": "H",
+      "text": "And this one goes here, so here.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2385.5,
+      "end": 2401.0,
+      "person": "G",
+      "text": "And this one is this one.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2438.0,
+      "end": 2456.5,
+      "person": "B",
+      "text": "So we recorded 40 mins.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2456.5,
+      "end": 2475.0,
+      "person": "User",
+      "text": "Okay, so far no problem.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2520.0,
+      "end": 2525.0,
+      "person": "G",
+      "text": "Now we need to see C3, C5.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2525.0,
+      "end": 2530.0,
+      "person": "G",
+      "text": "You also need one C6 and C7.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2530.0,
+      "end": 2535.0,
+      "person": "G",
+      "text": "Is this C6, C7?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2535.0,
+      "end": 2540.0,
+      "person": "User",
+      "text": "Hmm?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2540.0,
+      "end": 2545.0,
+      "person": "G",
+      "text": "No, no, no, no, don't...",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2545.0,
+      "end": 2570.0,
+      "person": "G",
+      "text": "You need C7 and C6, right?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2570.0,
+      "end": 2582.5,
+      "person": "G",
+      "text": "So this one C7, so two.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2582.5,
+      "end": 2595.0,
+      "person": "G",
+      "text": "B1 and C6, B3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2595.0,
+      "end": 2625.0,
+      "person": "G",
+      "text": "Two B1.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2640.0,
+      "end": 2648.0,
+      "person": "G",
+      "text": "Need a B4. Can you give me a B4?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2648.0,
+      "end": 2656.0,
+      "person": "User",
+      "text": "B4 or D4?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2656.0,
+      "end": 2664.0,
+      "person": "H",
+      "text": "B4",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2664.0,
+      "end": 2672.0,
+      "person": "G",
+      "text": "B4",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2700.0,
+      "end": 2735.0,
+      "person": "G",
+      "text": "B4",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2735.0,
+      "end": 2741.25,
+      "person": "G",
+      "text": "Okay, we need a C2 and C4.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2741.25,
+      "end": 2747.5,
+      "person": "G",
+      "text": "Five B3.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2747.5,
+      "end": 2753.75,
+      "person": "G",
+      "text": "Need another C4.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2753.75,
+      "end": 2760.0,
+      "person": "User",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2760.0,
+      "end": 2768.261,
+      "person": "G",
+      "text": "I saw a C1.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2768.261,
+      "end": 2776.522,
+      "person": "G",
+      "text": "This is this one. C1.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2776.522,
+      "end": 2784.783,
+      "person": "H",
+      "text": "Wait. It's okay.",
+      "kind": "speech",
+      "timing_source": "inferred_before_first_anchor",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2784.783,
+      "end": 2786.015,
+      "person": "H",
+      "text": "So this one goes in front.",
+      "kind": "speech",
+      "timing_source": "whisper_exact_match",
+      "alignment_confidence": "high"
+    },
+    {
+      "start": 2820.0,
+      "end": 2880.0,
+      "person": null,
+      "text": "[Rustling of tissue]",
+      "kind": "sound",
+      "timing_source": "caption_segment_inferred",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2880.0,
+      "end": 2888.75,
+      "person": "H",
+      "text": "This one came off.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2888.75,
+      "end": 2897.5,
+      "person": "G",
+      "text": "Yeah.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2897.5,
+      "end": 2906.25,
+      "person": "G",
+      "text": "No. Now what?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2906.25,
+      "end": 2915.0,
+      "person": "G",
+      "text": "Have to put that.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2915.0,
+      "end": 2935.0,
+      "person": "G",
+      "text": "Next page.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2935.0,
+      "end": 2939.143,
+      "person": "User",
+      "text": "Can you check the time?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2939.143,
+      "end": 2943.286,
+      "person": "B",
+      "text": "48.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2943.286,
+      "end": 2947.429,
+      "person": "User",
+      "text": "How much battery?",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2947.429,
+      "end": 2951.571,
+      "person": "B",
+      "text": "90%.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2951.571,
+      "end": 2955.714,
+      "person": "B",
+      "text": "That is 13% only.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2955.714,
+      "end": 2959.857,
+      "person": "User",
+      "text": "Okay, let's pause the recording now.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    },
+    {
+      "start": 2959.857,
+      "end": 2964.0,
+      "person": "User",
+      "text": "Okay, let's put that one first then.",
+      "kind": "speech",
+      "timing_source": "caption_segment_evenly_distributed",
+      "alignment_confidence": "low"
+    }
+  ]
+}

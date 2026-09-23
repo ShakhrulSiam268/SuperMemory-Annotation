@@ -1,0 +1,1562 @@
+[
+  {
+    "start": 227.7130000000002,
+    "end": 229.23599999999988,
+    "text": "Should I skim over the entire thing?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 231.48100000000022,
+    "end": 232.30200000000013,
+    "text": "It is pretty long.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 235.3090000000002,
+    "end": 235.88999999999987,
+    "text": "Start making.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 238.73599999999988,
+    "end": 238.89600000000019,
+    "text": "Sure.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 268.67999999999984,
+    "end": 268.8800000000001,
+    "text": "Yes.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 446.33899999999994,
+    "end": 453.8209999999999,
+    "text": "So it says one of this and four of these wheels.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 454.58100000000013,
+    "end": 459.0630000000001,
+    "text": "Yeah, I don't think we have four in packet one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 459.14300000000003,
+    "end": 461.0830000000001,
+    "text": "We have some in the other packets.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 462.96399999999994,
+    "end": 463.904,
+    "text": "OK, let's continue.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 465.7649999999999,
+    "end": 469.00599999999986,
+    "text": "If we need more, we can open other packets, I think.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 470.28600000000006,
+    "end": 473.52700000000004,
+    "text": "So we need this one.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 473.8069999999998,
+    "end": 475.9880000000003,
+    "text": "Yes, and we also need this color.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 477.15599999999995,
+    "end": 484.15999999999985,
+    "text": "The red ones... Yeah, let me assemble all of the parts like the similar ones together.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 495.60499999999956,
+    "end": 498.10699999999997,
+    "text": "This is the base of the wheel, I think, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 504.97999999999956,
+    "end": 520.8519999999999,
+    "text": "the final outcome should look something like this yes and this is only the first part and then we have an upper part is it also from packet one yes okay so let's open this also",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 560.451,
+    "end": 563.3519999999999,
+    "text": "Okay, so now we have all the parts.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 563.4120000000003,
+    "end": 572.5559999999996,
+    "text": "So first we need to glue the screw.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 574.2969999999996,
+    "end": 577.6189999999997,
+    "text": "And it will go into the red one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 579.4399999999996,
+    "end": 580.8999999999996,
+    "text": "In this way.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 583.7219999999998,
+    "end": 584.6819999999998,
+    "text": "Okay, let's see.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 600.4620000000004,
+    "end": 601.4830000000002,
+    "text": "We start from here, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 602.1629999999996,
+    "end": 602.3630000000003,
+    "text": "Yes.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 605.7849999999999,
+    "end": 613.0889999999999,
+    "text": "And then we need one of these.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 613.9300000000003,
+    "end": 615.0100000000002,
+    "text": "One of these, yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 615.2700000000004,
+    "end": 618.5320000000002,
+    "text": "Oops.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 621.1540000000005,
+    "end": 627.3969999999999,
+    "text": "Yeah, it's the other way.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 627.6779999999999,
+    "end": 628.518,
+    "text": "It's the other way, yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 630.2860000000001,
+    "end": 633.6869999999999,
+    "text": "I think this is correct.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 634.4070000000002,
+    "end": 637.1270000000004,
+    "text": "Just connect it with the gray one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 638.2070000000003,
+    "end": 639.5479999999998,
+    "text": "And we have two of these, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 639.9279999999999,
+    "end": 640.1679999999997,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 640.6880000000001,
+    "end": 641.7879999999996,
+    "text": "So we start one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 644.308,
+    "end": 654.6700000000001,
+    "text": "Maybe you can just take these off and",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 660.3540000000003,
+    "end": 661.9759999999997,
+    "text": "Try the other way around.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 662.3969999999999,
+    "end": 662.9380000000001,
+    "text": "Let's see.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 665.1800000000003,
+    "end": 665.8209999999999,
+    "text": "This should work.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 666.0420000000004,
+    "end": 666.8630000000003,
+    "text": "Those are bidirectional.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 667.5439999999999,
+    "end": 668.3850000000002,
+    "text": "Bidirectional, yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 669.0659999999998,
+    "end": 670.2870000000003,
+    "text": "So either way should be fine.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 672.7709999999997,
+    "end": 675.4340000000002,
+    "text": "No, they're actually not symmetrical.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 677.2160000000003,
+    "end": 678.058,
+    "text": "Maybe this will work.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 702.0320000000002,
+    "end": 725.259,
+    "text": "oh nice okay okay so we have uh this structure so now we need to build this so do you have black one i'm not sure it looks a little different these are",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 729.7039999999997,
+    "end": 757.0230000000001,
+    "text": "but this looks like longer than this so I think I'm not sure if these two are same because there is some color yeah color changes also this color match with this but it's shorter so okay let's find out if we are missing anything oh I think yeah this one yeah I think these are the okay so we need one black",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 758.8370000000004,
+    "end": 769.192,
+    "text": "okay let's connect it okay so we need two more two blue yeah",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 794.656,
+    "end": 799.8580000000002,
+    "text": "so i have connected this and so i need this one",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 848.1679999999997,
+    "end": 849.6279999999997,
+    "text": "So, I have this architecture ready.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 851.0889999999999,
+    "end": 853.2489999999998,
+    "text": "So, does that look the same?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 855.3900000000003,
+    "end": 856.3900000000003,
+    "text": "Yeah, I think so.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 856.9499999999998,
+    "end": 858.1099999999997,
+    "text": "Is this...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 858.4300000000003,
+    "end": 859.21,
+    "text": "It's inside, yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 860.6509999999998,
+    "end": 861.951,
+    "text": "So, we have built this one.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 863.2709999999997,
+    "end": 864.0110000000004,
+    "text": "Wait.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 865.0510000000004,
+    "end": 866.8519999999999,
+    "text": "It's the downward side, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 867.1719999999996,
+    "end": 868.4520000000002,
+    "text": "So, they have four.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 871.5929999999998,
+    "end": 873.2730000000001,
+    "text": "They have all of these on the same side.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 873.5129999999999,
+    "end": 876.6540000000005,
+    "text": "And you have... Yeah, you're right.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 877.094,
+    "end": 877.2939999999999,
+    "text": "So...",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 883.2290000000003,
+    "end": 884.4579999999996,
+    "text": "It goes the other side.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 915.4499999999998,
+    "end": 927.9799999999996,
+    "text": "it looks good yeah looks good okay so this is the first one why you use this here so now let's start the next one",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 948.893,
+    "end": 950.8940000000002,
+    "text": "Okay, so we need more screws.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 954.3959999999997,
+    "end": 958.9979999999996,
+    "text": "Okay, yeah, we need one of these.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 962.04,
+    "end": 963.9610000000002,
+    "text": "Yeah, and four of these.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 964.6009999999997,
+    "end": 966.2820000000002,
+    "text": "Yeah, we have everything.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 967.4629999999997,
+    "end": 968.5839999999998,
+    "text": "So four of this and one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 970.3850000000002,
+    "end": 974.5870000000004,
+    "text": "Okay, so can you read me which position do I need to connect this?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 975.8900000000003,
+    "end": 1000.2960000000003,
+    "text": "um it's the same one from last time right yes okay then so basically we need these four so it's uh it's on the same side as the red yes the top so but then again we don't have okay we are missing four here so we need to have the four blues first yes yes now it looks okay",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1009.9830000000002,
+    "end": 1012.625,
+    "text": "Then we need the black one, this one.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1013.7449999999999,
+    "end": 1016.3670000000002,
+    "text": "It's the dark grey one and we have a light grey as well.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1016.8069999999998,
+    "end": 1018.5079999999998,
+    "text": "It's the dark grey.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1018.5280000000002,
+    "end": 1020.3689999999997,
+    "text": "Which direction?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1020.8689999999997,
+    "end": 1021.469,
+    "text": "From the top.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1021.79,
+    "end": 1026.0519999999997,
+    "text": "And this is the head from the top.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1027.0119999999997,
+    "end": 1028.4129999999996,
+    "text": "This one?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1028.433,
+    "end": 1029.8339999999998,
+    "text": "Yes, I think so.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1030.8140000000003,
+    "end": 1031.0150000000003,
+    "text": "Yes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1032.3149999999996,
+    "end": 1033.2359999999999,
+    "text": "It goes all the way in.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1035.437,
+    "end": 1037.3379999999997,
+    "text": "Then we need another red, right?",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1038.2179999999998,
+    "end": 1039.1390000000001,
+    "text": "Yes, another red.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1044.2489999999998,
+    "end": 1072.5320000000002,
+    "text": "uh no the other side wait um hey this didn't fit okay yes yes yes you're holding it in that direction yes this way yes and then you add the top okay yeah",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1073.8360000000002,
+    "end": 1074.2359999999999,
+    "text": "Just do it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1079.3999999999996,
+    "end": 1079.621,
+    "text": "Yes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1084.1239999999998,
+    "end": 1085.1850000000004,
+    "text": "It stays in place, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1085.3649999999998,
+    "end": 1085.545,
+    "text": "Yes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1085.866,
+    "end": 1086.326,
+    "text": "Okay, then.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1088.5879999999997,
+    "end": 1089.8490000000002,
+    "text": "Yeah, I think this part is done.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1089.8890000000001,
+    "end": 1090.6099999999997,
+    "text": "Yeah, looks good.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1090.71,
+    "end": 1094.9930000000004,
+    "text": "So let's start.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1095.0529999999999,
+    "end": 1100.357,
+    "text": "So in this part, we need two of these smaller ones.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1101.7380000000003,
+    "end": 1102.379,
+    "text": "One blue.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1104.0479999999998,
+    "end": 1131.79,
+    "text": "okay so we have a short blue one and a gray it's not the gray i'm guessing this one yeah and then we need a wheel yeah one wheel yes and then we need a red yeah i think this is it yeah that's all so you start with the wheel",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1133.1260000000002,
+    "end": 1133.7870000000003,
+    "text": "Starting with the wheel?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1134.027,
+    "end": 1134.7470000000003,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1134.7870000000003,
+    "end": 1135.2879999999996,
+    "text": "Let's see.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1137.509,
+    "end": 1140.071,
+    "text": "It goes upward like this.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1140.6509999999998,
+    "end": 1140.991,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1141.812,
+    "end": 1142.8729999999996,
+    "text": "So the wheel goes here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1143.1530000000002,
+    "end": 1143.4129999999996,
+    "text": "Here?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1143.6329999999998,
+    "end": 1143.853,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1144.0330000000004,
+    "end": 1144.3140000000003,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1145.4340000000002,
+    "end": 1146.495,
+    "text": "Do I need anything?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1146.5749999999998,
+    "end": 1148.5559999999996,
+    "text": "Yeah, you need a red screw for that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1149.0569999999998,
+    "end": 1149.437,
+    "text": "Okay.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1149.5370000000003,
+    "end": 1149.9570000000003,
+    "text": "I think this...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1150.558,
+    "end": 1151.138,
+    "text": "Which position?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1151.3980000000001,
+    "end": 1153.1400000000003,
+    "text": "Starting from...",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1153.1999999999998,
+    "end": 1153.8400000000001,
+    "text": "It's in the middle.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1154.8010000000004,
+    "end": 1156.5020000000004,
+    "text": "Like 1, 2, 3, 4.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1156.8419999999996,
+    "end": 1158.7030000000004,
+    "text": "From this to the 4.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1160.7650000000003,
+    "end": 1161.125,
+    "text": "This one?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1165.8220000000001,
+    "end": 1187.7160000000003,
+    "text": "yeah one two three four four here yeah one yeah i'm confused because because if you see that there is like too many holes there but if you look at this there is like one gap so i am confused because if we place the right part here",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1190.1099999999997,
+    "end": 1205.0379999999996,
+    "text": "yeah but the color doesn't match right because this one is like more oh yes this is the one we made a mistake here yeah that's fine",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1232.8140000000003,
+    "end": 1238.9790000000003,
+    "text": "So it's like one gap.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1242.1409999999996,
+    "end": 1243.1819999999998,
+    "text": "Not really.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1243.6620000000003,
+    "end": 1244.6629999999996,
+    "text": "You made a mistake here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1244.8230000000003,
+    "end": 1245.9840000000004,
+    "text": "You have to take this one out.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1247.165,
+    "end": 1247.8050000000003,
+    "text": "Take this one out.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1250.3500000000004,
+    "end": 1256.3140000000003,
+    "text": "So the blue at the end, and then there's a gap, and then the other blue.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1256.375,
+    "end": 1258.4160000000002,
+    "text": "I can put it like in this way.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1258.996,
+    "end": 1259.4570000000003,
+    "text": "No, no, no.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1259.4970000000003,
+    "end": 1261.1580000000004,
+    "text": "The gap has to be in the black one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1261.1779999999999,
+    "end": 1261.4179999999997,
+    "text": "See?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1261.7380000000003,
+    "end": 1262.1589999999997,
+    "text": "The black.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1262.9189999999999,
+    "end": 1263.3400000000001,
+    "text": "The black.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1263.8400000000001,
+    "end": 1264.3599999999997,
+    "text": "Not the red.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1265.161,
+    "end": 1266.1620000000003,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1266.442,
+    "end": 1266.7420000000002,
+    "text": "Got it?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1266.862,
+    "end": 1267.723,
+    "text": "Yeah, you have to take it out.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1271.4260000000004,
+    "end": 1275.9489999999996,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1276.6180000000004,
+    "end": 1300.2150000000001,
+    "text": "now just place it on top yeah here and then this one gap then from here okay the blue one yeah then one gap another one all right now it looks good yeah looks good",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1302.2079999999996,
+    "end": 1305.29,
+    "text": "So now we need to place the wheel.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1305.4499999999998,
+    "end": 1306.7309999999998,
+    "text": "The wheel at the bottom.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1308.031,
+    "end": 1309.3720000000003,
+    "text": "And then there's a red.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1310.3729999999996,
+    "end": 1313.3140000000003,
+    "text": "There's supposed to be a red small thing at the end.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1313.754,
+    "end": 1314.9350000000004,
+    "text": "So this one?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1315.455,
+    "end": 1316.3760000000002,
+    "text": "Yeah, yeah, that one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1316.8760000000002,
+    "end": 1318.0569999999998,
+    "text": "Okay, I can place this one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1325.9409999999998,
+    "end": 1328.0020000000004,
+    "text": "Okay, you have to set up the wheel first.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1329.0829999999996,
+    "end": 1330.6440000000002,
+    "text": "Sorry.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1330.6840000000002,
+    "end": 1331.1840000000002,
+    "text": "No, you're fine.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1331.8379999999997,
+    "end": 1334.42,
+    "text": "You have to set up the wheel first before you...",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1335.2209999999995,
+    "end": 1337.3029999999999,
+    "text": "So you start with these three steps.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1337.5230000000001,
+    "end": 1339.0640000000003,
+    "text": "No, no, no, no.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1339.1639999999998,
+    "end": 1340.1049999999996,
+    "text": "Don't attach it yet.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1340.2650000000003,
+    "end": 1341.6059999999998,
+    "text": "You have to set up the wheel first.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1345.8500000000004,
+    "end": 1348.2520000000004,
+    "text": "This is what we had in packet one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1352.996,
+    "end": 1353.5159999999996,
+    "text": "Let's see.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1354.6769999999997,
+    "end": 1355.478,
+    "text": "The other packets.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1358.04,
+    "end": 1358.281,
+    "text": "Hmm.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1360.42,
+    "end": 1369.2489999999998,
+    "text": "we had this one in packet one and the others are in the other packets okay okay",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1398.2150000000001,
+    "end": 1401.616,
+    "text": "Yeah, no, these are the four wheels that they mentioned.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1401.8360000000002,
+    "end": 1407.8580000000002,
+    "text": "Yeah, so this is the one Why do we need this?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1407.9179999999997,
+    "end": 1418.6809999999996,
+    "text": "No two of this and one of this Yeah, I have I have this here I",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1428.442,
+    "end": 1456.7740000000003,
+    "text": "and the blue one the blue one yeah and the gray one yeah i have everything here you need to put the gray one over it first oh",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1459.9470000000001,
+    "end": 1466.9340000000002,
+    "text": "this one",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1494.2749999999996,
+    "end": 1520.4750000000004,
+    "text": "you only need one blue and one red okay so that's it and now you attach it to the result over there so the third position right yes I can attach it here",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1537.9399999999996,
+    "end": 1539.8220000000001,
+    "text": "oh on the same side of the red one",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1566.7690000000002,
+    "end": 1592.737,
+    "text": "this one is the this one yeah uh we have one no not this one we have this yeah this one red one and this one yeah we have all the four items no no we'll do this get the second one through and then attach the gear on top",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1609.5900000000001,
+    "end": 1610.7700000000004,
+    "text": "And then attach it to here.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1611.75,
+    "end": 1612.25,
+    "text": "Using the T?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1612.2700000000004,
+    "end": 1612.451,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1613.5910000000003,
+    "end": 1613.7110000000002,
+    "text": "OK.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1614.0910000000003,
+    "end": 1616.4709999999995,
+    "text": "So T is in this way, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1616.5510000000004,
+    "end": 1616.6710000000003,
+    "text": "Yes.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1628.7129999999997,
+    "end": 1630.754,
+    "text": "And that has to go.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1630.7740000000003,
+    "end": 1631.134,
+    "text": "On, down.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1631.9139999999998,
+    "end": 1632.1540000000005,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1636.5950000000003,
+    "end": 1637.3549999999996,
+    "text": "Is the red blue?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1637.375,
+    "end": 1638.4750000000004,
+    "text": "Yeah, one blue, yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1638.9930000000004,
+    "end": 1639.9539999999997,
+    "text": "I think you have this one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1668.674,
+    "end": 1669.0739999999996,
+    "text": "Red.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1669.174,
+    "end": 1669.495,
+    "text": "This.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1670.6350000000002,
+    "end": 1672.9170000000004,
+    "text": "You can check if it's correct.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1672.9970000000003,
+    "end": 1676.5590000000002,
+    "text": "Oh, okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1676.6189999999997,
+    "end": 1677.7399999999998,
+    "text": "And then you have two of these.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1680.4009999999998,
+    "end": 1681.362,
+    "text": "Two of blue, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1682.8029999999999,
+    "end": 1683.844,
+    "text": "So this is long blue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1684.2839999999997,
+    "end": 1685.4650000000001,
+    "text": "I have three long blue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1686.8860000000004,
+    "end": 1693.5900000000001,
+    "text": "And on both sides.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1693.6099999999997,
+    "end": 1695.6710000000003,
+    "text": "One and... One apart.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1696.4319999999998,
+    "end": 1696.612,
+    "text": "This.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1696.652,
+    "end": 1696.812,
+    "text": "This.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1698.2749999999996,
+    "end": 1723.2920000000004,
+    "text": "okay now for 13 you need to get one of these and one of the black one two of these black means this one i think black and one of red red this one okay so you have all the",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1728.9539999999997,
+    "end": 1737.1360000000004,
+    "text": "So this will be in the top and then this will be in this way.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1737.8360000000002,
+    "end": 1740.397,
+    "text": "So the blue one is this.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1741.6369999999997,
+    "end": 1745.2579999999998,
+    "text": "You didn't add the black one.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1745.8980000000001,
+    "end": 1746.1980000000003,
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1748.4989999999998,
+    "end": 1749.679,
+    "text": "So one apart.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1750.179,
+    "end": 1751.679,
+    "text": "Here is one red.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1753.2600000000002,
+    "end": 1754.5,
+    "text": "And we need another red.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1755.1999999999998,
+    "end": 1755.7600000000002,
+    "text": "Two apart.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1757.6409999999996,
+    "end": 1758.1009999999997,
+    "text": "Two apart.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1758.121,
+    "end": 1758.9210000000003,
+    "text": "Yeah, that's correct.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 1761.5320000000002,
+    "end": 1781.2479999999996,
+    "text": "and the black one in the middle right on the opposite direction of the okay yeah okay now put it together",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1817.6149999999998,
+    "end": 1818.9160000000002,
+    "text": "So we need another wheel.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1821.9179999999997,
+    "end": 1822.3590000000004,
+    "text": "Here.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1822.379,
+    "end": 1822.719,
+    "text": "Just one.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1829.371,
+    "end": 1830.1130000000003,
+    "text": "under one view.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1830.1530000000002,
+    "end": 1832.0200000000004,
+    "text": "And we need some components.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1862.165,
+    "end": 1862.745,
+    "text": "Here, take a look here.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1862.7650000000003,
+    "end": 1863.8059999999996,
+    "text": "Let's put it in the wrong direction.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1863.826,
+    "end": 1864.0069999999996,
+    "text": "This one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1864.027,
+    "end": 1864.2269999999999,
+    "text": "This one.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 1897.0429999999997,
+    "end": 1925.0519999999997,
+    "text": "put it on the wheel put it on the same okay this way you need a black one over here oh this one so we need another oh another layer of black oh i think you put the",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1936.9309999999996,
+    "end": 1943.3549999999996,
+    "text": "No, I think you put the black one over here.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 1943.4750000000004,
+    "end": 1945.277,
+    "text": "So we have these two.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1945.6970000000001,
+    "end": 1946.938,
+    "text": "So we just need this part here.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1946.9579999999996,
+    "end": 1948.6390000000001,
+    "text": "So we need another black.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 1950.7200000000003,
+    "end": 1953.3019999999997,
+    "text": "Oh, yeah.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1953.6019999999999,
+    "end": 1956.2439999999997,
+    "text": "So far we have this.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1957.8050000000003,
+    "end": 1960.527,
+    "text": "So we need to prepare this first with two blue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1962.8490000000002,
+    "end": 1964.79,
+    "text": "So we need these two blue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1966.6549999999997,
+    "end": 1967.375,
+    "text": "First we need two.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1967.3950000000004,
+    "end": 1971.277,
+    "text": "Insert one red here.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1972.2569999999996,
+    "end": 1977.759,
+    "text": "Then one blue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1977.839,
+    "end": 1984.4009999999998,
+    "text": "And then another blue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 1999.4049999999997,
+    "end": 2004.2889999999998,
+    "text": "There should be one gap here.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2004.4489999999996,
+    "end": 2010.4530000000004,
+    "text": "Alright, now attach this.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2021.661,
+    "end": 2023.9030000000002,
+    "text": "Now get two of these and attach it over both.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2028.5150000000003,
+    "end": 2043.92,
+    "text": "I think it's the short oh this it looks short here okay",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2059.987,
+    "end": 2072.1440000000002,
+    "text": "you need to attach two of these make two make another one of these and attach it the gray thing",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2081.867,
+    "end": 2083.308,
+    "text": "You need one blue, I think.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2083.589,
+    "end": 2085.0299999999997,
+    "text": "Yeah, you need one blue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2086.371,
+    "end": 2087.5119999999997,
+    "text": "You need one red.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2087.572,
+    "end": 2089.634,
+    "text": "This is the red.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2090.335,
+    "end": 2091.2349999999997,
+    "text": "And the gray one.",
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "start": 2092.5969999999998,
+    "end": 2096.941,
+    "text": "Can you see any gray?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2099.2830000000004,
+    "end": 2099.9629999999997,
+    "text": "I have it here.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2100.103,
+    "end": 2100.4840000000004,
+    "text": "OK, got it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2150.8050000000003,
+    "end": 2156.367,
+    "text": "Can you help me take this off, this one?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2176.1549999999997,
+    "end": 2177.035,
+    "text": "Red in the middle, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2185.8280000000004,
+    "end": 2192.2709999999997,
+    "text": "No, attach it to... Oh, the blue.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2192.5110000000004,
+    "end": 2193.411,
+    "text": "Attach it to this one?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2193.6310000000003,
+    "end": 2193.8509999999997,
+    "text": "Yes.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2194.392,
+    "end": 2196.6719999999996,
+    "text": "Both of these here.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2196.7529999999997,
+    "end": 2200.2740000000003,
+    "text": "Yeah, so I think we need to flip this direction.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2217.415,
+    "end": 2221.178,
+    "text": "Yes.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2221.298,
+    "end": 2221.4179999999997,
+    "text": "Yes.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2252.099,
+    "end": 2253.6400000000003,
+    "text": "So we have this one here.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2255.1000000000004,
+    "end": 2256.8010000000004,
+    "text": "It goes across, yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2256.9809999999998,
+    "end": 2257.7209999999995,
+    "text": "This one here.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2258.5420000000004,
+    "end": 2265.8050000000003,
+    "text": "So we need to connect it using this.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2266.585,
+    "end": 2267.126,
+    "text": "Does it fit?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2267.4660000000003,
+    "end": 2267.6859999999997,
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2292.5280000000002,
+    "end": 2294.8289999999997,
+    "text": "So, we still need that screw, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2295.67,
+    "end": 2295.91,
+    "text": "Right.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2296.41,
+    "end": 2297.951,
+    "text": "Okay.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2297.991,
+    "end": 2301.3329999999996,
+    "text": "But just place it on top.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2301.4530000000004,
+    "end": 2303.294,
+    "text": "I think this is the correct way.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2303.334,
+    "end": 2306.535,
+    "text": "Both of them are the same.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2307.7960000000003,
+    "end": 2310.3370000000004,
+    "text": "Yeah, the red goes down.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 2310.5370000000003,
+    "end": 2318.1009999999997,
+    "text": "So, one side would be through there, yeah?",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2324.5690000000004,
+    "end": 2351.83,
+    "text": "and there should be another need to put something there in this position there should already have been a blue one over there oh there is a blue one but it's in no no that's different there is another blue so yeah put this over here",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2353.059,
+    "end": 2353.58,
+    "text": "Lock everything in place.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2353.6000000000004,
+    "end": 2354.16,
+    "text": "Lock everything in place.",
+    "speaker": "UNKNOWN"
+  },
+  {
+    "start": 2401.978,
+    "end": 2412.281,
+    "text": "Oh wait, one gap.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2431.6450000000004,
+    "end": 2432.285,
+    "text": "No gap there.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2434.946,
+    "end": 2440.728,
+    "text": "Oh, yeah, just put it there.",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 2441.388,
+    "end": 2453.2309999999998,
+    "text": "All four?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2454.0119999999997,
+    "end": 2454.932,
+    "text": "All three?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": 2455.432,
+    "end": 2455.5519999999997,
+    "text": "Three.",
+    "speaker": "SPEAKER_02"
+  }
+]
